@@ -27,11 +27,16 @@ export default function Layout({ children, title = "HP by Nextjs" }) {
                                     Contact
                                 </a>
                             </Link>
+                            <Link href="/signin">
+                                <a className="text-gray-300 hover:bg-gray-700 px-3 py-2 rounded">
+                                    Sign In
+                                </a>
+                            </Link>
                         </div>
                     </div>
                 </nav>
             </header>
-            <main className="flex flex-1 justify-center items-center flex-col w-full">
+            <main className="flex flex-1 justify-center items-center flex-col w-full bg-gray-50">
                 {children}
             </main>
             <footer className="w-full h-12 flex justify-center items-center border-t">
