@@ -1,7 +1,8 @@
 import Layout from "../components/Layout"
 import Image from "next/image"
-import { signIn, signOut, useSession } from "next-auth/client";
-export default function Signin () {
+import { signIn, signOut, useSession,providers } from "next-auth/client";
+export default function Signin({ providers }) {
+    const [ session, loading ] = useSession()
     return (
         <Layout title="Contact">
             <div className="flex">
@@ -42,9 +43,38 @@ export default function Signin () {
                 <div className="flex-auto px-5">
                     <div className="bg-white text-center shadow-xl p-8 w-96 rounded border">
                         <div className="mb-4">
-                            <button onClick={() => signIn()} className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline" type="button">
-                                GitHub
-                            </button>
+                            {!session && <>
+                                Not signed in <br />
+                                {Object.values(providers).map((provider) => (
+                                    <div key={provider.name}>
+                                        {(() => {
+                                        if (provider.name.toLowerCase() == "github") {
+                                            return (<button onClick={() => signIn(provider.id)} className="bg-black hover:bg-gray-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">
+                                                Sign in with {provider.name}
+                                            </button>)
+                                        }
+                                        else if (provider.name.toLowerCase() == "google") {
+                                            return (<button onClick={() => signIn(provider.id)} className="bg-gray-50 rounded border hover:bg-gray-500 text-black font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">
+                                                Sign in with {provider.name}
+                                            </button>)
+                                        }
+                                            
+                                        else if (provider.name.toLowerCase() == "twitter") {
+                                            return (<button onClick={() => signIn(provider.id)} className="bg-blue-400 rounded border hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">
+                                                Sign in with {provider.name}
+                                            </button>)
+                                        }
+                                        else {
+                                            return <span>Hello</span>
+                                        }
+                                        })()}
+                                    </div>
+                                ))}
+                            </>}
+                            {session && <>
+                            Signed in as {session.user.name} <br/>
+                            <button onClick={signOut}>Sign out</button>
+                            </>}
                         </div>
                         <div className="mb-4">
                         <label className="block text-gray-700 text-sm font-bold mb-2" htmlFor="email">
@@ -76,3 +106,10 @@ export default function Signin () {
         </Layout>
     )
 }
+export async function getStaticProps(context) {
+    return {
+      props: {
+        providers: await providers(context),
+      },
+    }
+  }
