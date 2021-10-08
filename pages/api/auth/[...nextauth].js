@@ -11,9 +11,9 @@ const options = {
         // ...add more providers here
         ],
   // ログインページを指定する。今回はトップページのため'/'を指定。
-  pages: {
+  /*pages: {
     signIn: '/',
-  },
+  },*/
 }
 
 export default (req, res) => NextAuth(req, res, options)
