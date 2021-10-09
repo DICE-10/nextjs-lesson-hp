@@ -27,7 +27,7 @@ const options = {
             return baseUrl
         },*/
         async session({ session, user, token }) {
-            //session.accessToken = token.accessToken;
+            session.accessToken = token.accessToken;
             return session
         },
         async jwt({ token, user, account, profile, isNewUser }) {
@@ -36,14 +36,14 @@ const options = {
             }
             return token
         },
-    },
+    },/*
     pages: {
         signIn: '/signin',
         signOut: '/signin',
         error: '/signin', // Error code passed in query string as ?error=
         verifyRequest: '/signin', // (used for check email message)
         newUser: '/signin' // New users will be directed here on first sign in (leave the property out if not of interest)
-    }
+    }*/
 }
 
 export default (req, res) => NextAuth(req, res, options)
