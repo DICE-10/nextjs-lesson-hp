@@ -18,12 +18,12 @@ const options = {
         // ...add more providers here
     ],
     callbacks: {
-        async signIn({ user, account, profile, email, credentials }) {
+        /*async signIn({ user, account, profile, email, credentials }) {
             return true
         },
         async redirect({ url, baseUrl }) {
-            return process.env.NextAuth+"signin"
-        },
+            return baseUrl
+        },*/
         async session({ session, user, token }) {
             session.accessToken = token.accessToken;
             return session
