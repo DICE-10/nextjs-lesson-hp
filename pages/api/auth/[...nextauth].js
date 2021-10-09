@@ -22,7 +22,7 @@ const options = {
             return true
         },
         async redirect({ url, baseUrl }) {
-            return baseUrl
+            return process.env.NextAuth+"signin"
         },
         async session({ session, user, token }) {
             session.accessToken = token.accessToken;
