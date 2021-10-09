@@ -81,7 +81,8 @@ export default function Signin({ Providers }) {
                                     ))*/}
                             </>}
                             {session && <>
-                            Signed in as {session.user.name} <br/>
+                                Signed in as {session.user.name} <br />
+                                { console.dir(session) }
                             <button onClick={signOut}>Sign out</button>
                             </>}
                         </div>
