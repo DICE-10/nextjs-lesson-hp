@@ -5,7 +5,8 @@ const options = {
     providers: [
         Providers.GitHub({
             clientId: process.env.GITHUB_ID,
-            clientSecret: process.env.GITHUB_SECRET
+            clientSecret: process.env.GITHUB_SECRET,
+            scope: "user:email read:user"
         }),
         Providers.Google({
             clientId: process.env.GOOGLE_CLIENT_ID,
@@ -18,13 +19,13 @@ const options = {
         // ...add more providers here
     ],
     callbacks: {
-        /*async signIn({ user, account, profile, email, credentials }) {
+        async signIn({ user, account, profile, email, credentials }) {
             return true
         },
         async redirect({ url, baseUrl }) {
             console.log(baseUrl);
             return baseUrl
-        },*/
+        },
         async session({ session, user, token }) {
             session.accessToken = token.accessToken;
             return session
