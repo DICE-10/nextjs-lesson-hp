@@ -32,10 +32,18 @@ const options = {
             return token
         }
     },
-  // ログインページを指定する。今回はトップページのため'/'を指定。
-  pages: {
-    signIn: '/signin',
-  },
+    auth: {
+        redirect: {
+          login: '/signin',
+          logout: '/',
+          callback: '/signin',
+          home: '/'
+        },
+        token: {
+            prefix: '_token.',
+            global: true,
+          }
+      },
 }
 
 export default (req, res) => NextAuth(req, res, options)

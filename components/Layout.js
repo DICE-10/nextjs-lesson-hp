@@ -1,9 +1,8 @@
 import Head from "next/head"
 import Link from "next/link"
 import Image from "next/dist/client/image";
-import { signIn, signOut, useSession,providers } from "next-auth/client";
+
 export default function Layout({ children, title = "HP by Nextjs" }) {
-    const [ session, loading ] = useSession()
     return (
         <div className="flex justify-center items-center flex-col min-h-screen text-gray-600 text-sm font-mono">
             <Head>
@@ -37,7 +36,6 @@ export default function Layout({ children, title = "HP by Nextjs" }) {
                     </div>
                 </nav>
             </header>
-            { console.dir(session) }
             <main className="flex flex-1 justify-center items-center flex-col w-full bg-gray-50">
                 {children}
             </main>
