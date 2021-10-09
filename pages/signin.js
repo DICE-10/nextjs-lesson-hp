@@ -1,12 +1,10 @@
 import Layout from "../components/Layout"
 import Image from "next/image"
-import { signIn, signOut, useSession,getProviders } from "next-auth/client";
+import { signIn, signOut, useSession,providers } from "next-auth/client";
 export default function Signin({ Providers }) {
-    const [session] = useSession()
-    
+    const [ session, loading ] = useSession()
     return (
         <Layout title="Contact">
-            {console.dir(session)}
             <div className="flex">
                 <div className="flex-auto px-5">
                     <form className="bg-white text-center shadow-xl p-8 w-96 rounded border">
@@ -84,7 +82,7 @@ export default function Signin({ Providers }) {
                             </>}
                             {session && <>
                                 Signed in as {session.user.name} <br />
-                                
+                                { console.dir(session) }
                             <button onClick={signOut}>Sign out</button>
                             </>}
                         </div>
@@ -98,7 +96,7 @@ export default function Signin({ Providers }) {
     )
 }
 export async function getStaticProps(context) {
-    const Providers = await getProviders(context);
+    const Providers = await providers(context);
     return {
       props: { Providers },
     }

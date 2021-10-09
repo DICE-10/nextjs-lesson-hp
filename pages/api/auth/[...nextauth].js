@@ -5,8 +5,7 @@ const options = {
     providers: [
         Providers.GitHub({
             clientId: process.env.GITHUB_ID,
-            clientSecret: process.env.GITHUB_SECRET,
-            scope: "user:email read:user"
+            clientSecret: process.env.GITHUB_SECRET
         }),
         Providers.Google({
             clientId: process.env.GOOGLE_CLIENT_ID,
@@ -17,15 +16,15 @@ const options = {
             clientSecret: process.env.TWITTER_CLIENT_SECRET
         })
         // ...add more providers here
-    ],
+    ],/*
     callbacks: {
         async signIn({ user, account, profile, email, credentials }) {
-            return account
+            return true
         },
-        /*async redirect({ url, baseUrl }) {
+        async redirect({ url, baseUrl }) {
             console.log(baseUrl);
             return baseUrl
-        },*/
+        },
         async session({ session, user, token }) {
             session.accessToken = token.accessToken;
             return session
@@ -33,10 +32,10 @@ const options = {
         async jwt({ token, user, account, profile, isNewUser }) {
             if (account?.accessToken) {
                 token.accessToken = account.accessToken;
-            }
+              }
             return token
         },
-    },/*
+    },
     pages: {
         signIn: '/signin',
         signOut: '/signin',
