@@ -36,7 +36,7 @@ const options = {
         },
     },
     pages: {
-        signIn: '/auth/signin',
+        signIn: '/signin',
         signOut: '/signin',
         error: '/signin', // Error code passed in query string as ?error=
         verifyRequest: '/signin', // (used for check email message)
