@@ -16,7 +16,7 @@ const options = {
             clientSecret: process.env.TWITTER_CLIENT_SECRET
         })
         // ...add more providers here
-    ]/*,
+    ],
     callbacks: {
         async signIn({ user, account, profile, email, credentials }) {
             return true
@@ -34,7 +34,7 @@ const options = {
               }
             return token
         },
-    },*/,
+    },
     pages: {
         signIn: '/auth/signin',
         signOut: '/signin',
