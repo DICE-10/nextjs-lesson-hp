@@ -23,7 +23,7 @@ const options = {
             return true
         },
         async redirect({ url, baseUrl }) {
-            return baseUrl
+            return baseUrl+"/signin"
         },
         async session({ session, user, token }) {
             return session
@@ -31,9 +31,6 @@ const options = {
         async jwt({ token, user, account, profile, isNewUser }) {
             return token
         },
-        redirect({ url, baseUrl }) {
-            return url.startsWith(baseUrl) ? url : baseUrl
-        }
     },
     pages: {
         signIn: '/signin',
