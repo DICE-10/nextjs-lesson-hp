@@ -16,7 +16,20 @@ const options = {
             clientSecret: process.env.TWITTER_CLIENT_SECRET
         })
         // ...add more providers here
-    ],/*
+    ],
+    callbacks: {
+        async jwt(token, user, account, profile, isNewUser) {           //👈ポイント②
+          if (account?.accessToken) {
+            token.accessToken = account.accessToken;
+          }
+          return token;
+        },
+        async session(session, token) {                                 //👈ポイント③
+          session.accessToken = token.accessToken;
+          return session;
+        },
+      },
+    /*
     callbacks: {
         async signIn({ user, account, profile, email, credentials }) {
             return true
