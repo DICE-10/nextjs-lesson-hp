@@ -3,9 +3,10 @@ import Image from "next/image"
 import { signIn, signOut, useSession,providers } from "next-auth/client";
 export default function Signin({ Providers }) {
     const [session, loading] = useSession()
-    { console.dir(session) }
+    
     return (
         <Layout title="Contact">
+            { console.dir(session) }
             <div className="flex">
                 <div className="flex-auto px-5">
                     <form className="bg-white text-center shadow-xl p-8 w-96 rounded border">
