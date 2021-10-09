@@ -19,16 +19,16 @@ const options = {
         // ...add more providers here
     ],
     callbacks: {
-        signIn({ user, account, profile, email, credentials }) {
+        async signIn({ user, account, profile, email, credentials }) {
             return true
         },
-        redirect({ url, baseUrl }) {
-            return "/signin"
+        async redirect({ url, baseUrl }) {
+            return url
         },
-        session({ session, user, token }) {
+        async session({ session, user, token }) {
             return session
         },
-        jwt({ token, user, account, profile, isNewUser }) {
+        async jwt({ token, user, account, profile, isNewUser }) {
             return token
         },
     },
