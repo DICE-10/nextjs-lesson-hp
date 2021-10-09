@@ -25,13 +25,13 @@ const options = {
             return baseUrl
         },*/
         async session({ session, user, token }) {
-            session.accessToken = token.accessToken;
+           // session.accessToken = token.accessToken;
             return session
         },
         async jwt({ token, user, account, profile, isNewUser }) {
-            if (account?.accessToken) {
+           /* if (account?.accessToken) {
                 token.accessToken = account.accessToken;
-              }
+              }*/
             return token
         },
     },
