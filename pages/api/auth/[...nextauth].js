@@ -22,10 +22,10 @@ const options = {
         async signIn({ user, account, profile, email, credentials }) {
             return account
         },
-        async redirect({ url, baseUrl }) {
+        /*async redirect({ url, baseUrl }) {
             console.log(baseUrl);
             return baseUrl
-        },
+        },*/
         async session({ session, user, token }) {
             session.accessToken = token.accessToken;
             return session
