@@ -22,7 +22,6 @@ const options = {
             return true
         },
         async redirect({ url, baseUrl }) {
-            console.log(baseUrl);
             return baseUrl
         },
         async session({ session, user, token }) {
@@ -45,4 +44,4 @@ const options = {
     }
 }
 
-export default (req, res) => NextAuth(req, res, options)
+export default (req, res, options) => NextAuth(req, res, options)
