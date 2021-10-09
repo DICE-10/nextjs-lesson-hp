@@ -19,13 +19,13 @@ const options = {
         // ...add more providers here
     ],
     callbacks: {
-        /*async signIn({ user, account, profile, email, credentials }) {
-            return true
+        async signIn({ user, account, profile, email, credentials }) {
+            return account
         },
         async redirect({ url, baseUrl }) {
             console.log(baseUrl);
             return baseUrl
-        },*/
+        },
         async session({ session, user, token }) {
             session.accessToken = token.accessToken;
             return session
