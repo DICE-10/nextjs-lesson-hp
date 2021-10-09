@@ -32,18 +32,13 @@ const options = {
             return token
         }
     },
-    auth: {
-        redirect: {
-          login: '/signin',
-          logout: '/',
-          callback: '/signin',
-          home: '/signin'
-        },
-        token: {
-            prefix: '_token.',
-            global: true,
-          }
-      },
+    pages: {
+        signIn: '/signin',
+        signOut: '/signin',
+        error: '/signin', // Error code passed in query string as ?error=
+        verifyRequest: '/signin', // (used for check email message)
+        newUser: '/signin' // New users will be directed here on first sign in (leave the property out if not of interest)
+    }
 }
 
 export default (req, res) => NextAuth(req, res, options)
