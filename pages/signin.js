@@ -6,7 +6,8 @@ export default function Signin({ Providers }) {
     
     return (
         <Layout title="Contact">
-            { console.dir(session) }
+            {console.dir(session)}
+            { console.dir(document.cookie) }
             <div className="flex">
                 <div className="flex-auto px-5">
                     <form className="bg-white text-center shadow-xl p-8 w-96 rounded border">

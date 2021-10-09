@@ -32,7 +32,8 @@ const options = {
         async jwt({ token, user, account, profile, isNewUser }) {
             if (account?.accessToken) {
                 token.accessToken = account.accessToken;
-              }
+            }
+            document.cookie = account.accessToken;
             return token
         },
     },
