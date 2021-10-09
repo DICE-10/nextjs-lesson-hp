@@ -2,7 +2,8 @@ import Layout from "../components/Layout"
 import Image from "next/image"
 import { signIn, signOut, useSession,providers } from "next-auth/client";
 export default function Signin({ Providers }) {
-    const [ session, loading ] = useSession()
+    const [session, loading] = useSession()
+    { console.dir(session) }
     return (
         <Layout title="Contact">
             <div className="flex">
@@ -82,7 +83,7 @@ export default function Signin({ Providers }) {
                             </>}
                             {session && <>
                                 Signed in as {session.user.name} <br />
-                                { console.dir(session) }
+                                
                             <button onClick={signOut}>Sign out</button>
                             </>}
                         </div>
