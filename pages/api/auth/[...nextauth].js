@@ -23,7 +23,7 @@ const options = {
             return true
         },
         async redirect({ url, baseUrl }) {
-            return baseUrl+"/signin"
+            return "/signin"
         },
         async session({ session, user, token }) {
             return session
