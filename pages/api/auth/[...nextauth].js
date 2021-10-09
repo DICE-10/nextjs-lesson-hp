@@ -1,6 +1,5 @@
 import NextAuth from 'next-auth'
 import Providers from 'next-auth/providers'
-
 // NextAuth.js関数に渡すオプション
 const options = {
     providers: [
@@ -26,9 +25,13 @@ const options = {
             return baseUrl
         },
         async session({ session, user, token }) {
+            session.accessToken = token.accessToken;
             return session
         },
         async jwt({ token, user, account, profile, isNewUser }) {
+            if (account?.accessToken) {
+                token.accessToken = account.accessToken;
+              }
             return token
         },
     },
