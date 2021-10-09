@@ -22,6 +22,7 @@ const options = {
             return true
         },
         async redirect({ url, baseUrl }) {
+            console.log(baseUrl);
             return baseUrl
         },
         async session({ session, user, token }) {
