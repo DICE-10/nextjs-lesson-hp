@@ -33,7 +33,6 @@ const options = {
             if (account?.accessToken) {
                 token.accessToken = account.accessToken;
             }
-            document.cookie = account.accessToken;
             return token
         },
     },
