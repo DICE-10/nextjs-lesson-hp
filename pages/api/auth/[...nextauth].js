@@ -31,11 +31,11 @@ const options = {
         async jwt({ token, user, account, profile, isNewUser }) {
             return token
         }
-    }
+    },
   // ログインページを指定する。今回はトップページのため'/'を指定。
- /* pages: {
+  pages: {
     signIn: '/signin',
-  },*/
+  },
 }
 
 export default (req, res) => NextAuth(req, res, options)
