@@ -18,29 +18,30 @@ const options = {
         // ...add more providers here
     ],
     callbacks: {
-        /*async signIn({ user, account, profile, email, credentials }) {
+        async signIn({ user, account, profile, email, credentials }) {
             return true
         },
         async redirect({ url, baseUrl }) {
+            console.log(baseUrl);
             return baseUrl
-        },*/
+        },
         async session({ session, user, token }) {
-           // session.accessToken = token.accessToken;
+            session.accessToken = token.accessToken;
             return session
         },
         async jwt({ token, user, account, profile, isNewUser }) {
-           /* if (account?.accessToken) {
+            if (account?.accessToken) {
                 token.accessToken = account.accessToken;
-              }*/
+              }
             return token
         },
     },
     pages: {
-        signIn: '/signin',
+        signIn: '/auth/signin',
         signOut: '/signin',
         error: '/signin', // Error code passed in query string as ?error=
         verifyRequest: '/signin', // (used for check email message)
-        newUser: '/' // New users will be directed here on first sign in (leave the property out if not of interest)
+        newUser: '/signin' // New users will be directed here on first sign in (leave the property out if not of interest)
     }
 }
 
