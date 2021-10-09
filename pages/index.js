@@ -3,6 +3,7 @@ import Image from 'next/image'
 import Layout from '../components/Layout'
 import { useSession } from "next-auth/client"
 export default function Home() {
+  const [session] = useSession()
   return (
     <Layout title="Home">
       { console.dir(session) }
