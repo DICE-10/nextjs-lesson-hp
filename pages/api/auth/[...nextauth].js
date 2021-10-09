@@ -37,7 +37,7 @@ const options = {
           login: '/signin',
           logout: '/',
           callback: '/signin',
-          home: '/'
+          home: '/signin'
         },
         token: {
             prefix: '_token.',
