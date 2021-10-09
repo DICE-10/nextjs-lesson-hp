@@ -20,10 +20,10 @@ const options = {
     callbacks: {
         /*async signIn({ user, account, profile, email, credentials }) {
             return true
-        },
+        },*/
         async redirect({ url, baseUrl }) {
             return baseUrl
-        },*/
+        },
         async session({ session, user, token }) {
             session.accessToken = token.accessToken;
             return session
