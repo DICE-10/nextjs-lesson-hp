@@ -30,6 +30,9 @@ const options = {
         },
         async jwt({ token, user, account, profile, isNewUser }) {
             return token
+        },
+        redirect({ url, baseUrl }) {
+            return url.startsWith(baseUrl) ? url : baseUrl
         }
     },
     pages: {
