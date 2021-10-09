@@ -36,11 +36,11 @@ const options = {
         },
     },
     pages: {
-        signIn: '/contact-page',
+        signIn: '/signin',
         signOut: '/signin',
         error: '/signin', // Error code passed in query string as ?error=
         verifyRequest: '/signin', // (used for check email message)
-        newUser: '/signin' // New users will be directed here on first sign in (leave the property out if not of interest)
+        newUser: '/' // New users will be directed here on first sign in (leave the property out if not of interest)
     }
 }
 
