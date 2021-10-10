@@ -5,7 +5,8 @@ const options = {
     providers: [
         Providers.GitHub({
             clientId: process.env.GITHUB_ID,
-            clientSecret: process.env.GITHUB_SECRET
+            clientSecret: process.env.GITHUB_SECRET,
+            scope: ["read:user user:email"]
         }),
         Providers.Google({
             clientId: process.env.GOOGLE_CLIENT_ID,
