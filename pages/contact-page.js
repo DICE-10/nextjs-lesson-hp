@@ -1,12 +1,9 @@
 import Layout from "../components/Layout"
 import Image from "next/image"
-import { signIn, signOut, useSession,providers } from "next-auth/client";
 
 export default function Contact() {
-    const [session, loading] = useSession()
     return (
         <Layout title="Contact">
-            { console.dir(session) }
             <div className="bg-white text-center shadow-xl p-8 w-80 rounded">
                 <div className="mt-4">
                     <p className="font-bold">Contact info</p>
