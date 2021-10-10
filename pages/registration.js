@@ -6,78 +6,27 @@ export default function Registration({ Providers }) {
     const [session] = useSession()
     return (
         <Layout title="会員登録">
-            <form>
-            <div className="flex justify-center items-center h-screen mx-auto bg-gray-100 flex flex-col">
-                <div className="-mx-3 md:flex mb-6">
-                <div className="md:w-1/2 px-3 mb-6 md:mb-0">
-                    <label className="uppercase tracking-wide text-black text-base font-bold mb-2" htmlFor="userName">
-                    User Name<span className="text-red-500">*</span>
-                    </label>
-                                    <input className="w-full bg-gray-200 text-black border border-gray-200 rounded py-3 px-4 mb-3" id="userName" type="text" placeholder="Tutsplus" value={ session?.user.name} />
-                    
+            <div className="flex justify-center items-center h-screen mx-auto bg-gray-100">
+            <form action="#" className="w-full md:w-3/4 lg:w-3/6 p-4">
+                <div className="p-3">
+                    <input className="block appearance-none placeholder-gray-500 placeholder-opacity-100 border border-light-blue-400 rounded-md w-full py-3 px-4 text-gray-700 leading-5 focus:outline-none focus:ring-2 focus:ring-light-blue-300" type="text" placeholder="Name" required/>
                 </div>
-                <div className="md:w-1/2 px-3">
-                    <label className="uppercase tracking-wide text-black text-base font-bold mb-2" htmlFor="email">
-                    e-mail<span className="text-red-500">*</span>
-                    </label>
-                    <input className="w-full bg-gray-200 text-black border border-gray-200 rounded py-3 px-4 mb-3" id="email" type="email" placeholder="xxxxxxx@mypf.jp" value={ session?.user.email } />
+                <div className="p-3">
+                    <input className="block appearance-none placeholder-gray-500 placeholder-opacity-100 border border-light-blue-400 rounded-md w-full py-3 px-4 text-gray-700 leading-5 focus:outline-none focus:ring-2 focus:ring-light-blue-300" type="email" placeholder="Email Id" required/>
                 </div>
+                <div className="p-3">
+                    <input className="block appearance-none placeholder-gray-500 placeholder-opacity-100 border border-light-blue-400 rounded-md w-full py-3 px-4 text-gray-700 leading-5 focus:outline-none focus:ring-2 focus:ring-light-blue-300" type="number" placeholder="Mobile Number" required/>
                 </div>
-                <div className="-mx-3 md:flex mb-6">
-                <div className="md:w-full px-3">
-                    <label className="uppercase tracking-wide text-black text-base font-bold mb-2" htmlFor="application-link">
-                    Application Link<span className="text-red-500">*</span>
-                    </label>
-                    <input className="w-full bg-gray-200 text-black border border-gray-200 rounded py-3 px-4 mb-3" id="application-link" type="text" placeholder="http://...." />
+                <div className="p-3">
+                    <textarea className="resize-none border rounded-md block appearance-none placeholder-gray-500 placeholder-opacity-100 border border-light-blue-400 rounded-md w-full py-3 px-4 text-gray-700 leading-5 focus:outline-none focus:ring-2 focus:ring-light-blue-300 h-56" placeholder="Message" required></textarea>
                 </div>
-                </div>
-                <div className="-mx-3 md:flex mb-2">
-                <div className="md:w-1/2 px-3 mb-6 md:mb-0">
-                    <label className="uppercase tracking-wide text-black text-base font-bold mb-2" htmlFor="location">
-                    Location<span className="text-red-500">*</span>
-                    </label>
-                    <div>
-                    <select className="w-full bg-gray-200 border border-gray-200 text-black text-base py-3 px-4 pr-8 mb-3 rounded" id="location">
-                        <option>Abuja</option>
-                        <option>Enugu</option>
-                        <option>Lagos</option>
-                    </select>
-                    </div>
-                </div>
-                <div className="md:w-1/2 px-3">
-                    <label className="uppercase tracking-wide text-black text-base font-bold mb-2" htmlFor="job-type">
-                    Job Type<span className="text-red-500">*</span>
-                    </label>
-                    <div>
-                    <select className="w-full bg-gray-200 border border-gray-200 text-black text-base py-3 px-4 pr-8 mb-3 rounded" id="job-type">
-                        <option>Full-Time</option>
-                        <option>Part-Time</option>
-                        <option>Internship</option>
-                    </select>
-                    </div>
-                </div>
-                <div className="md:w-1/2 px-3">
-                    <label className="uppercase tracking-wide text-black text-base font-bold mb-2" htmlFor="department">
-                    Department<span className="text-red-500">*</span>
-                    </label>
-                    <div>
-                    <select className="w-full bg-gray-200 border border-gray-200 text-black text-base py-3 px-4 pr-8 mb-3 rounded" id="department">
-                        <option>Engineering</option>
-                        <option>Design</option>
-                        <option>Customer Support</option>
-                    </select>
-                    </div>
-                </div>
-                </div>
-                <div className="-mx-3 md:flex mt-2">
-                <div className="md:w-full px-3">
-                    <button className="md:w-full bg-gray-900 text-white font-bold py-2 px-4 border-b-4 hover:border-b-2 border-gray-500 hover:border-gray-100 rounded-full">
-                    Button
+                <div className="p-3 pt-4">
+                    <button className="w-full bg-gray-700 hover:bg-gray-900 text-white font-bold py-3 px-4 rounded text-2xl">
+                    Send
                     </button>
                 </div>
-                </div>
+                </form>
             </div>
-            </form>
         </Layout>
     )
 }
