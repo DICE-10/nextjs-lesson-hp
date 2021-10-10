@@ -6,7 +6,7 @@ export default function Registration({ Providers }) {
     const [session] = useSession()
     return (
         <Layout title="会員登録">
-            <form>
+            <form className="justify-center items-center">
             <div className="bg-white shadow-md rounded px-16 pt-6 pb-8 mb-4 flex flex-col w-9/12">
                 <div className="-mx-3 md:flex mb-6">
                 <div className="md:w-1/2 px-3 mb-6 md:mb-0">
