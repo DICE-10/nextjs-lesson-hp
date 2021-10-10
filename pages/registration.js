@@ -7,7 +7,7 @@ export default function Registration({ Providers }) {
     return (
         <Layout title="会員登録">
             <form>
-            <div className="flex justify-center items-center h-screen mx-auto bg-gray-100">
+            <div className="flex justify-center items-center h-screen mx-auto bg-gray-100 flex flex-col">
                 <div className="-mx-3 md:flex mb-6">
                 <div className="md:w-1/2 px-3 mb-6 md:mb-0">
                     <label className="uppercase tracking-wide text-black text-base font-bold mb-2" htmlFor="userName">
