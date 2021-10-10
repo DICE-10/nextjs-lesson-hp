@@ -13,7 +13,7 @@ export default function Registration({ Providers }) {
             <label className="uppercase tracking-wide text-black text-base font-bold mb-2" htmlFor="userName">
               User Name<span className="text-red-500">*</span>
             </label>
-            <input className="w-full bg-gray-200 text-black border border-gray-200 rounded py-3 px-4 mb-3" id="company" type="text" placeholder="Tutsplus" />
+                            <input className="w-full bg-gray-200 text-black border border-gray-200 rounded py-3 px-4 mb-3" id="userName" type="text" placeholder="Tutsplus" value={ session?.user.name} />
             <div>
               <span className="text-red-500 text-base italic">
                 Please fill out this field.
