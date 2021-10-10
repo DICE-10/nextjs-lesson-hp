@@ -1,8 +1,29 @@
 import Layout from "../components/Layout"
 import Image from "next/image"
 import { signIn, signOut, useSession,providers } from "next-auth/client";
+import { redirect } from "next/dist/server/api-utils";
+import { useRouter } from 'next/router';
 export default function Signin({ Providers }) {
-    const [ session, loading ] = useSession()
+    const [session, loading] = useSession()
+    if (session != null) {
+        const loginPage = () => {
+            const router = useRouter();
+          
+            // pushState の場合
+            router.push('/contact-page');
+          
+            // replaceState の場合
+            router.replace('/contact-page');
+          
+            return <div />;
+        };
+        loginPage.getInitialProps = async ({ res }) => {
+            if (res) {
+              res.writeHead(302, { Location: '/contact-page'});
+              res.end();
+            }
+          }
+    }
     return (
         <Layout title="Contact">
             <div className="flex">

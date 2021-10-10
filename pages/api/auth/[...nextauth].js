@@ -18,13 +18,13 @@ const options = {
         // ...add more providers here
     ],
     callbacks: {
-        async jwt(token, user, account, profile, isNewUser) {           //👈ポイント②
+        async jwt(token, user, account, profile, isNewUser) { 
           if (account?.accessToken) {
             token.accessToken = account.accessToken;
           }
           return token;
         },
-        async session(session, token) {                                 //👈ポイント③
+        async session(session, token) {
           session.accessToken = token.accessToken;
           return session;
         },
