@@ -6,9 +6,8 @@ export default function Registration({ Providers }) {
     const [session] = useSession()
     return (
         <Layout title="会員登録">
-            <div className="bg-gray-100 mx-auto max-w-6xl bg-white py-20 px-12 lg:px-24 shadow-xl mb-24">
     <form>
-      <div className="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4 flex flex-col">
+      <div className="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4 flex flex-col w-full">
         <div className="-mx-3 md:flex mb-6">
           <div className="md:w-1/2 px-3 mb-6 md:mb-0">
             <label className="uppercase tracking-wide text-black text-xs font-bold mb-2" htmlFor="company">
@@ -83,7 +82,6 @@ export default function Registration({ Providers }) {
         </div>
       </div>
     </form>
-  </div>
         </Layout>
     )
 }
