@@ -14,11 +14,7 @@ export default function Registration({ Providers }) {
               User Name<span className="text-red-500">*</span>
             </label>
                             <input className="w-full bg-gray-200 text-black border border-gray-200 rounded py-3 px-4 mb-3" id="userName" type="text" placeholder="Tutsplus" value={ session?.user.name} />
-            <div>
-              <span className="text-red-500 text-base italic">
-                Please fill out this field.
-              </span>
-            </div>
+            
           </div>
           <div className="md:w-1/2 px-3">
             <label className="uppercase tracking-wide text-black text-base font-bold mb-2" htmlFor="title">
