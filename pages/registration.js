@@ -10,38 +10,38 @@ export default function Registration({ Providers }) {
       <div className="bg-white shadow-md rounded px-16 pt-6 pb-8 mb-4 flex flex-col w-screen">
         <div className="-mx-3 md:flex mb-6">
           <div className="md:w-1/2 px-3 mb-6 md:mb-0">
-            <label className="uppercase tracking-wide text-black text-xs font-bold mb-2" htmlFor="company">
-              Company Name*
+            <label className="uppercase tracking-wide text-black text-base font-bold mb-2" htmlFor="userName">
+              User Name<span className="text-red-500">*</span>
             </label>
             <input className="w-full bg-gray-200 text-black border border-gray-200 rounded py-3 px-4 mb-3" id="company" type="text" placeholder="Tutsplus" />
             <div>
-              <span className="text-red-500 text-xs italic">
+              <span className="text-red-500 text-base italic">
                 Please fill out this field.
               </span>
             </div>
           </div>
           <div className="md:w-1/2 px-3">
-            <label className="uppercase tracking-wide text-black text-xs font-bold mb-2" htmlFor="title">
-              Title*
+            <label className="uppercase tracking-wide text-black text-base font-bold mb-2" htmlFor="title">
+              Title<span className="text-red-500">*</span>
             </label>
             <input className="w-full bg-gray-200 text-black border border-gray-200 rounded py-3 px-4 mb-3" id="title" type="text" placeholder="Software Engineer" />
           </div>
         </div>
         <div className="-mx-3 md:flex mb-6">
           <div className="md:w-full px-3">
-            <label className="uppercase tracking-wide text-black text-xs font-bold mb-2" htmlFor="application-link">
-              Application Link*
+            <label className="uppercase tracking-wide text-black text-base font-bold mb-2" htmlFor="application-link">
+              Application Link<span className="text-red-500">*</span>
             </label>
             <input className="w-full bg-gray-200 text-black border border-gray-200 rounded py-3 px-4 mb-3" id="application-link" type="text" placeholder="http://...." />
           </div>
         </div>
         <div className="-mx-3 md:flex mb-2">
           <div className="md:w-1/2 px-3 mb-6 md:mb-0">
-            <label className="uppercase tracking-wide text-black text-xs font-bold mb-2" htmlFor="location">
-              Location*
+            <label className="uppercase tracking-wide text-black text-base font-bold mb-2" htmlFor="location">
+              Location<span className="text-red-500">*</span>
             </label>
             <div>
-              <select className="w-full bg-gray-200 border border-gray-200 text-black text-xs py-3 px-4 pr-8 mb-3 rounded" id="location">
+              <select className="w-full bg-gray-200 border border-gray-200 text-black text-base py-3 px-4 pr-8 mb-3 rounded" id="location">
                 <option>Abuja</option>
                 <option>Enugu</option>
                 <option>Lagos</option>
@@ -49,11 +49,11 @@ export default function Registration({ Providers }) {
             </div>
           </div>
           <div className="md:w-1/2 px-3">
-            <label className="uppercase tracking-wide text-black text-xs font-bold mb-2" htmlFor="job-type">
-              Job Type*
+            <label className="uppercase tracking-wide text-black text-base font-bold mb-2" htmlFor="job-type">
+              Job Type<span className="text-red-500">*</span>
             </label>
             <div>
-              <select className="w-full bg-gray-200 border border-gray-200 text-black text-xs py-3 px-4 pr-8 mb-3 rounded" id="job-type">
+              <select className="w-full bg-gray-200 border border-gray-200 text-black text-base py-3 px-4 pr-8 mb-3 rounded" id="job-type">
                 <option>Full-Time</option>
                 <option>Part-Time</option>
                 <option>Internship</option>
@@ -61,11 +61,11 @@ export default function Registration({ Providers }) {
             </div>
           </div>
           <div className="md:w-1/2 px-3">
-            <label className="uppercase tracking-wide text-black text-xs font-bold mb-2" htmlFor="department">
-              Department*
+            <label className="uppercase tracking-wide text-black text-base font-bold mb-2" htmlFor="department">
+              Department<span className="text-red-500">*</span>
             </label>
             <div>
-              <select className="w-full bg-gray-200 border border-gray-200 text-black text-xs py-3 px-4 pr-8 mb-3 rounded" id="department">
+              <select className="w-full bg-gray-200 border border-gray-200 text-black text-base py-3 px-4 pr-8 mb-3 rounded" id="department">
                 <option>Engineering</option>
                 <option>Design</option>
                 <option>Customer Support</option>
