@@ -35,7 +35,7 @@ const options = {
                 return process.env.NEXTAUTH_URL + "/registration"
             }
             else {
-                return process.env.NEXTAUTH_URL + "/"
+                return baseUrl
             }
         },
       },
