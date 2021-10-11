@@ -29,14 +29,9 @@ const options = {
           session.accessToken = token.accessToken;
           return session;
         },
-        async redirect({ url, baseUrl }) {
+        async redirect({ url, baseUrl },session) {
             console.log(baseUrl);
-            if (session) {
-                return process.env.NEXTAUTH_URL + "/registration"
-            }
-            else {
-                return baseUrl
-            }
+            return process.env.NEXTAUTH_URL+"/registration"
         },
       },
     /*
