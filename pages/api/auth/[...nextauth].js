@@ -31,7 +31,12 @@ const options = {
         },
         async redirect({ url, baseUrl }) {
             console.log(baseUrl);
-            return process.env.NEXTAUTH_URL+"/registration"
+            if (session) {
+                return process.env.NEXTAUTH_URL + "/registration"
+            }
+            else {
+                return process.env.NEXTAUTH_URL
+            }
         },
       },
     /*
