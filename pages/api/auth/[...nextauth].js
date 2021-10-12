@@ -33,6 +33,9 @@ const options = {
             console.log(baseUrl);
             return process.env.NEXTAUTH_URL+"/registration"
         },
+        async signIn({ user, account, profile, email, credentials }) {
+            return true
+        },
       },
     /*
     callbacks: {
