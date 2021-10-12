@@ -31,7 +31,7 @@ const options = {
         },
         async redirect({ url, baseUrl }, session) {
             var link = "";
-            if (session != null) {
+            if (session != null || session != "") {
                 link = process.env.NEXTAUTH_URL + "/registration";
             }
             else {
