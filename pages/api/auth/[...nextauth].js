@@ -29,9 +29,15 @@ const options = {
           session.accessToken = token.accessToken;
           return session;
         },
-        async redirect({ url, baseUrl },session) {
-            console.log(baseUrl);
-            return true
+        async redirect({ url, baseUrl }, session) {
+            var link = "";
+            if (session != null) {
+                link = "registration";
+            }
+            else {
+                link = "/";
+            }
+            return link;
         },
         async signIn({ user, account, profile, email, credentials }) {
             return true
