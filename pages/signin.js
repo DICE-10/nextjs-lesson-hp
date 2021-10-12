@@ -4,7 +4,6 @@ import { signIn, signOut, useSession,providers } from "next-auth/client";
 
 export default function Signin({ Providers }) {
     const [session, loading] = useSession()
-    const registLink = `${window.location.origin}/registration`
     return (
         <Layout title="サインイン">
             <div className="flex">
@@ -48,17 +47,17 @@ export default function Signin({ Providers }) {
                             {!session && <>
                                 Not signed in <br />
                                 <button onClick={() => signIn("github",{
-                                    callbackUrl: registLink
+                                    callbackUrl: `${window.location.origin}/registration`
                                     })} className="bg-black hover:bg-gray-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">
                                     Sign in with GitHub
                                 </button>
                                 <button onClick={() => signIn("google",{
-                                    callbackUrl: registLink
+                                    callbackUrl: `${window.location.origin}/registration`
                                     })} className="bg-gray-50 rounded border hover:bg-gray-500 text-black font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">
                                     Sign in with Google
                                 </button>
                                 <button onClick={() => signIn("twitter",{
-                                    callbackUrl: registLink
+                                    callbackUrl: `${window.location.origin}/registration`
                                     })} className="bg-blue-400 rounded border hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">
                                     Sign in with Twitter
                                 </button>
