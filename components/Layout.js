@@ -32,11 +32,6 @@ export default function Layout({ children, title = "HP by Nextjs" }) {
                                     Sign In
                                 </a>
                             </Link>
-                            <Link href="/registration">
-                                <a className="text-gray-300 hover:bg-gray-700 px-3 py-2 rounded">
-                                registration
-                                </a>
-                            </Link>
                         </div>
                     </div>
                 </nav>
