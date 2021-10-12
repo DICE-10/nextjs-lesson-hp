@@ -84,9 +84,13 @@ export default function Signin({ Providers }) {
                             {session && <>
                                 Signed in as {session.user.name} <br />
                                 { console.dir(session) }
-                            <button onClick={signOut({
-                                callbackUrl: `${window.location.origin}`
-                                })}>Sign out</button>
+                                <button
+                                onClick={() =>
+                                    signOut({
+                                    callbackUrl: `${window.location.origin}`
+                                    })
+                                }
+                                >Sign out</button>
                             </>}
                         </div>
                         <p className="text-center text-gray-500 text-xs">
