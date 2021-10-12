@@ -28,11 +28,11 @@ const options = {
         async session(session, token) {
           session.accessToken = token.accessToken;
           return session;
-        },/*
+        },
         async redirect({ url, baseUrl },session) {
             console.log(baseUrl);
-            return process.env.NEXTAUTH_URL+"/registration"
-        },*/
+            return true
+        },
         async signIn({ user, account, profile, email, credentials }) {
             return true
         },
