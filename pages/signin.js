@@ -46,13 +46,19 @@ export default function Signin({ Providers }) {
                         <div className="mb-4">
                             {!session && <>
                                 Not signed in <br />
-                                <button onClick={() => signIn("github")} className="bg-black hover:bg-gray-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">
+                                <button onClick={() => signIn("github",{
+                                    callbackUrl: `${window.location.origin}/registration`
+                                    })} className="bg-black hover:bg-gray-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">
                                     Sign in with GitHub
                                 </button>
-                                <button onClick={() => signIn("google")} className="bg-gray-50 rounded border hover:bg-gray-500 text-black font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">
+                                <button onClick={() => signIn("google",{
+                                    callbackUrl: `${window.location.origin}/registration`
+                                    })} className="bg-gray-50 rounded border hover:bg-gray-500 text-black font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">
                                     Sign in with Google
                                 </button>
-                                <button onClick={() => signIn("twitter")} className="bg-blue-400 rounded border hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">
+                                <button onClick={() => signIn("twitter",{
+                                    callbackUrl: `${window.location.origin}/registration`
+                                    })} className="bg-blue-400 rounded border hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">
                                     Sign in with Twitter
                                 </button>
                                 {/*Object.values(Providers).map((provider) => (
