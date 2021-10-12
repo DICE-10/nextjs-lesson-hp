@@ -32,12 +32,12 @@ const options = {
         async redirect({ url, baseUrl }, session) {
             var link = "";
             if (session != null) {
-                link = "registration";
+                link = process.env.NEXTAUTH_URL + "/registration";
             }
             else {
-                link = "/";
+                link = process.env.NEXTAUTH_URL;
             }
-            return link;
+            return link
         },
         async signIn({ user, account, profile, email, credentials }) {
             return true
