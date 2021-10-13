@@ -6,7 +6,7 @@ var fetchForm = "";
 var gitUrl = "";
 if (process.browser) {
     fetchForm = document.querySelector('.fetchForm');
-    gitUrl = "https://118.27.7.106:9000/api/github/";
+    gitUrl = "http://118.27.7.106:9000/api/github/";
     // windowやdocumentを使う処理を記述
 }
 export default function Registration({ Providers }) {
