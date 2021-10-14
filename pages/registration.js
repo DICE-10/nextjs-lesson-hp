@@ -58,6 +58,7 @@ const postFetch = () => {
     }
 
     fetch(gitUrl, {
+        mode: 'cors',
         method: 'POST',
         body: formData
     }).then((response) => {
