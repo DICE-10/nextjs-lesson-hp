@@ -4,13 +4,14 @@ import { signIn, signOut, useSession,providers } from "next-auth/client";
 
 var fetchForm = "";
 var gitUrl = "";
+var [session] = useSession()
 if (process.browser) {
     fetchForm = document.querySelector('.fetchForm');
     gitUrl = "http://118.27.7.106:9443/api/github";
     // windowやdocumentを使う処理を記述
 }
 export default function Registration({ Providers }) {
-    const [session] = useSession();
+    //const [session] = useSession();
     
 
     return (
