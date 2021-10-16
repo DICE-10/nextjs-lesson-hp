@@ -69,7 +69,7 @@ const postFetch = (session) => {
         mode: 'cors',
         headers: {
             'Content-Type': 'application/json',
-            "Access-Control-Allow-Origin": "*",
+            "Access-Control-Allow-Origin": "https://118.27.7.106:9443/",
             "Access-Control-Allow-Headers": "X-Requested-With, Origin, X-Csrftoken, Content-Type, Accept"
         },
         method: 'POST',
