@@ -54,12 +54,12 @@ export async function getStaticProps(context) {
   
 const postFetch = (session) => {
     let formData = new FormData(fetchForm);
-    var json = "{";
+    var json = '{';
     for (let value of formData.entries()) {
         console.log(value);
-        json += value[0] + ":" + value[1]
+        json += '"'+value[0] + '":"' + value[1] + '"'
     }
-    json += "}"
+    json += '}'
     console.log(json);
     /*if (session?.user?.name.toLowerCase() == "github") {
         json = {
@@ -71,12 +71,7 @@ const postFetch = (session) => {
     }*/
     console.dir(formData.entries())
     axios
-    .post(gitUrl, {
-        name: document.getElementById("name").value,
-        pass: document.getElementById("password").value,
-        email: document.getElementById("email").value,
-        gitToken: document.getElementById("gitToken").value
-    })
+    .post(gitUrl, json)
     .then(response => {
         console.log(response);
     });
