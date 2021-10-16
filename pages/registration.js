@@ -18,15 +18,15 @@ export default function Registration({ Providers }) {
             { console.dir(session) }
             <form action="#" className="fetchForm w-full md:w-3/4 lg:w-3/6 p-4">
                 <div className="p-3">
-                    <input className="block appearance-none placeholder-gray-500 placeholder-opacity-100 border border-light-blue-400 rounded-md py-3 px-4 text-gray-700 leading-5 focus:outline-none focus:ring-2 focus:ring-light-blue-300" type="text" placeholder="Name" name="userName" id="user" value={session?.user?.name} required />
+                    <input className="block appearance-none placeholder-gray-500 placeholder-opacity-100 border border-light-blue-400 rounded-md py-3 px-4 text-gray-700 leading-5 focus:outline-none focus:ring-2 focus:ring-light-blue-300" type="text" placeholder="Name" name="name" id="user" value={session?.user?.name} required />
                     
                 </div>
                 <div className="p-3">
-                    <input className="block appearance-none placeholder-gray-500 placeholder-opacity-100 border border-light-blue-400 rounded-md w-full py-3 px-4 text-gray-700 leading-5 focus:outline-none focus:ring-2 focus:ring-light-blue-300" type="password" placeholder="password" id="password" name="password" required/>
+                    <input className="block appearance-none placeholder-gray-500 placeholder-opacity-100 border border-light-blue-400 rounded-md w-full py-3 px-4 text-gray-700 leading-5 focus:outline-none focus:ring-2 focus:ring-light-blue-300" type="password" placeholder="pass" id="password" name="password" required/>
                 </div>
                 <div className="p-3">
-                    <input className="block appearance-none placeholder-gray-500 placeholder-opacity-100 border border-light-blue-400 rounded-md w-full py-3 px-4 text-gray-700 leading-5 focus:outline-none focus:ring-2 focus:ring-light-blue-300" type="email" placeholder="Email Id" name="userMail" id="email" value={session?.user?.email} required />
-                    <input className="block appearance-none placeholder-gray-500 placeholder-opacity-100 border border-light-blue-400 rounded-md w-full py-3 px-4 text-gray-700 leading-5 focus:outline-none focus:ring-2 focus:ring-light-blue-300" type="hidden" name="git" id="gitToken" value={ session?.accessToken }/>
+                    <input className="block appearance-none placeholder-gray-500 placeholder-opacity-100 border border-light-blue-400 rounded-md w-full py-3 px-4 text-gray-700 leading-5 focus:outline-none focus:ring-2 focus:ring-light-blue-300" type="email" placeholder="Email Id" name="emanil" id="email" value={session?.user?.email} required />
+                    <input className="block appearance-none placeholder-gray-500 placeholder-opacity-100 border border-light-blue-400 rounded-md w-full py-3 px-4 text-gray-700 leading-5 focus:outline-none focus:ring-2 focus:ring-light-blue-300" type="hidden" name="gitToken" id="gitToken" value={ session?.accessToken }/>
                 </div>
                 <div className="p-3">
                     <input className="block appearance-none placeholder-gray-500 placeholder-opacity-100 border border-light-blue-400 rounded-md w-full py-3 px-4 text-gray-700 leading-5 focus:outline-none focus:ring-2 focus:ring-light-blue-300" type="number" placeholder="Mobile Number" required/>
@@ -68,7 +68,7 @@ const postFetch = (session) => {
     fetch(gitUrl, {
         mode: 'cors',
         method: 'POST',
-        body: json
+        body: formData
     }).then((response) => {
         if(!response.ok) {
             console.log('error!');
