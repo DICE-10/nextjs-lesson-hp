@@ -72,7 +72,7 @@ const postFetch = (session) => {
             "Access-Control-Allow-Origin": "https://118.27.7.106:9443/",
             "Access-Control-Allow-Headers": "X-Requested-With, Origin, X-Csrftoken, Content-Type, Accept"
         },
-        method: 'POST',
+        method: 'GET',
         body: formData
     }).then((response) => {
         if(!response.ok) {
