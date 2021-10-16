@@ -66,6 +66,7 @@ const postFetch = (session) => {
             "gitToken": document.getElementById("gitToken").value
         }
     }
+    console.dir(formData)
     axios
     .post(gitUrl, {
         name: document.getElementById("name").value,
