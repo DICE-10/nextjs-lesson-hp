@@ -1,6 +1,7 @@
 import Layout from "../components/Layout"
 import Image from "next/image"
-import { signIn, signOut, useSession,providers } from "next-auth/client";
+import { signIn, signOut, useSession, providers } from "next-auth/client";
+import axios from 'axios';
 
 var fetchForm = "";
 var gitUrl = "";
@@ -65,7 +66,17 @@ const postFetch = (session) => {
             "gitToken": document.getElementById("gitToken").value
         }
     }
-    fetch(gitUrl, {
+    axios
+    .post(gitUrl, {
+        name: document.getElementById("name").value,
+        pass: document.getElementById("password").value,
+        email: document.getElementById("email").value,
+        gitToken: document.getElementById("gitToken").value
+    })
+    .then(response => {
+        console.log(response);
+    });
+    /*fetch(gitUrl, {
         mode: 'cors',
         headers: {
             'Content-Type': 'application/json',
@@ -84,5 +95,5 @@ const postFetch = (session) => {
         console.log(data);
     }).catch((error) => {
         console.log(error);
-    });
+    });*/
 };
