@@ -57,8 +57,9 @@ const postFetch = (session) => {
     var json = '{';
     for (let value of formData.entries()) {
         console.log(value);
-        json += '"' + value[0] + '":"' + value[1] + '"'
+        json += '"' + value[0] + '":"' + value[1] + '",'
     }
+    json = removeLastComma(json);
     json += '}'
     /*console.log(json);
     if (session?.user?.name.toLowerCase() == "github") {
@@ -97,3 +98,9 @@ const postFetch = (session) => {
         console.log(error);
     });
 };
+
+function removeLastComma(strng){        
+    var n=strng.lastIndexOf(",");
+    var a=strng.substring(0,n) 
+    return a;
+}
