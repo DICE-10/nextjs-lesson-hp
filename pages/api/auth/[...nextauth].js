@@ -21,7 +21,8 @@ const options = {
     callbacks: {
         async jwt(token, user, account, profile, isNewUser) { 
           if (account?.accessToken) {
-            token.accessToken = account.accessToken;
+              token.accessToken = account.accessToken;
+              token.provider = account.provider;
           }
           return token;
         },

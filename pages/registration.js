@@ -1,6 +1,6 @@
 import Layout from "../components/Layout"
 import Image from "next/image"
-import { signIn, signOut, useSession, providers,getProviders } from "next-auth/client";
+import { signIn, signOut, useSession, providers } from "next-auth/client";
 import {useState, useRef } from 'react'
 import axios from 'axios';
 
@@ -20,7 +20,7 @@ export default function Registration({ Providers }) {
 
     return (
         <Layout title="会員登録">
-            {console.dir(Providers)}
+            {console.dir(session)}
             
             <form action="#" className="fetchForm w-full md:w-3/4 lg:w-3/6 p-4">
                 <div className="p-3">
@@ -51,7 +51,7 @@ export default function Registration({ Providers }) {
 }
 
 export async function getStaticProps(context) {
-    const Providers = await getProviders();
+    const Providers = await providers(context);
     return {
         props: { Providers },
     }
