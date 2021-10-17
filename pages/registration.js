@@ -72,8 +72,14 @@ const postFetch = (session) => {
     }*/
     console.dir(json)
     console.dir(JSON.parse(json))
+    json = {
+        name: "DICE",
+        password: "testaaa",
+        email: "ds_work_prog@outlook.jp",
+        gitToken: "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"
+    }
     axios
-        .post(gitUrl, JSON.parse(json))
+        .post(gitUrl, json)
         .then(response => {
             console.log(response);
         });
