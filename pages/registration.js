@@ -83,7 +83,7 @@ const postFetch = (session) => {
             "Access-Control-Allow-Headers": "X-Requested-With, Origin, X-Csrftoken, Content-Type, Accept"
         },
         method: 'POST',
-        body: json
+        body: JSON.parse(json)
     }).then((response) => {
         if(!response.ok) {
             console.log('error!');
