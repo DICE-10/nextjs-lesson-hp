@@ -79,7 +79,7 @@ const postFetch = (session) => {
         gitToken: "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"
     }*/
     axios
-        .post(gitUrl, fetchForm,
+        .post(gitUrl, formData,
             {
               headers: {
                 'content-type': 'multipart/form-data',
