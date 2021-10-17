@@ -57,7 +57,7 @@ const postFetch = (session) => {
     var json = '{';
     for (let value of formData.entries()) {
         console.log(value);
-        json += '' + value[0] + ':"' + value[1] + '",'
+        json += '"' + value[0] + '":"' + value[1] + '",'
     }
     json = removeLastComma(json);
     json += '}'
