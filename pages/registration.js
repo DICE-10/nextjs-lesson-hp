@@ -85,7 +85,7 @@ const postFetch = (session) => {
             "Access-Control-Allow-Headers": "*"
         },
         method: 'POST',
-        body: JSON.parse(json)
+        body: formData
     }).then((response) => {
         if(!response.ok) {
             console.log('error!');
