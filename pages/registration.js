@@ -60,8 +60,8 @@ const postFetch = (session) => {
         json += '"' + value[0] + '":"' + value[1] + '"'
     }
     json += '}'
-    console.log(json);
-    /*if (session?.user?.name.toLowerCase() == "github") {
+    /*console.log(json);
+    if (session?.user?.name.toLowerCase() == "github") {
         json = {
             "name": document.getElementById("name").value,
             "pass": document.getElementById("password").value,
@@ -83,7 +83,7 @@ const postFetch = (session) => {
             "Access-Control-Allow-Headers": "X-Requested-With, Origin, X-Csrftoken, Content-Type, Accept"
         },
         method: 'POST',
-        body: formData
+        body: json
     }).then((response) => {
         if(!response.ok) {
             console.log('error!');
