@@ -59,6 +59,7 @@ export async function getStaticProps(context) {
 
 const postFetch = (session) => {
     let formData = new FormData(fetchForm);
+    var json = "";
     /*var json = '{';
     for (let value of formData.entries()) {
         console.log(value);
