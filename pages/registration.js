@@ -1,6 +1,7 @@
 import Layout from "../components/Layout"
 import Image from "next/image"
 import { signIn, signOut, useSession, providers } from "next-auth/client";
+import {useState, useRef } from 'react'
 import axios from 'axios';
 
 var fetchForm = "";
@@ -12,7 +13,10 @@ if (process.browser) {
 }
 export default function Registration({ Providers }) {
     const [session] = useSession();
-    const [userName,password,email,gitToken] = useRef(null);
+    const userName = useRef(null);
+    const password = useRef(null);
+    const email = useRef(null);
+    const gitToken = useRef(null);
 
     return (
         <Layout title="会員登録">
