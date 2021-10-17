@@ -81,8 +81,8 @@ const postFetch = (session) => {
         mode: 'cors',
         headers: {
             'Content-Type': 'application/json',
-            "Access-Control-Allow-Origin": "https://my-profile-test.herokuapp.com/",
-            "Access-Control-Allow-Headers": "X-Requested-With, Origin, X-Csrftoken, Content-Type, Accept"
+            "Access-Control-Allow-Origin": "*",
+            "Access-Control-Allow-Headers": "*"
         },
         method: 'POST',
         body: JSON.parse(json)
