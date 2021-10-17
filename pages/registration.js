@@ -21,6 +21,7 @@ export default function Registration({ Providers }) {
     return (
         <Layout title="会員登録">
             {console.dir(Providers)}
+            {console.dir(session)}
             <form action="#" className="fetchForm w-full md:w-3/4 lg:w-3/6 p-4">
                 <div className="p-3">
                     <input className="block appearance-none placeholder-gray-500 placeholder-opacity-100 border border-light-blue-400 rounded-md py-3 px-4 text-gray-700 leading-5 focus:outline-none focus:ring-2 focus:ring-light-blue-300" type="text" placeholder="Name" name="name" id="user" ref={userName} value={session?.user?.name} required />
