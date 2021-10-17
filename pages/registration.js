@@ -58,14 +58,15 @@ export async function getStaticProps(context) {
 
 const postFetch = (session) => {
     let formData = new FormData(fetchForm);
-    var json = '{';
+    /*var json = '{';
     for (let value of formData.entries()) {
         console.log(value);
         json += '"' + value[0] + '":"' + value[1] + '",'
     }
     json = removeLastComma(json);
     json += '}'
-    console.log(json);
+    console.log(json);*/
+    console.dir(session?.user?.name.toLowerCase())
     if (session?.user?.name.toLowerCase() == "github") {
         json = {
             name: userName.current.value,
@@ -75,7 +76,6 @@ const postFetch = (session) => {
         }
     }
     console.dir(json)
-    console.dir(JSON.parse(json))
     /*json = {
         name: "DICE",
         password: "testaaa",
