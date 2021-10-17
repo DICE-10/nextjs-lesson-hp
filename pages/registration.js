@@ -66,7 +66,7 @@ const postFetch = (session) => {
     json = removeLastComma(json);
     json += '}'
     console.log(json);*/
-    console.dir(session?.user?.name.toLowerCase())
+    console.dir(session);
     if (session?.user?.name.toLowerCase() == "github") {
         json = {
             name: userName.current.value,
