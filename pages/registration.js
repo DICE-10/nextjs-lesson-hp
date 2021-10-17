@@ -68,7 +68,7 @@ const postFetch = (session) => {
     json += '}'
     console.log(json);*/
     console.dir(session);
-    if (session?.user?.name.toLowerCase() == "github") {
+    if (session?.provider.toLowerCase() == "github") {
         json = {
             name: userName.current.value,
             password: password.current.value,
