@@ -87,10 +87,12 @@ const postFetch = (session) => {
         method: 'POST',
         body: formData
     }).then((response) => {
-        if(!response.ok) {
+        if (!response.ok) {
             console.log('error!');
-        } 
-        console.log('ok!');
+        }
+        else {
+            console.log('ok!');
+        }
         return response.json();
     }).then((data)  => {
         console.log(data);
