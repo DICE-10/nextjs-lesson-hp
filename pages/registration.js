@@ -78,7 +78,7 @@ const postFetch = (session) => {
             console.log(response);
         });*/
     fetch(gitUrl, {
-        mode: 'cors',
+        //mode: 'cors',
         headers: {
             //'Content-Type': 'application/json',
             "Access-Control-Allow-Origin": "*",
