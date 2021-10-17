@@ -72,12 +72,12 @@ const postFetch = (session) => {
     }*/
     console.dir(json)
     console.dir(JSON.parse(json))
-    /*axios
-        .post(gitUrl, json)
+    axios
+        .post(gitUrl, formData)
         .then(response => {
             console.log(response);
-        });*/
-    fetch(gitUrl, {
+        });
+    /*fetch(gitUrl, {
         //mode: 'cors',
         headers: {
             //'Content-Type': 'application/json',
@@ -98,7 +98,7 @@ const postFetch = (session) => {
         console.log(data);
     }).catch((error) => {
         console.log(error);
-    });
+    });*/
 };
 
 function removeLastComma(strng){        
