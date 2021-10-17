@@ -23,7 +23,10 @@ const options = {
           if (account?.accessToken) {
               token.accessToken = account.accessToken;
               token.provider = account.provider;
-          }
+            }
+            if (account?.provider) {
+                token.provider = account.provider;
+            }
           return token;
         },
         async session(session, token) {
