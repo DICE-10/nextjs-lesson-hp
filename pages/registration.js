@@ -12,22 +12,22 @@ if (process.browser) {
 }
 export default function Registration({ Providers }) {
     const [session] = useSession();
-
+    const [userName,password,email,gitToken] = useRef();
 
     return (
         <Layout title="会員登録">
             {console.dir(session)}
             <form action="#" className="fetchForm w-full md:w-3/4 lg:w-3/6 p-4">
                 <div className="p-3">
-                    <input className="block appearance-none placeholder-gray-500 placeholder-opacity-100 border border-light-blue-400 rounded-md py-3 px-4 text-gray-700 leading-5 focus:outline-none focus:ring-2 focus:ring-light-blue-300" type="text" placeholder="Name" name="name" id="user" value={session?.user?.name} required />
+                    <input className="block appearance-none placeholder-gray-500 placeholder-opacity-100 border border-light-blue-400 rounded-md py-3 px-4 text-gray-700 leading-5 focus:outline-none focus:ring-2 focus:ring-light-blue-300" type="text" placeholder="Name" name="name" id="user" ref={userName} value={session?.user?.name} required />
 
                 </div>
                 <div className="p-3">
-                    <input className="block appearance-none placeholder-gray-500 placeholder-opacity-100 border border-light-blue-400 rounded-md w-full py-3 px-4 text-gray-700 leading-5 focus:outline-none focus:ring-2 focus:ring-light-blue-300" type="password" placeholder="password" id="password" name="password" required />
+                    <input className="block appearance-none placeholder-gray-500 placeholder-opacity-100 border border-light-blue-400 rounded-md w-full py-3 px-4 text-gray-700 leading-5 focus:outline-none focus:ring-2 focus:ring-light-blue-300" type="password" placeholder="password" id="password" name="password" ref={password} required />
                 </div>
                 <div className="p-3">
-                    <input className="block appearance-none placeholder-gray-500 placeholder-opacity-100 border border-light-blue-400 rounded-md w-full py-3 px-4 text-gray-700 leading-5 focus:outline-none focus:ring-2 focus:ring-light-blue-300" type="email" placeholder="Email Id" name="email" id="email" value={session?.user?.email} required />
-                    <input className="block appearance-none placeholder-gray-500 placeholder-opacity-100 border border-light-blue-400 rounded-md w-full py-3 px-4 text-gray-700 leading-5 focus:outline-none focus:ring-2 focus:ring-light-blue-300" type="hidden" name="gitToken" id="gitToken" value={session?.accessToken} />
+                    <input className="block appearance-none placeholder-gray-500 placeholder-opacity-100 border border-light-blue-400 rounded-md w-full py-3 px-4 text-gray-700 leading-5 focus:outline-none focus:ring-2 focus:ring-light-blue-300" type="email" placeholder="Email Id" name="email" id="email" value={session?.user?.email} ref={email} required />
+                    <input className="block appearance-none placeholder-gray-500 placeholder-opacity-100 border border-light-blue-400 rounded-md w-full py-3 px-4 text-gray-700 leading-5 focus:outline-none focus:ring-2 focus:ring-light-blue-300" type="hidden" name="gitToken" id="gitToken" value={session?.accessToken} ref={gitToken} />
                 </div>
                 <div className="p-3">
                     <input className="block appearance-none placeholder-gray-500 placeholder-opacity-100 border border-light-blue-400 rounded-md w-full py-3 px-4 text-gray-700 leading-5 focus:outline-none focus:ring-2 focus:ring-light-blue-300" type="number" placeholder="Mobile Number" required />
@@ -54,7 +54,6 @@ export async function getStaticProps(context) {
 
 const postFetch = (session) => {
     let formData = new FormData(fetchForm);
-    console.dir(JSON.stringify(formData));
     var json = '{';
     for (let value of formData.entries()) {
         console.log(value);
@@ -62,15 +61,15 @@ const postFetch = (session) => {
     }
     json = removeLastComma(json);
     json += '}'
-    /*console.log(json);
+    console.log(json);
     if (session?.user?.name.toLowerCase() == "github") {
         json = {
-            "name": document.getElementById("name").value,
-            "pass": document.getElementById("password").value,
-            "email": document.getElementById("email").value,
-            "gitToken": document.getElementById("gitToken").value
+            "name": userName.current.value,
+            "password": password.current.value,
+            "email": email.current.value,
+            "gitToken": gitToken.current.value
         }
-    }*/
+    }
     console.dir(json)
     console.dir(JSON.parse(json))
     /*json = {
@@ -80,12 +79,7 @@ const postFetch = (session) => {
         gitToken: "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"
     }*/
     axios
-        .post(gitUrl, formData,
-            {
-              headers: {
-                'content-type': 'multipart/form-data',
-              },
-            })
+        .post(gitUrl, json)
         .then(response => {
             console.log(response);
         });
