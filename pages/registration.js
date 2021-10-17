@@ -7,7 +7,7 @@ var fetchForm = "";
 var gitUrl = "";
 if (process.browser) {
     fetchForm = document.querySelector('.fetchForm');
-    gitUrl = "https://my-profile-test.herokuapp.com/api/github";
+    gitUrl = "https://my-profile-test.herokuapp.com/api/github/";
     // windowやdocumentを使う処理を記述
 }
 export default function Registration({ Providers }) {
