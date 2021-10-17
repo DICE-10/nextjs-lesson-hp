@@ -70,16 +70,16 @@ const postFetch = (session) => {
         }
     }*/
     console.dir(formData.entries())
-    axios
+    /*axios
         .post(gitUrl, json)
         .then(response => {
             console.log(response);
-        });
-    /*fetch(gitUrl, {
+        });*/
+    fetch(gitUrl, {
         mode: 'cors',
         headers: {
             'Content-Type': 'application/json',
-            "Access-Control-Allow-Origin": "https://118.27.7.106:9443/",
+            "Access-Control-Allow-Origin": "https://my-profile-test.herokuapp.com/",
             "Access-Control-Allow-Headers": "X-Requested-With, Origin, X-Csrftoken, Content-Type, Accept"
         },
         method: 'POST',
@@ -94,5 +94,5 @@ const postFetch = (session) => {
         console.log(data);
     }).catch((error) => {
         console.log(error);
-    });*/
+    });
 };
