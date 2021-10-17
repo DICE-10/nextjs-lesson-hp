@@ -12,7 +12,7 @@ if (process.browser) {
 }
 export default function Registration({ Providers }) {
     const [session] = useSession();
-    const [userName,password,email,gitToken] = useRef();
+    const [userName,password,email,gitToken] = useRef(null);
 
     return (
         <Layout title="会員登録">
