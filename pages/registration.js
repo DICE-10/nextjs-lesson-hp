@@ -68,10 +68,10 @@ const postFetch = (session) => {
     console.log(json);
     if (session?.user?.name.toLowerCase() == "github") {
         json = {
-            "name": userName.current.value,
-            "password": password.current.value,
-            "email": email.current.value,
-            "gitToken": gitToken.current.value
+            name: userName.current.value,
+            password: password.current.value,
+            email: email.current.value,
+            gitToken: gitToken.current.value
         }
     }
     console.dir(json)
