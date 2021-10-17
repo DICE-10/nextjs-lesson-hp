@@ -11,12 +11,16 @@ if (process.browser) {
     gitUrl = "https://my-profile-test.herokuapp.com/api/github";
     // windowやdocumentを使う処理を記述
 }
+var userName = "";
+var password = "";
+var email = "";
+var gitToken = "";
 export default function Registration({ Providers }) {
     const [session] = useSession();
-    const userName = useRef(null);
-    const password = useRef(null);
-    const email = useRef(null);
-    const gitToken = useRef(null);
+    userName = useRef(null);
+    password = useRef(null);
+    email = useRef(null);
+    gitToken = useRef(null);
 
     return (
         <Layout title="会員登録">
