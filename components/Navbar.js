@@ -34,9 +34,13 @@ export default function Navbar({ children }) {
                                 </div>
                                 <div className="text-black fs-center">
                                     <Link href="/signin">
-                                            <a  className="fs-d-block fs-tlink-center">Sign In</a>
+                                            <a  className="fs-d-block fs-tlink-center" onClick={() =>
+                                                signOut({
+                                                callbackUrl: `${window.location.origin}`
+                                                })
+                                            }>Sign Out</a>
                                     </Link>
-                            </div>
+                                </div>
                             </div>
                     </>}
                     {!session && <>
