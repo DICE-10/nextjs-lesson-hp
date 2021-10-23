@@ -37,16 +37,6 @@ export default function Navbar({ children }) {
                                             <a  className="fs-d-block fs-tlink-center">Sign In</a>
                                     </Link>
                             </div>
-                                <div className="text-black fs-center">
-                                        <Link href="/">
-                                                <a  className="fs-d-block fs-tlink-center">ログイン</a>
-                                        </Link>
-                                </div>
-                                <div className="text-black fs-center">
-                                        <Link href="/">
-                                                <a  className="fs-d-block fs-tlink-center">サインアップ</a>
-                                        </Link>
-                                </div>
                             </div>
                     </>}
                     {!session && <>
