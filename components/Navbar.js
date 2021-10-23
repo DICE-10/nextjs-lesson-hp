@@ -11,7 +11,7 @@ export default function Navbar({ children }) {
                         <span className="fs-hamburger-icon"></span>
                     </label>
                 
-                    <div className="fs-navi fs-grid bg-ghostwhite m-grid-col-2">
+                    <div className="fs-navi fs-grid bg-ghostwhite m-grid-2_3 ">
                         <div></div>
                         <div className="fs-grid m-grid-col-4 fs-nav-menu r-gap ac-center jc-end">
                             <div className="text-black fs-center">

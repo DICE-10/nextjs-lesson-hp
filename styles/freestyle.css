@@ -407,6 +407,9 @@ body{
     .m-container, .s-container, .fs-container {
         max-width: 720px;
     }
+    .m-grid-2_3{
+        grid-template-columns: 1fr 2fr;
+    }
     .m-grid-col-1{
         grid-template-columns: repeat(1, minmax(0, 1fr));
     }
