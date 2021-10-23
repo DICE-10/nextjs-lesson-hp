@@ -7,7 +7,7 @@ export default function Navbar({ children }) {
             <div className="fs-header">
                 <div className="fs-hamburger">
                     <input type="checkbox" name="navToggle" id="navToggle" className="fs-nav-toggle fs-nav-leftin black50" />
-                    <label for="navToggle" className="fs-btn-burger">
+                    <label htmlFor="navToggle" className="fs-btn-burger">
                         <span className="fs-hamburger-icon"></span>
                     </label>
                 
