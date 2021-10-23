@@ -49,6 +49,7 @@ export default function Navbar({ children }) {
                                 </div>
                             </div>
                     </>}
+                    {!session && <>
                         <div className="fs-grid m-grid-col-6 fs-nav-menu r-gap ac-center jc-end">
                             <div className="text-black fs-center">
                                 <Link href="/">
@@ -80,8 +81,9 @@ export default function Navbar({ children }) {
                                             <a  className="fs-d-block fs-tlink-center">サインアップ</a>
                                     </Link>
                             </div>
-                        </div>
+                        </div></>}
                     </div>
+                    
                 </div>
             </div>
             );
