@@ -1,6 +1,7 @@
 import Head from "next/head"
 import Link from "next/link"
 import Image from "next/dist/client/image";
+import Navbar from "./Navbar";
 
 export default function Layout({ children, title = "HP by Nextjs" }) {
     return (
@@ -10,7 +11,8 @@ export default function Layout({ children, title = "HP by Nextjs" }) {
                 <meta httpEquiv="Content-Security-Policy" content="upgrade-insecure-requests"></meta>
             </Head>
             <header>
-                <nav className="bg-gray-800 w-screen">
+                <Navbar/>
+                {/* <nav className="bg-gray-800 w-screen">
                     <div className="flex items-center pl-8 h-14">
                         <div className="flex space-x-4">
                             <Link href="/">
@@ -35,7 +37,7 @@ export default function Layout({ children, title = "HP by Nextjs" }) {
                             </Link>
                         </div>
                     </div>
-                </nav>
+                </nav> */}
             </header>
             <main className="flex flex-1 justify-center items-center flex-col w-full bg-gray-50">
                 {children}
