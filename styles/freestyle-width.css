@@ -1,0 +1,6811 @@
+/* Width */
+.fs-wfull{
+    width: 100%;
+}
+.fs-wscreen{
+    width: 100vw;
+}
+.fs-w0{
+    width: 0px;
+}
+.fs-wpx{
+    width: 1px;
+}
+.fs-w1{
+    width: 0.1rem;
+}
+.fs-w2{
+    width: 0.2rem;
+}
+.fs-w3{
+    width: 0.3rem;
+}
+.fs-w4{
+    width: 0.4rem;
+}
+.fs-w5{
+    width: 0.5rem;
+}
+.fs-w6{
+    width: 0.6rem;
+}
+.fs-w7{
+    width: 0.7rem;
+}
+.fs-w8{
+    width: 0.8rem;
+}
+.fs-w9{
+    width: 0.9rem;
+}
+.fs-w10{
+    width: 1rem;
+}
+.fs-w11{
+    width: 1.1rem;
+}
+.fs-w12{
+    width: 1.2rem;
+}
+.fs-w13{
+    width: 1.3rem;
+}
+.fs-w14{
+    width: 1.4rem;
+}
+.fs-w15{
+    width: 1.5rem;
+}
+.fs-w16{
+    width: 1.6rem;
+}
+.fs-w17{
+    width: 1.7rem;
+}
+.fs-w18{
+    width: 1.8rem;
+}
+.fs-w19{
+    width: 1.9rem;
+}
+.fs-w20{
+    width: 2rem;
+}
+.fs-w21{
+    width: 2.1rem;
+}
+.fs-w22{
+    width: 2.2rem;
+}
+.fs-w23{
+    width: 2.3rem;
+}
+.fs-w24{
+    width: 2.4rem;
+}
+.fs-w25{
+    width: 2.5rem;
+}
+.fs-w26{
+    width: 2.6rem;
+}
+.fs-w27{
+    width: 2.7rem;
+}
+.fs-w28{
+    width: 2.8rem;
+}
+.fs-w29{
+    width: 2.9rem;
+}
+.fs-w30{
+    width: 3rem;
+}
+.fs-w31{
+    width: 3.1rem;
+}
+.fs-w32{
+    width: 3.2rem;
+}
+.fs-w33{
+    width: 3.3rem;
+}
+.fs-w34{
+    width: 3.4rem;
+}
+.fs-w35{
+    width: 3.5rem;
+}
+.fs-w36{
+    width: 3.6rem;
+}
+.fs-w37{
+    width: 3.7rem;
+}
+.fs-w38{
+    width: 3.8rem;
+}
+.fs-w39{
+    width: 3.9rem;
+}
+.fs-w40{
+    width: 4rem;
+}
+.fs-w41{
+    width: 4.1rem;
+}
+.fs-w42{
+    width: 4.2rem;
+}
+.fs-w43{
+    width: 4.3rem;
+}
+.fs-w44{
+    width: 4.4rem;
+}
+.fs-w45{
+    width: 4.5rem;
+}
+.fs-w46{
+    width: 4.6rem;
+}
+.fs-w47{
+    width: 4.7rem;
+}
+.fs-w48{
+    width: 4.8rem;
+}
+.fs-w49{
+    width: 4.9rem;
+}
+.fs-w50{
+    width: 5rem;
+}
+.fs-w51{
+    width: 5.1rem;
+}
+.fs-w52{
+    width: 5.2rem;
+}
+.fs-w53{
+    width: 5.3rem;
+}
+.fs-w54{
+    width: 5.4rem;
+}
+.fs-w55{
+    width: 5.5rem;
+}
+.fs-w56{
+    width: 5.6rem;
+}
+.fs-w57{
+    width: 5.7rem;
+}
+.fs-w58{
+    width: 5.8rem;
+}
+.fs-w59{
+    width: 5.9rem;
+}
+.fs-w60{
+    width: 6rem;
+}
+.fs-w61{
+    width: 6.1rem;
+}
+.fs-w62{
+    width: 6.2rem;
+}
+.fs-w63{
+    width: 6.3rem;
+}
+.fs-w64{
+    width: 6.4rem;
+}
+.fs-w65{
+    width: 6.5rem;
+}
+.fs-w66{
+    width: 6.6rem;
+}
+.fs-w67{
+    width: 6.7rem;
+}
+.fs-w68{
+    width: 6.8rem;
+}
+.fs-w69{
+    width: 6.9rem;
+}
+.fs-w70{
+    width: 7rem;
+}
+.fs-w71{
+    width: 7.1rem;
+}
+.fs-w72{
+    width: 7.2rem;
+}
+.fs-w73{
+    width: 7.3rem;
+}
+.fs-w74{
+    width: 7.4rem;
+}
+.fs-w75{
+    width: 7.5rem;
+}
+.fs-w76{
+    width: 7.6rem;
+}
+.fs-w77{
+    width: 7.7rem;
+}
+.fs-w78{
+    width: 7.8rem;
+}
+.fs-w79{
+    width: 7.9rem;
+}
+.fs-w80{
+    width: 8rem;
+}
+.fs-w81{
+    width: 8.1rem;
+}
+.fs-w82{
+    width: 8.2rem;
+}
+.fs-w83{
+    width: 8.3rem;
+}
+.fs-w84{
+    width: 8.4rem;
+}
+.fs-w85{
+    width: 8.5rem;
+}
+.fs-w86{
+    width: 8.6rem;
+}
+.fs-w87{
+    width: 8.7rem;
+}
+.fs-w88{
+    width: 8.8rem;
+}
+.fs-w89{
+    width: 8.9rem;
+}
+.fs-w90{
+    width: 9rem;
+}
+.fs-w91{
+    width: 9.1rem;
+}
+.fs-w92{
+    width: 9.2rem;
+}
+.fs-w93{
+    width: 9.3rem;
+}
+.fs-w94{
+    width: 9.4rem;
+}
+.fs-w95{
+    width: 9.5rem;
+}
+.fs-w96{
+    width: 9.6rem;
+}
+.fs-w97{
+    width: 9.7rem;
+}
+.fs-w98{
+    width: 9.8rem;
+}
+.fs-w99{
+    width: 9.9rem;
+}
+.fs-w100{
+    width: 10rem;
+}
+.fs-w101{
+    width: 10.1rem;
+}
+.fs-w102{
+    width: 10.2rem;
+}
+.fs-w103{
+    width: 10.3rem;
+}
+.fs-w104{
+    width: 10.4rem;
+}
+.fs-w105{
+    width: 10.5rem;
+}
+.fs-w106{
+    width: 10.6rem;
+}
+.fs-w107{
+    width: 10.7rem;
+}
+.fs-w108{
+    width: 10.8rem;
+}
+.fs-w109{
+    width: 10.9rem;
+}
+.fs-w110{
+    width: 11rem;
+}
+.fs-w111{
+    width: 11.1rem;
+}
+.fs-w112{
+    width: 11.2rem;
+}
+.fs-w113{
+    width: 11.3rem;
+}
+.fs-w114{
+    width: 11.4rem;
+}
+.fs-w115{
+    width: 11.5rem;
+}
+.fs-w116{
+    width: 11.6rem;
+}
+.fs-w117{
+    width: 11.7rem;
+}
+.fs-w118{
+    width: 11.8rem;
+}
+.fs-w119{
+    width: 11.9rem;
+}
+.fs-w120{
+    width: 12rem;
+}
+.fs-w121{
+    width: 12.1rem;
+}
+.fs-w122{
+    width: 12.2rem;
+}
+.fs-w123{
+    width: 12.3rem;
+}
+.fs-w124{
+    width: 12.4rem;
+}
+.fs-w125{
+    width: 12.5rem;
+}
+.fs-w126{
+    width: 12.6rem;
+}
+.fs-w127{
+    width: 12.7rem;
+}
+.fs-w128{
+    width: 12.8rem;
+}
+.fs-w129{
+    width: 12.9rem;
+}
+.fs-w130{
+    width: 13rem;
+}
+.fs-w131{
+    width: 13.1rem;
+}
+.fs-w132{
+    width: 13.2rem;
+}
+.fs-w133{
+    width: 13.3rem;
+}
+.fs-w134{
+    width: 13.4rem;
+}
+.fs-w135{
+    width: 13.5rem;
+}
+.fs-w136{
+    width: 13.6rem;
+}
+.fs-w137{
+    width: 13.7rem;
+}
+.fs-w138{
+    width: 13.8rem;
+}
+.fs-w139{
+    width: 13.9rem;
+}
+.fs-w140{
+    width: 14rem;
+}
+.fs-w141{
+    width: 14.1rem;
+}
+.fs-w142{
+    width: 14.2rem;
+}
+.fs-w143{
+    width: 14.3rem;
+}
+.fs-w144{
+    width: 14.4rem;
+}
+.fs-w145{
+    width: 14.5rem;
+}
+.fs-w146{
+    width: 14.6rem;
+}
+.fs-w147{
+    width: 14.7rem;
+}
+.fs-w148{
+    width: 14.8rem;
+}
+.fs-w149{
+    width: 14.9rem;
+}
+.fs-w150{
+    width: 15rem;
+}
+.fs-w151{
+    width: 15.1rem;
+}
+.fs-w152{
+    width: 15.2rem;
+}
+.fs-w153{
+    width: 15.3rem;
+}
+.fs-w154{
+    width: 15.4rem;
+}
+.fs-w155{
+    width: 15.5rem;
+}
+.fs-w156{
+    width: 15.6rem;
+}
+.fs-w157{
+    width: 15.7rem;
+}
+.fs-w158{
+    width: 15.8rem;
+}
+.fs-w159{
+    width: 15.9rem;
+}
+.fs-w160{
+    width: 16rem;
+}
+.fs-w161{
+    width: 16.1rem;
+}
+.fs-w162{
+    width: 16.2rem;
+}
+.fs-w163{
+    width: 16.3rem;
+}
+.fs-w164{
+    width: 16.4rem;
+}
+.fs-w165{
+    width: 16.5rem;
+}
+.fs-w166{
+    width: 16.6rem;
+}
+.fs-w167{
+    width: 16.7rem;
+}
+.fs-w168{
+    width: 16.8rem;
+}
+.fs-w169{
+    width: 16.9rem;
+}
+.fs-w170{
+    width: 17rem;
+}
+.fs-w171{
+    width: 17.1rem;
+}
+.fs-w172{
+    width: 17.2rem;
+}
+.fs-w173{
+    width: 17.3rem;
+}
+.fs-w174{
+    width: 17.4rem;
+}
+.fs-w175{
+    width: 17.5rem;
+}
+.fs-w176{
+    width: 17.6rem;
+}
+.fs-w177{
+    width: 17.7rem;
+}
+.fs-w178{
+    width: 17.8rem;
+}
+.fs-w179{
+    width: 17.9rem;
+}
+.fs-w180{
+    width: 18rem;
+}
+.fs-w181{
+    width: 18.1rem;
+}
+.fs-w182{
+    width: 18.2rem;
+}
+.fs-w183{
+    width: 18.3rem;
+}
+.fs-w184{
+    width: 18.4rem;
+}
+.fs-w185{
+    width: 18.5rem;
+}
+.fs-w186{
+    width: 18.6rem;
+}
+.fs-w187{
+    width: 18.7rem;
+}
+.fs-w188{
+    width: 18.8rem;
+}
+.fs-w189{
+    width: 18.9rem;
+}
+.fs-w190{
+    width: 19rem;
+}
+.fs-w191{
+    width: 19.1rem;
+}
+.fs-w192{
+    width: 19.2rem;
+}
+.fs-w193{
+    width: 19.3rem;
+}
+.fs-w194{
+    width: 19.4rem;
+}
+.fs-w195{
+    width: 19.5rem;
+}
+.fs-w196{
+    width: 19.6rem;
+}
+.fs-w197{
+    width: 19.7rem;
+}
+.fs-w198{
+    width: 19.8rem;
+}
+.fs-w199{
+    width: 19.9rem;
+}
+.fs-w200{
+    width: 20rem;
+}
+.fs-w201{
+    width: 20.1rem;
+}
+.fs-w202{
+    width: 20.2rem;
+}
+.fs-w203{
+    width: 20.3rem;
+}
+.fs-w204{
+    width: 20.4rem;
+}
+.fs-w205{
+    width: 20.5rem;
+}
+.fs-w206{
+    width: 20.6rem;
+}
+.fs-w207{
+    width: 20.7rem;
+}
+.fs-w208{
+    width: 20.8rem;
+}
+.fs-w209{
+    width: 20.9rem;
+}
+.fs-w210{
+    width: 21rem;
+}
+.fs-w211{
+    width: 21.1rem;
+}
+.fs-w212{
+    width: 21.2rem;
+}
+.fs-w213{
+    width: 21.3rem;
+}
+.fs-w214{
+    width: 21.4rem;
+}
+.fs-w215{
+    width: 21.5rem;
+}
+.fs-w216{
+    width: 21.6rem;
+}
+.fs-w217{
+    width: 21.7rem;
+}
+.fs-w218{
+    width: 21.8rem;
+}
+.fs-w219{
+    width: 21.9rem;
+}
+.fs-w220{
+    width: 22rem;
+}
+.fs-w221{
+    width: 22.1rem;
+}
+.fs-w222{
+    width: 22.2rem;
+}
+.fs-w223{
+    width: 22.3rem;
+}
+.fs-w224{
+    width: 22.4rem;
+}
+.fs-w225{
+    width: 22.5rem;
+}
+.fs-w226{
+    width: 22.6rem;
+}
+.fs-w227{
+    width: 22.7rem;
+}
+.fs-w228{
+    width: 22.8rem;
+}
+.fs-w229{
+    width: 22.9rem;
+}
+.fs-w230{
+    width: 23rem;
+}
+.fs-w231{
+    width: 23.1rem;
+}
+.fs-w232{
+    width: 23.2rem;
+}
+.fs-w233{
+    width: 23.3rem;
+}
+.fs-w234{
+    width: 23.4rem;
+}
+.fs-w235{
+    width: 23.5rem;
+}
+.fs-w236{
+    width: 23.6rem;
+}
+.fs-w237{
+    width: 23.7rem;
+}
+.fs-w238{
+    width: 23.8rem;
+}
+.fs-w239{
+    width: 23.9rem;
+}
+.fs-w240{
+    width: 24rem;
+}
+.fs-w241{
+    width: 24.1rem;
+}
+.fs-w242{
+    width: 24.2rem;
+}
+.fs-w243{
+    width: 24.3rem;
+}
+.fs-w244{
+    width: 24.4rem;
+}
+.fs-w245{
+    width: 24.5rem;
+}
+.fs-w246{
+    width: 24.6rem;
+}
+.fs-w247{
+    width: 24.7rem;
+}
+.fs-w248{
+    width: 24.8rem;
+}
+.fs-w249{
+    width: 24.9rem;
+}
+.fs-w250{
+    width: 25rem;
+}
+.fs-w251{
+    width: 25.1rem;
+}
+.fs-w252{
+    width: 25.2rem;
+}
+.fs-w253{
+    width: 25.3rem;
+}
+.fs-w254{
+    width: 25.4rem;
+}
+.fs-w255{
+    width: 25.5rem;
+}
+.fs-w256{
+    width: 25.6rem;
+}
+.fs-w257{
+    width: 25.7rem;
+}
+.fs-w258{
+    width: 25.8rem;
+}
+.fs-w259{
+    width: 25.9rem;
+}
+.fs-w260{
+    width: 26rem;
+}
+.fs-w261{
+    width: 26.1rem;
+}
+.fs-w262{
+    width: 26.2rem;
+}
+.fs-w263{
+    width: 26.3rem;
+}
+.fs-w264{
+    width: 26.4rem;
+}
+.fs-w265{
+    width: 26.5rem;
+}
+.fs-w266{
+    width: 26.6rem;
+}
+.fs-w267{
+    width: 26.7rem;
+}
+.fs-w268{
+    width: 26.8rem;
+}
+.fs-w269{
+    width: 26.9rem;
+}
+.fs-w270{
+    width: 27rem;
+}
+.fs-w271{
+    width: 27.1rem;
+}
+.fs-w272{
+    width: 27.2rem;
+}
+.fs-w273{
+    width: 27.3rem;
+}
+.fs-w274{
+    width: 27.4rem;
+}
+.fs-w275{
+    width: 27.5rem;
+}
+.fs-w276{
+    width: 27.6rem;
+}
+.fs-w277{
+    width: 27.7rem;
+}
+.fs-w278{
+    width: 27.8rem;
+}
+.fs-w279{
+    width: 27.9rem;
+}
+.fs-w280{
+    width: 28rem;
+}
+.fs-w281{
+    width: 28.1rem;
+}
+.fs-w282{
+    width: 28.2rem;
+}
+.fs-w283{
+    width: 28.3rem;
+}
+.fs-w284{
+    width: 28.4rem;
+}
+.fs-w285{
+    width: 28.5rem;
+}
+.fs-w286{
+    width: 28.6rem;
+}
+.fs-w287{
+    width: 28.7rem;
+}
+.fs-w288{
+    width: 28.8rem;
+}
+.fs-w289{
+    width: 28.9rem;
+}
+.fs-w290{
+    width: 29rem;
+}
+.fs-w291{
+    width: 29.1rem;
+}
+.fs-w292{
+    width: 29.2rem;
+}
+.fs-w293{
+    width: 29.3rem;
+}
+.fs-w294{
+    width: 29.4rem;
+}
+.fs-w295{
+    width: 29.5rem;
+}
+.fs-w296{
+    width: 29.6rem;
+}
+.fs-w297{
+    width: 29.7rem;
+}
+.fs-w298{
+    width: 29.8rem;
+}
+.fs-w299{
+    width: 29.9rem;
+}
+.fs-w300{
+    width: 30rem;
+}
+.fs-w301{
+    width: 30.1rem;
+}
+.fs-w302{
+    width: 30.2rem;
+}
+.fs-w303{
+    width: 30.3rem;
+}
+.fs-w304{
+    width: 30.4rem;
+}
+.fs-w305{
+    width: 30.5rem;
+}
+.fs-w306{
+    width: 30.6rem;
+}
+.fs-w307{
+    width: 30.7rem;
+}
+.fs-w308{
+    width: 30.8rem;
+}
+.fs-w309{
+    width: 30.9rem;
+}
+.fs-w310{
+    width: 31rem;
+}
+.fs-w311{
+    width: 31.1rem;
+}
+.fs-w312{
+    width: 31.2rem;
+}
+.fs-w313{
+    width: 31.3rem;
+}
+.fs-w314{
+    width: 31.4rem;
+}
+.fs-w315{
+    width: 31.5rem;
+}
+.fs-w316{
+    width: 31.6rem;
+}
+.fs-w317{
+    width: 31.7rem;
+}
+.fs-w318{
+    width: 31.8rem;
+}
+.fs-w319{
+    width: 31.9rem;
+}
+.fs-w320{
+    width: 32rem;
+}
+.fs-w321{
+    width: 32.1rem;
+}
+.fs-w322{
+    width: 32.2rem;
+}
+.fs-w323{
+    width: 32.3rem;
+}
+.fs-w324{
+    width: 32.4rem;
+}
+.fs-w325{
+    width: 32.5rem;
+}
+.fs-w326{
+    width: 32.6rem;
+}
+.fs-w327{
+    width: 32.7rem;
+}
+.fs-w328{
+    width: 32.8rem;
+}
+.fs-w329{
+    width: 32.9rem;
+}
+.fs-w330{
+    width: 33rem;
+}
+.fs-w331{
+    width: 33.1rem;
+}
+.fs-w332{
+    width: 33.2rem;
+}
+.fs-w333{
+    width: 33.3rem;
+}
+.fs-w334{
+    width: 33.4rem;
+}
+.fs-w335{
+    width: 33.5rem;
+}
+.fs-w336{
+    width: 33.6rem;
+}
+.fs-w337{
+    width: 33.7rem;
+}
+.fs-w338{
+    width: 33.8rem;
+}
+.fs-w339{
+    width: 33.9rem;
+}
+.fs-w340{
+    width: 34rem;
+}
+.fs-w341{
+    width: 34.1rem;
+}
+.fs-w342{
+    width: 34.2rem;
+}
+.fs-w343{
+    width: 34.3rem;
+}
+.fs-w344{
+    width: 34.4rem;
+}
+.fs-w345{
+    width: 34.5rem;
+}
+.fs-w346{
+    width: 34.6rem;
+}
+.fs-w347{
+    width: 34.7rem;
+}
+.fs-w348{
+    width: 34.8rem;
+}
+.fs-w349{
+    width: 34.9rem;
+}
+.fs-w350{
+    width: 35rem;
+}
+.fs-w351{
+    width: 35.1rem;
+}
+.fs-w352{
+    width: 35.2rem;
+}
+.fs-w353{
+    width: 35.3rem;
+}
+.fs-w354{
+    width: 35.4rem;
+}
+.fs-w355{
+    width: 35.5rem;
+}
+.fs-w356{
+    width: 35.6rem;
+}
+.fs-w357{
+    width: 35.7rem;
+}
+.fs-w358{
+    width: 35.8rem;
+}
+.fs-w359{
+    width: 35.9rem;
+}
+.fs-w360{
+    width: 36rem;
+}
+.fs-w361{
+    width: 36.1rem;
+}
+.fs-w362{
+    width: 36.2rem;
+}
+.fs-w363{
+    width: 36.3rem;
+}
+.fs-w364{
+    width: 36.4rem;
+}
+.fs-w365{
+    width: 36.5rem;
+}
+.fs-w366{
+    width: 36.6rem;
+}
+.fs-w367{
+    width: 36.7rem;
+}
+.fs-w368{
+    width: 36.8rem;
+}
+.fs-w369{
+    width: 36.9rem;
+}
+.fs-w370{
+    width: 37rem;
+}
+.fs-w371{
+    width: 37.1rem;
+}
+.fs-w372{
+    width: 37.2rem;
+}
+.fs-w373{
+    width: 37.3rem;
+}
+.fs-w374{
+    width: 37.4rem;
+}
+.fs-w375{
+    width: 37.5rem;
+}
+.fs-w376{
+    width: 37.6rem;
+}
+.fs-w377{
+    width: 37.7rem;
+}
+.fs-w378{
+    width: 37.8rem;
+}
+.fs-w379{
+    width: 37.9rem;
+}
+.fs-w380{
+    width: 38rem;
+}
+.fs-w381{
+    width: 38.1rem;
+}
+.fs-w382{
+    width: 38.2rem;
+}
+.fs-w383{
+    width: 38.3rem;
+}
+.fs-w384{
+    width: 38.4rem;
+}
+.fs-w385{
+    width: 38.5rem;
+}
+.fs-w386{
+    width: 38.6rem;
+}
+.fs-w387{
+    width: 38.7rem;
+}
+.fs-w388{
+    width: 38.8rem;
+}
+.fs-w389{
+    width: 38.9rem;
+}
+.fs-w390{
+    width: 39rem;
+}
+.fs-w391{
+    width: 39.1rem;
+}
+.fs-w392{
+    width: 39.2rem;
+}
+.fs-w393{
+    width: 39.3rem;
+}
+.fs-w394{
+    width: 39.4rem;
+}
+.fs-w395{
+    width: 39.5rem;
+}
+.fs-w396{
+    width: 39.6rem;
+}
+.fs-w397{
+    width: 39.7rem;
+}
+.fs-w398{
+    width: 39.8rem;
+}
+.fs-w399{
+    width: 39.9rem;
+}
+.fs-w400{
+    width: 40rem;
+}
+.fs-w401{
+    width: 40.1rem;
+}
+.fs-w402{
+    width: 40.2rem;
+}
+.fs-w403{
+    width: 40.3rem;
+}
+.fs-w404{
+    width: 40.4rem;
+}
+.fs-w405{
+    width: 40.5rem;
+}
+.fs-w406{
+    width: 40.6rem;
+}
+.fs-w407{
+    width: 40.7rem;
+}
+.fs-w408{
+    width: 40.8rem;
+}
+.fs-w409{
+    width: 40.9rem;
+}
+.fs-w410{
+    width: 41rem;
+}
+.fs-w411{
+    width: 41.1rem;
+}
+.fs-w412{
+    width: 41.2rem;
+}
+.fs-w413{
+    width: 41.3rem;
+}
+.fs-w414{
+    width: 41.4rem;
+}
+.fs-w415{
+    width: 41.5rem;
+}
+.fs-w416{
+    width: 41.6rem;
+}
+.fs-w417{
+    width: 41.7rem;
+}
+.fs-w418{
+    width: 41.8rem;
+}
+.fs-w419{
+    width: 41.9rem;
+}
+.fs-w420{
+    width: 42rem;
+}
+.fs-w421{
+    width: 42.1rem;
+}
+.fs-w422{
+    width: 42.2rem;
+}
+.fs-w423{
+    width: 42.3rem;
+}
+.fs-w424{
+    width: 42.4rem;
+}
+.fs-w425{
+    width: 42.5rem;
+}
+.fs-w426{
+    width: 42.6rem;
+}
+.fs-w427{
+    width: 42.7rem;
+}
+.fs-w428{
+    width: 42.8rem;
+}
+.fs-w429{
+    width: 42.9rem;
+}
+.fs-w430{
+    width: 43rem;
+}
+.fs-w431{
+    width: 43.1rem;
+}
+.fs-w432{
+    width: 43.2rem;
+}
+.fs-w433{
+    width: 43.3rem;
+}
+.fs-w434{
+    width: 43.4rem;
+}
+.fs-w435{
+    width: 43.5rem;
+}
+.fs-w436{
+    width: 43.6rem;
+}
+.fs-w437{
+    width: 43.7rem;
+}
+.fs-w438{
+    width: 43.8rem;
+}
+.fs-w439{
+    width: 43.9rem;
+}
+.fs-w440{
+    width: 44rem;
+}
+.fs-w441{
+    width: 44.1rem;
+}
+.fs-w442{
+    width: 44.2rem;
+}
+.fs-w443{
+    width: 44.3rem;
+}
+.fs-w444{
+    width: 44.4rem;
+}
+.fs-w445{
+    width: 44.5rem;
+}
+.fs-w446{
+    width: 44.6rem;
+}
+.fs-w447{
+    width: 44.7rem;
+}
+.fs-w448{
+    width: 44.8rem;
+}
+.fs-w449{
+    width: 44.9rem;
+}
+.fs-w450{
+    width: 45rem;
+}
+.fs-w451{
+    width: 45.1rem;
+}
+.fs-w452{
+    width: 45.2rem;
+}
+.fs-w453{
+    width: 45.3rem;
+}
+.fs-w454{
+    width: 45.4rem;
+}
+.fs-w455{
+    width: 45.5rem;
+}
+.fs-w456{
+    width: 45.6rem;
+}
+.fs-w457{
+    width: 45.7rem;
+}
+.fs-w458{
+    width: 45.8rem;
+}
+.fs-w459{
+    width: 45.9rem;
+}
+.fs-w460{
+    width: 46rem;
+}
+.fs-w461{
+    width: 46.1rem;
+}
+.fs-w462{
+    width: 46.2rem;
+}
+.fs-w463{
+    width: 46.3rem;
+}
+.fs-w464{
+    width: 46.4rem;
+}
+.fs-w465{
+    width: 46.5rem;
+}
+.fs-w466{
+    width: 46.6rem;
+}
+.fs-w467{
+    width: 46.7rem;
+}
+.fs-w468{
+    width: 46.8rem;
+}
+.fs-w469{
+    width: 46.9rem;
+}
+.fs-w470{
+    width: 47rem;
+}
+.fs-w471{
+    width: 47.1rem;
+}
+.fs-w472{
+    width: 47.2rem;
+}
+.fs-w473{
+    width: 47.3rem;
+}
+.fs-w474{
+    width: 47.4rem;
+}
+.fs-w475{
+    width: 47.5rem;
+}
+.fs-w476{
+    width: 47.6rem;
+}
+.fs-w477{
+    width: 47.7rem;
+}
+.fs-w478{
+    width: 47.8rem;
+}
+.fs-w479{
+    width: 47.9rem;
+}
+.fs-w480{
+    width: 48rem;
+}
+.fs-w481{
+    width: 48.1rem;
+}
+.fs-w482{
+    width: 48.2rem;
+}
+.fs-w483{
+    width: 48.3rem;
+}
+.fs-w484{
+    width: 48.4rem;
+}
+.fs-w485{
+    width: 48.5rem;
+}
+.fs-w486{
+    width: 48.6rem;
+}
+.fs-w487{
+    width: 48.7rem;
+}
+.fs-w488{
+    width: 48.8rem;
+}
+.fs-w489{
+    width: 48.9rem;
+}
+.fs-w490{
+    width: 49rem;
+}
+.fs-w491{
+    width: 49.1rem;
+}
+.fs-w492{
+    width: 49.2rem;
+}
+.fs-w493{
+    width: 49.3rem;
+}
+.fs-w494{
+    width: 49.4rem;
+}
+.fs-w495{
+    width: 49.5rem;
+}
+.fs-w496{
+    width: 49.6rem;
+}
+.fs-w497{
+    width: 49.7rem;
+}
+.fs-w498{
+    width: 49.8rem;
+}
+.fs-w499{
+    width: 49.9rem;
+}
+.fs-w500{
+    width: 50rem;
+}
+.fs-w1_2{
+    width: 50%;
+}
+.fs-w1_3{
+    width: 33.3333333333333%;
+}
+.fs-w2_3{
+    width: 66.6666666666667%;
+}
+.fs-w1_4{
+    width: 25%;
+}
+.fs-w2_4{
+    width: 50%;
+}
+.fs-w3_4{
+    width: 75%;
+}
+.fs-w1_5{
+    width: 20%;
+}
+.fs-w2_5{
+    width: 40%;
+}
+.fs-w3_5{
+    width: 60%;
+}
+.fs-w4_5{
+    width: 80%;
+}
+.fs-w1_6{
+    width: 16.6666666666667%;
+}
+.fs-w2_6{
+    width: 33.3333333333333%;
+}
+.fs-w3_6{
+    width: 50%;
+}
+.fs-w4_6{
+    width: 66.6666666666667%;
+}
+.fs-w5_6{
+    width: 83.3333333333333%;
+}
+.fs-w1_7{
+    width: 14.2857142857143%;
+}
+.fs-w2_7{
+    width: 28.5714285714286%;
+}
+.fs-w3_7{
+    width: 42.8571428571429%;
+}
+.fs-w4_7{
+    width: 57.1428571428571%;
+}
+.fs-w5_7{
+    width: 71.4285714285714%;
+}
+.fs-w6_7{
+    width: 85.7142857142857%;
+}
+.fs-w1_8{
+    width: 12.5%;
+}
+.fs-w2_8{
+    width: 25%;
+}
+.fs-w3_8{
+    width: 37.5%;
+}
+.fs-w4_8{
+    width: 50%;
+}
+.fs-w5_8{
+    width: 62.5%;
+}
+.fs-w6_8{
+    width: 75%;
+}
+.fs-w7_8{
+    width: 87.5%;
+}
+.fs-w1_9{
+    width: 11.1111111111111%;
+}
+.fs-w2_9{
+    width: 22.2222222222222%;
+}
+.fs-w3_9{
+    width: 33.3333333333333%;
+}
+.fs-w4_9{
+    width: 44.4444444444444%;
+}
+.fs-w5_9{
+    width: 55.5555555555556%;
+}
+.fs-w6_9{
+    width: 66.6666666666667%;
+}
+.fs-w7_9{
+    width: 77.7777777777778%;
+}
+.fs-w8_9{
+    width: 88.8888888888889%;
+}
+.fs-w1_10{
+    width: 10%;
+}
+.fs-w2_10{
+    width: 20%;
+}
+.fs-w3_10{
+    width: 30%;
+}
+.fs-w4_10{
+    width: 40%;
+}
+.fs-w5_10{
+    width: 50%;
+}
+.fs-w6_10{
+    width: 60%;
+}
+.fs-w7_10{
+    width: 70%;
+}
+.fs-w8_10{
+    width: 80%;
+}
+.fs-w9_10{
+    width: 90%;
+}
+.fs-w1_11{
+    width: 9.09090909090909%;
+}
+.fs-w2_11{
+    width: 18.1818181818182%;
+}
+.fs-w3_11{
+    width: 27.2727272727273%;
+}
+.fs-w4_11{
+    width: 36.3636363636364%;
+}
+.fs-w5_11{
+    width: 45.4545454545455%;
+}
+.fs-w6_11{
+    width: 54.5454545454545%;
+}
+.fs-w7_11{
+    width: 63.6363636363636%;
+}
+.fs-w8_11{
+    width: 72.7272727272727%;
+}
+.fs-w9_11{
+    width: 81.8181818181818%;
+}
+.fs-w10_11{
+    width: 90.9090909090909%;
+}
+.fs-w1_12{
+    width: 8.33333333333333%;
+}
+.fs-w2_12{
+    width: 16.6666666666667%;
+}
+.fs-w3_12{
+    width: 25%;
+}
+.fs-w4_12{
+    width: 33.3333333333333%;
+}
+.fs-w5_12{
+    width: 41.6666666666667%;
+}
+.fs-w6_12{
+    width: 50%;
+}
+.fs-w7_12{
+    width: 58.3333333333333%;
+}
+.fs-w8_12{
+    width: 66.6666666666667%;
+}
+.fs-w9_12{
+    width: 75%;
+}
+.fs-w10_12{
+    width: 83.3333333333333%;
+}
+.fs-w11_12{
+    width: 91.6666666666667%;
+}
+@media (min-width: 576px) {
+	.fs-sw1{
+	    width: 0.1rem;
+	}
+	.fs-sw2{
+	    width: 0.2rem;
+	}
+	.fs-sw3{
+	    width: 0.3rem;
+	}
+	.fs-sw4{
+	    width: 0.4rem;
+	}
+	.fs-sw5{
+	    width: 0.5rem;
+	}
+	.fs-sw6{
+	    width: 0.6rem;
+	}
+	.fs-sw7{
+	    width: 0.7rem;
+	}
+	.fs-sw8{
+	    width: 0.8rem;
+	}
+	.fs-sw9{
+	    width: 0.9rem;
+	}
+	.fs-sw10{
+	    width: 1rem;
+	}
+	.fs-sw11{
+	    width: 1.1rem;
+	}
+	.fs-sw12{
+	    width: 1.2rem;
+	}
+	.fs-sw13{
+	    width: 1.3rem;
+	}
+	.fs-sw14{
+	    width: 1.4rem;
+	}
+	.fs-sw15{
+	    width: 1.5rem;
+	}
+	.fs-sw16{
+	    width: 1.6rem;
+	}
+	.fs-sw17{
+	    width: 1.7rem;
+	}
+	.fs-sw18{
+	    width: 1.8rem;
+	}
+	.fs-sw19{
+	    width: 1.9rem;
+	}
+	.fs-sw20{
+	    width: 2rem;
+	}
+	.fs-sw21{
+	    width: 2.1rem;
+	}
+	.fs-sw22{
+	    width: 2.2rem;
+	}
+	.fs-sw23{
+	    width: 2.3rem;
+	}
+	.fs-sw24{
+	    width: 2.4rem;
+	}
+	.fs-sw25{
+	    width: 2.5rem;
+	}
+	.fs-sw26{
+	    width: 2.6rem;
+	}
+	.fs-sw27{
+	    width: 2.7rem;
+	}
+	.fs-sw28{
+	    width: 2.8rem;
+	}
+	.fs-sw29{
+	    width: 2.9rem;
+	}
+	.fs-sw30{
+	    width: 3rem;
+	}
+	.fs-sw31{
+	    width: 3.1rem;
+	}
+	.fs-sw32{
+	    width: 3.2rem;
+	}
+	.fs-sw33{
+	    width: 3.3rem;
+	}
+	.fs-sw34{
+	    width: 3.4rem;
+	}
+	.fs-sw35{
+	    width: 3.5rem;
+	}
+	.fs-sw36{
+	    width: 3.6rem;
+	}
+	.fs-sw37{
+	    width: 3.7rem;
+	}
+	.fs-sw38{
+	    width: 3.8rem;
+	}
+	.fs-sw39{
+	    width: 3.9rem;
+	}
+	.fs-sw40{
+	    width: 4rem;
+	}
+	.fs-sw41{
+	    width: 4.1rem;
+	}
+	.fs-sw42{
+	    width: 4.2rem;
+	}
+	.fs-sw43{
+	    width: 4.3rem;
+	}
+	.fs-sw44{
+	    width: 4.4rem;
+	}
+	.fs-sw45{
+	    width: 4.5rem;
+	}
+	.fs-sw46{
+	    width: 4.6rem;
+	}
+	.fs-sw47{
+	    width: 4.7rem;
+	}
+	.fs-sw48{
+	    width: 4.8rem;
+	}
+	.fs-sw49{
+	    width: 4.9rem;
+	}
+	.fs-sw50{
+	    width: 5rem;
+	}
+	.fs-sw51{
+	    width: 5.1rem;
+	}
+	.fs-sw52{
+	    width: 5.2rem;
+	}
+	.fs-sw53{
+	    width: 5.3rem;
+	}
+	.fs-sw54{
+	    width: 5.4rem;
+	}
+	.fs-sw55{
+	    width: 5.5rem;
+	}
+	.fs-sw56{
+	    width: 5.6rem;
+	}
+	.fs-sw57{
+	    width: 5.7rem;
+	}
+	.fs-sw58{
+	    width: 5.8rem;
+	}
+	.fs-sw59{
+	    width: 5.9rem;
+	}
+	.fs-sw60{
+	    width: 6rem;
+	}
+	.fs-sw61{
+	    width: 6.1rem;
+	}
+	.fs-sw62{
+	    width: 6.2rem;
+	}
+	.fs-sw63{
+	    width: 6.3rem;
+	}
+	.fs-sw64{
+	    width: 6.4rem;
+	}
+	.fs-sw65{
+	    width: 6.5rem;
+	}
+	.fs-sw66{
+	    width: 6.6rem;
+	}
+	.fs-sw67{
+	    width: 6.7rem;
+	}
+	.fs-sw68{
+	    width: 6.8rem;
+	}
+	.fs-sw69{
+	    width: 6.9rem;
+	}
+	.fs-sw70{
+	    width: 7rem;
+	}
+	.fs-sw71{
+	    width: 7.1rem;
+	}
+	.fs-sw72{
+	    width: 7.2rem;
+	}
+	.fs-sw73{
+	    width: 7.3rem;
+	}
+	.fs-sw74{
+	    width: 7.4rem;
+	}
+	.fs-sw75{
+	    width: 7.5rem;
+	}
+	.fs-sw76{
+	    width: 7.6rem;
+	}
+	.fs-sw77{
+	    width: 7.7rem;
+	}
+	.fs-sw78{
+	    width: 7.8rem;
+	}
+	.fs-sw79{
+	    width: 7.9rem;
+	}
+	.fs-sw80{
+	    width: 8rem;
+	}
+	.fs-sw81{
+	    width: 8.1rem;
+	}
+	.fs-sw82{
+	    width: 8.2rem;
+	}
+	.fs-sw83{
+	    width: 8.3rem;
+	}
+	.fs-sw84{
+	    width: 8.4rem;
+	}
+	.fs-sw85{
+	    width: 8.5rem;
+	}
+	.fs-sw86{
+	    width: 8.6rem;
+	}
+	.fs-sw87{
+	    width: 8.7rem;
+	}
+	.fs-sw88{
+	    width: 8.8rem;
+	}
+	.fs-sw89{
+	    width: 8.9rem;
+	}
+	.fs-sw90{
+	    width: 9rem;
+	}
+	.fs-sw91{
+	    width: 9.1rem;
+	}
+	.fs-sw92{
+	    width: 9.2rem;
+	}
+	.fs-sw93{
+	    width: 9.3rem;
+	}
+	.fs-sw94{
+	    width: 9.4rem;
+	}
+	.fs-sw95{
+	    width: 9.5rem;
+	}
+	.fs-sw96{
+	    width: 9.6rem;
+	}
+	.fs-sw97{
+	    width: 9.7rem;
+	}
+	.fs-sw98{
+	    width: 9.8rem;
+	}
+	.fs-sw99{
+	    width: 9.9rem;
+	}
+	.fs-sw100{
+	    width: 10rem;
+	}
+	.fs-sw101{
+	    width: 10.1rem;
+	}
+	.fs-sw102{
+	    width: 10.2rem;
+	}
+	.fs-sw103{
+	    width: 10.3rem;
+	}
+	.fs-sw104{
+	    width: 10.4rem;
+	}
+	.fs-sw105{
+	    width: 10.5rem;
+	}
+	.fs-sw106{
+	    width: 10.6rem;
+	}
+	.fs-sw107{
+	    width: 10.7rem;
+	}
+	.fs-sw108{
+	    width: 10.8rem;
+	}
+	.fs-sw109{
+	    width: 10.9rem;
+	}
+	.fs-sw110{
+	    width: 11rem;
+	}
+	.fs-sw111{
+	    width: 11.1rem;
+	}
+	.fs-sw112{
+	    width: 11.2rem;
+	}
+	.fs-sw113{
+	    width: 11.3rem;
+	}
+	.fs-sw114{
+	    width: 11.4rem;
+	}
+	.fs-sw115{
+	    width: 11.5rem;
+	}
+	.fs-sw116{
+	    width: 11.6rem;
+	}
+	.fs-sw117{
+	    width: 11.7rem;
+	}
+	.fs-sw118{
+	    width: 11.8rem;
+	}
+	.fs-sw119{
+	    width: 11.9rem;
+	}
+	.fs-sw120{
+	    width: 12rem;
+	}
+	.fs-sw121{
+	    width: 12.1rem;
+	}
+	.fs-sw122{
+	    width: 12.2rem;
+	}
+	.fs-sw123{
+	    width: 12.3rem;
+	}
+	.fs-sw124{
+	    width: 12.4rem;
+	}
+	.fs-sw125{
+	    width: 12.5rem;
+	}
+	.fs-sw126{
+	    width: 12.6rem;
+	}
+	.fs-sw127{
+	    width: 12.7rem;
+	}
+	.fs-sw128{
+	    width: 12.8rem;
+	}
+	.fs-sw129{
+	    width: 12.9rem;
+	}
+	.fs-sw130{
+	    width: 13rem;
+	}
+	.fs-sw131{
+	    width: 13.1rem;
+	}
+	.fs-sw132{
+	    width: 13.2rem;
+	}
+	.fs-sw133{
+	    width: 13.3rem;
+	}
+	.fs-sw134{
+	    width: 13.4rem;
+	}
+	.fs-sw135{
+	    width: 13.5rem;
+	}
+	.fs-sw136{
+	    width: 13.6rem;
+	}
+	.fs-sw137{
+	    width: 13.7rem;
+	}
+	.fs-sw138{
+	    width: 13.8rem;
+	}
+	.fs-sw139{
+	    width: 13.9rem;
+	}
+	.fs-sw140{
+	    width: 14rem;
+	}
+	.fs-sw141{
+	    width: 14.1rem;
+	}
+	.fs-sw142{
+	    width: 14.2rem;
+	}
+	.fs-sw143{
+	    width: 14.3rem;
+	}
+	.fs-sw144{
+	    width: 14.4rem;
+	}
+	.fs-sw145{
+	    width: 14.5rem;
+	}
+	.fs-sw146{
+	    width: 14.6rem;
+	}
+	.fs-sw147{
+	    width: 14.7rem;
+	}
+	.fs-sw148{
+	    width: 14.8rem;
+	}
+	.fs-sw149{
+	    width: 14.9rem;
+	}
+	.fs-sw150{
+	    width: 15rem;
+	}
+	.fs-sw151{
+	    width: 15.1rem;
+	}
+	.fs-sw152{
+	    width: 15.2rem;
+	}
+	.fs-sw153{
+	    width: 15.3rem;
+	}
+	.fs-sw154{
+	    width: 15.4rem;
+	}
+	.fs-sw155{
+	    width: 15.5rem;
+	}
+	.fs-sw156{
+	    width: 15.6rem;
+	}
+	.fs-sw157{
+	    width: 15.7rem;
+	}
+	.fs-sw158{
+	    width: 15.8rem;
+	}
+	.fs-sw159{
+	    width: 15.9rem;
+	}
+	.fs-sw160{
+	    width: 16rem;
+	}
+	.fs-sw161{
+	    width: 16.1rem;
+	}
+	.fs-sw162{
+	    width: 16.2rem;
+	}
+	.fs-sw163{
+	    width: 16.3rem;
+	}
+	.fs-sw164{
+	    width: 16.4rem;
+	}
+	.fs-sw165{
+	    width: 16.5rem;
+	}
+	.fs-sw166{
+	    width: 16.6rem;
+	}
+	.fs-sw167{
+	    width: 16.7rem;
+	}
+	.fs-sw168{
+	    width: 16.8rem;
+	}
+	.fs-sw169{
+	    width: 16.9rem;
+	}
+	.fs-sw170{
+	    width: 17rem;
+	}
+	.fs-sw171{
+	    width: 17.1rem;
+	}
+	.fs-sw172{
+	    width: 17.2rem;
+	}
+	.fs-sw173{
+	    width: 17.3rem;
+	}
+	.fs-sw174{
+	    width: 17.4rem;
+	}
+	.fs-sw175{
+	    width: 17.5rem;
+	}
+	.fs-sw176{
+	    width: 17.6rem;
+	}
+	.fs-sw177{
+	    width: 17.7rem;
+	}
+	.fs-sw178{
+	    width: 17.8rem;
+	}
+	.fs-sw179{
+	    width: 17.9rem;
+	}
+	.fs-sw180{
+	    width: 18rem;
+	}
+	.fs-sw181{
+	    width: 18.1rem;
+	}
+	.fs-sw182{
+	    width: 18.2rem;
+	}
+	.fs-sw183{
+	    width: 18.3rem;
+	}
+	.fs-sw184{
+	    width: 18.4rem;
+	}
+	.fs-sw185{
+	    width: 18.5rem;
+	}
+	.fs-sw186{
+	    width: 18.6rem;
+	}
+	.fs-sw187{
+	    width: 18.7rem;
+	}
+	.fs-sw188{
+	    width: 18.8rem;
+	}
+	.fs-sw189{
+	    width: 18.9rem;
+	}
+	.fs-sw190{
+	    width: 19rem;
+	}
+	.fs-sw191{
+	    width: 19.1rem;
+	}
+	.fs-sw192{
+	    width: 19.2rem;
+	}
+	.fs-sw193{
+	    width: 19.3rem;
+	}
+	.fs-sw194{
+	    width: 19.4rem;
+	}
+	.fs-sw195{
+	    width: 19.5rem;
+	}
+	.fs-sw196{
+	    width: 19.6rem;
+	}
+	.fs-sw197{
+	    width: 19.7rem;
+	}
+	.fs-sw198{
+	    width: 19.8rem;
+	}
+	.fs-sw199{
+	    width: 19.9rem;
+	}
+	.fs-sw200{
+	    width: 20rem;
+	}
+	.fs-sw201{
+	    width: 20.1rem;
+	}
+	.fs-sw202{
+	    width: 20.2rem;
+	}
+	.fs-sw203{
+	    width: 20.3rem;
+	}
+	.fs-sw204{
+	    width: 20.4rem;
+	}
+	.fs-sw205{
+	    width: 20.5rem;
+	}
+	.fs-sw206{
+	    width: 20.6rem;
+	}
+	.fs-sw207{
+	    width: 20.7rem;
+	}
+	.fs-sw208{
+	    width: 20.8rem;
+	}
+	.fs-sw209{
+	    width: 20.9rem;
+	}
+	.fs-sw210{
+	    width: 21rem;
+	}
+	.fs-sw211{
+	    width: 21.1rem;
+	}
+	.fs-sw212{
+	    width: 21.2rem;
+	}
+	.fs-sw213{
+	    width: 21.3rem;
+	}
+	.fs-sw214{
+	    width: 21.4rem;
+	}
+	.fs-sw215{
+	    width: 21.5rem;
+	}
+	.fs-sw216{
+	    width: 21.6rem;
+	}
+	.fs-sw217{
+	    width: 21.7rem;
+	}
+	.fs-sw218{
+	    width: 21.8rem;
+	}
+	.fs-sw219{
+	    width: 21.9rem;
+	}
+	.fs-sw220{
+	    width: 22rem;
+	}
+	.fs-sw221{
+	    width: 22.1rem;
+	}
+	.fs-sw222{
+	    width: 22.2rem;
+	}
+	.fs-sw223{
+	    width: 22.3rem;
+	}
+	.fs-sw224{
+	    width: 22.4rem;
+	}
+	.fs-sw225{
+	    width: 22.5rem;
+	}
+	.fs-sw226{
+	    width: 22.6rem;
+	}
+	.fs-sw227{
+	    width: 22.7rem;
+	}
+	.fs-sw228{
+	    width: 22.8rem;
+	}
+	.fs-sw229{
+	    width: 22.9rem;
+	}
+	.fs-sw230{
+	    width: 23rem;
+	}
+	.fs-sw231{
+	    width: 23.1rem;
+	}
+	.fs-sw232{
+	    width: 23.2rem;
+	}
+	.fs-sw233{
+	    width: 23.3rem;
+	}
+	.fs-sw234{
+	    width: 23.4rem;
+	}
+	.fs-sw235{
+	    width: 23.5rem;
+	}
+	.fs-sw236{
+	    width: 23.6rem;
+	}
+	.fs-sw237{
+	    width: 23.7rem;
+	}
+	.fs-sw238{
+	    width: 23.8rem;
+	}
+	.fs-sw239{
+	    width: 23.9rem;
+	}
+	.fs-sw240{
+	    width: 24rem;
+	}
+	.fs-sw241{
+	    width: 24.1rem;
+	}
+	.fs-sw242{
+	    width: 24.2rem;
+	}
+	.fs-sw243{
+	    width: 24.3rem;
+	}
+	.fs-sw244{
+	    width: 24.4rem;
+	}
+	.fs-sw245{
+	    width: 24.5rem;
+	}
+	.fs-sw246{
+	    width: 24.6rem;
+	}
+	.fs-sw247{
+	    width: 24.7rem;
+	}
+	.fs-sw248{
+	    width: 24.8rem;
+	}
+	.fs-sw249{
+	    width: 24.9rem;
+	}
+	.fs-sw250{
+	    width: 25rem;
+	}
+	.fs-sw251{
+	    width: 25.1rem;
+	}
+	.fs-sw252{
+	    width: 25.2rem;
+	}
+	.fs-sw253{
+	    width: 25.3rem;
+	}
+	.fs-sw254{
+	    width: 25.4rem;
+	}
+	.fs-sw255{
+	    width: 25.5rem;
+	}
+	.fs-sw256{
+	    width: 25.6rem;
+	}
+	.fs-sw257{
+	    width: 25.7rem;
+	}
+	.fs-sw258{
+	    width: 25.8rem;
+	}
+	.fs-sw259{
+	    width: 25.9rem;
+	}
+	.fs-sw260{
+	    width: 26rem;
+	}
+	.fs-sw261{
+	    width: 26.1rem;
+	}
+	.fs-sw262{
+	    width: 26.2rem;
+	}
+	.fs-sw263{
+	    width: 26.3rem;
+	}
+	.fs-sw264{
+	    width: 26.4rem;
+	}
+	.fs-sw265{
+	    width: 26.5rem;
+	}
+	.fs-sw266{
+	    width: 26.6rem;
+	}
+	.fs-sw267{
+	    width: 26.7rem;
+	}
+	.fs-sw268{
+	    width: 26.8rem;
+	}
+	.fs-sw269{
+	    width: 26.9rem;
+	}
+	.fs-sw270{
+	    width: 27rem;
+	}
+	.fs-sw271{
+	    width: 27.1rem;
+	}
+	.fs-sw272{
+	    width: 27.2rem;
+	}
+	.fs-sw273{
+	    width: 27.3rem;
+	}
+	.fs-sw274{
+	    width: 27.4rem;
+	}
+	.fs-sw275{
+	    width: 27.5rem;
+	}
+	.fs-sw276{
+	    width: 27.6rem;
+	}
+	.fs-sw277{
+	    width: 27.7rem;
+	}
+	.fs-sw278{
+	    width: 27.8rem;
+	}
+	.fs-sw279{
+	    width: 27.9rem;
+	}
+	.fs-sw280{
+	    width: 28rem;
+	}
+	.fs-sw281{
+	    width: 28.1rem;
+	}
+	.fs-sw282{
+	    width: 28.2rem;
+	}
+	.fs-sw283{
+	    width: 28.3rem;
+	}
+	.fs-sw284{
+	    width: 28.4rem;
+	}
+	.fs-sw285{
+	    width: 28.5rem;
+	}
+	.fs-sw286{
+	    width: 28.6rem;
+	}
+	.fs-sw287{
+	    width: 28.7rem;
+	}
+	.fs-sw288{
+	    width: 28.8rem;
+	}
+	.fs-sw289{
+	    width: 28.9rem;
+	}
+	.fs-sw290{
+	    width: 29rem;
+	}
+	.fs-sw291{
+	    width: 29.1rem;
+	}
+	.fs-sw292{
+	    width: 29.2rem;
+	}
+	.fs-sw293{
+	    width: 29.3rem;
+	}
+	.fs-sw294{
+	    width: 29.4rem;
+	}
+	.fs-sw295{
+	    width: 29.5rem;
+	}
+	.fs-sw296{
+	    width: 29.6rem;
+	}
+	.fs-sw297{
+	    width: 29.7rem;
+	}
+	.fs-sw298{
+	    width: 29.8rem;
+	}
+	.fs-sw299{
+	    width: 29.9rem;
+	}
+	.fs-sw300{
+	    width: 30rem;
+	}
+	.fs-sw301{
+	    width: 30.1rem;
+	}
+	.fs-sw302{
+	    width: 30.2rem;
+	}
+	.fs-sw303{
+	    width: 30.3rem;
+	}
+	.fs-sw304{
+	    width: 30.4rem;
+	}
+	.fs-sw305{
+	    width: 30.5rem;
+	}
+	.fs-sw306{
+	    width: 30.6rem;
+	}
+	.fs-sw307{
+	    width: 30.7rem;
+	}
+	.fs-sw308{
+	    width: 30.8rem;
+	}
+	.fs-sw309{
+	    width: 30.9rem;
+	}
+	.fs-sw310{
+	    width: 31rem;
+	}
+	.fs-sw311{
+	    width: 31.1rem;
+	}
+	.fs-sw312{
+	    width: 31.2rem;
+	}
+	.fs-sw313{
+	    width: 31.3rem;
+	}
+	.fs-sw314{
+	    width: 31.4rem;
+	}
+	.fs-sw315{
+	    width: 31.5rem;
+	}
+	.fs-sw316{
+	    width: 31.6rem;
+	}
+	.fs-sw317{
+	    width: 31.7rem;
+	}
+	.fs-sw318{
+	    width: 31.8rem;
+	}
+	.fs-sw319{
+	    width: 31.9rem;
+	}
+	.fs-sw320{
+	    width: 32rem;
+	}
+	.fs-sw321{
+	    width: 32.1rem;
+	}
+	.fs-sw322{
+	    width: 32.2rem;
+	}
+	.fs-sw323{
+	    width: 32.3rem;
+	}
+	.fs-sw324{
+	    width: 32.4rem;
+	}
+	.fs-sw325{
+	    width: 32.5rem;
+	}
+	.fs-sw326{
+	    width: 32.6rem;
+	}
+	.fs-sw327{
+	    width: 32.7rem;
+	}
+	.fs-sw328{
+	    width: 32.8rem;
+	}
+	.fs-sw329{
+	    width: 32.9rem;
+	}
+	.fs-sw330{
+	    width: 33rem;
+	}
+	.fs-sw331{
+	    width: 33.1rem;
+	}
+	.fs-sw332{
+	    width: 33.2rem;
+	}
+	.fs-sw333{
+	    width: 33.3rem;
+	}
+	.fs-sw334{
+	    width: 33.4rem;
+	}
+	.fs-sw335{
+	    width: 33.5rem;
+	}
+	.fs-sw336{
+	    width: 33.6rem;
+	}
+	.fs-sw337{
+	    width: 33.7rem;
+	}
+	.fs-sw338{
+	    width: 33.8rem;
+	}
+	.fs-sw339{
+	    width: 33.9rem;
+	}
+	.fs-sw340{
+	    width: 34rem;
+	}
+	.fs-sw341{
+	    width: 34.1rem;
+	}
+	.fs-sw342{
+	    width: 34.2rem;
+	}
+	.fs-sw343{
+	    width: 34.3rem;
+	}
+	.fs-sw344{
+	    width: 34.4rem;
+	}
+	.fs-sw345{
+	    width: 34.5rem;
+	}
+	.fs-sw346{
+	    width: 34.6rem;
+	}
+	.fs-sw347{
+	    width: 34.7rem;
+	}
+	.fs-sw348{
+	    width: 34.8rem;
+	}
+	.fs-sw349{
+	    width: 34.9rem;
+	}
+	.fs-sw350{
+	    width: 35rem;
+	}
+	.fs-sw351{
+	    width: 35.1rem;
+	}
+	.fs-sw352{
+	    width: 35.2rem;
+	}
+	.fs-sw353{
+	    width: 35.3rem;
+	}
+	.fs-sw354{
+	    width: 35.4rem;
+	}
+	.fs-sw355{
+	    width: 35.5rem;
+	}
+	.fs-sw356{
+	    width: 35.6rem;
+	}
+	.fs-sw357{
+	    width: 35.7rem;
+	}
+	.fs-sw358{
+	    width: 35.8rem;
+	}
+	.fs-sw359{
+	    width: 35.9rem;
+	}
+	.fs-sw360{
+	    width: 36rem;
+	}
+	.fs-sw361{
+	    width: 36.1rem;
+	}
+	.fs-sw362{
+	    width: 36.2rem;
+	}
+	.fs-sw363{
+	    width: 36.3rem;
+	}
+	.fs-sw364{
+	    width: 36.4rem;
+	}
+	.fs-sw365{
+	    width: 36.5rem;
+	}
+	.fs-sw366{
+	    width: 36.6rem;
+	}
+	.fs-sw367{
+	    width: 36.7rem;
+	}
+	.fs-sw368{
+	    width: 36.8rem;
+	}
+	.fs-sw369{
+	    width: 36.9rem;
+	}
+	.fs-sw370{
+	    width: 37rem;
+	}
+	.fs-sw371{
+	    width: 37.1rem;
+	}
+	.fs-sw372{
+	    width: 37.2rem;
+	}
+	.fs-sw373{
+	    width: 37.3rem;
+	}
+	.fs-sw374{
+	    width: 37.4rem;
+	}
+	.fs-sw375{
+	    width: 37.5rem;
+	}
+	.fs-sw376{
+	    width: 37.6rem;
+	}
+	.fs-sw377{
+	    width: 37.7rem;
+	}
+	.fs-sw378{
+	    width: 37.8rem;
+	}
+	.fs-sw379{
+	    width: 37.9rem;
+	}
+	.fs-sw380{
+	    width: 38rem;
+	}
+	.fs-sw381{
+	    width: 38.1rem;
+	}
+	.fs-sw382{
+	    width: 38.2rem;
+	}
+	.fs-sw383{
+	    width: 38.3rem;
+	}
+	.fs-sw384{
+	    width: 38.4rem;
+	}
+	.fs-sw385{
+	    width: 38.5rem;
+	}
+	.fs-sw386{
+	    width: 38.6rem;
+	}
+	.fs-sw387{
+	    width: 38.7rem;
+	}
+	.fs-sw388{
+	    width: 38.8rem;
+	}
+	.fs-sw389{
+	    width: 38.9rem;
+	}
+	.fs-sw390{
+	    width: 39rem;
+	}
+	.fs-sw391{
+	    width: 39.1rem;
+	}
+	.fs-sw392{
+	    width: 39.2rem;
+	}
+	.fs-sw393{
+	    width: 39.3rem;
+	}
+	.fs-sw394{
+	    width: 39.4rem;
+	}
+	.fs-sw395{
+	    width: 39.5rem;
+	}
+	.fs-sw396{
+	    width: 39.6rem;
+	}
+	.fs-sw397{
+	    width: 39.7rem;
+	}
+	.fs-sw398{
+	    width: 39.8rem;
+	}
+	.fs-sw399{
+	    width: 39.9rem;
+	}
+	.fs-sw400{
+	    width: 40rem;
+	}
+	.fs-sw401{
+	    width: 40.1rem;
+	}
+	.fs-sw402{
+	    width: 40.2rem;
+	}
+	.fs-sw403{
+	    width: 40.3rem;
+	}
+	.fs-sw404{
+	    width: 40.4rem;
+	}
+	.fs-sw405{
+	    width: 40.5rem;
+	}
+	.fs-sw406{
+	    width: 40.6rem;
+	}
+	.fs-sw407{
+	    width: 40.7rem;
+	}
+	.fs-sw408{
+	    width: 40.8rem;
+	}
+	.fs-sw409{
+	    width: 40.9rem;
+	}
+	.fs-sw410{
+	    width: 41rem;
+	}
+	.fs-sw411{
+	    width: 41.1rem;
+	}
+	.fs-sw412{
+	    width: 41.2rem;
+	}
+	.fs-sw413{
+	    width: 41.3rem;
+	}
+	.fs-sw414{
+	    width: 41.4rem;
+	}
+	.fs-sw415{
+	    width: 41.5rem;
+	}
+	.fs-sw416{
+	    width: 41.6rem;
+	}
+	.fs-sw417{
+	    width: 41.7rem;
+	}
+	.fs-sw418{
+	    width: 41.8rem;
+	}
+	.fs-sw419{
+	    width: 41.9rem;
+	}
+	.fs-sw420{
+	    width: 42rem;
+	}
+	.fs-sw421{
+	    width: 42.1rem;
+	}
+	.fs-sw422{
+	    width: 42.2rem;
+	}
+	.fs-sw423{
+	    width: 42.3rem;
+	}
+	.fs-sw424{
+	    width: 42.4rem;
+	}
+	.fs-sw425{
+	    width: 42.5rem;
+	}
+	.fs-sw426{
+	    width: 42.6rem;
+	}
+	.fs-sw427{
+	    width: 42.7rem;
+	}
+	.fs-sw428{
+	    width: 42.8rem;
+	}
+	.fs-sw429{
+	    width: 42.9rem;
+	}
+	.fs-sw430{
+	    width: 43rem;
+	}
+	.fs-sw431{
+	    width: 43.1rem;
+	}
+	.fs-sw432{
+	    width: 43.2rem;
+	}
+	.fs-sw433{
+	    width: 43.3rem;
+	}
+	.fs-sw434{
+	    width: 43.4rem;
+	}
+	.fs-sw435{
+	    width: 43.5rem;
+	}
+	.fs-sw436{
+	    width: 43.6rem;
+	}
+	.fs-sw437{
+	    width: 43.7rem;
+	}
+	.fs-sw438{
+	    width: 43.8rem;
+	}
+	.fs-sw439{
+	    width: 43.9rem;
+	}
+	.fs-sw440{
+	    width: 44rem;
+	}
+	.fs-sw441{
+	    width: 44.1rem;
+	}
+	.fs-sw442{
+	    width: 44.2rem;
+	}
+	.fs-sw443{
+	    width: 44.3rem;
+	}
+	.fs-sw444{
+	    width: 44.4rem;
+	}
+	.fs-sw445{
+	    width: 44.5rem;
+	}
+	.fs-sw446{
+	    width: 44.6rem;
+	}
+	.fs-sw447{
+	    width: 44.7rem;
+	}
+	.fs-sw448{
+	    width: 44.8rem;
+	}
+	.fs-sw449{
+	    width: 44.9rem;
+	}
+	.fs-sw450{
+	    width: 45rem;
+	}
+	.fs-sw451{
+	    width: 45.1rem;
+	}
+	.fs-sw452{
+	    width: 45.2rem;
+	}
+	.fs-sw453{
+	    width: 45.3rem;
+	}
+	.fs-sw454{
+	    width: 45.4rem;
+	}
+	.fs-sw455{
+	    width: 45.5rem;
+	}
+	.fs-sw456{
+	    width: 45.6rem;
+	}
+	.fs-sw457{
+	    width: 45.7rem;
+	}
+	.fs-sw458{
+	    width: 45.8rem;
+	}
+	.fs-sw459{
+	    width: 45.9rem;
+	}
+	.fs-sw460{
+	    width: 46rem;
+	}
+	.fs-sw461{
+	    width: 46.1rem;
+	}
+	.fs-sw462{
+	    width: 46.2rem;
+	}
+	.fs-sw463{
+	    width: 46.3rem;
+	}
+	.fs-sw464{
+	    width: 46.4rem;
+	}
+	.fs-sw465{
+	    width: 46.5rem;
+	}
+	.fs-sw466{
+	    width: 46.6rem;
+	}
+	.fs-sw467{
+	    width: 46.7rem;
+	}
+	.fs-sw468{
+	    width: 46.8rem;
+	}
+	.fs-sw469{
+	    width: 46.9rem;
+	}
+	.fs-sw470{
+	    width: 47rem;
+	}
+	.fs-sw471{
+	    width: 47.1rem;
+	}
+	.fs-sw472{
+	    width: 47.2rem;
+	}
+	.fs-sw473{
+	    width: 47.3rem;
+	}
+	.fs-sw474{
+	    width: 47.4rem;
+	}
+	.fs-sw475{
+	    width: 47.5rem;
+	}
+	.fs-sw476{
+	    width: 47.6rem;
+	}
+	.fs-sw477{
+	    width: 47.7rem;
+	}
+	.fs-sw478{
+	    width: 47.8rem;
+	}
+	.fs-sw479{
+	    width: 47.9rem;
+	}
+	.fs-sw480{
+	    width: 48rem;
+	}
+	.fs-sw481{
+	    width: 48.1rem;
+	}
+	.fs-sw482{
+	    width: 48.2rem;
+	}
+	.fs-sw483{
+	    width: 48.3rem;
+	}
+	.fs-sw484{
+	    width: 48.4rem;
+	}
+	.fs-sw485{
+	    width: 48.5rem;
+	}
+	.fs-sw486{
+	    width: 48.6rem;
+	}
+	.fs-sw487{
+	    width: 48.7rem;
+	}
+	.fs-sw488{
+	    width: 48.8rem;
+	}
+	.fs-sw489{
+	    width: 48.9rem;
+	}
+	.fs-sw490{
+	    width: 49rem;
+	}
+	.fs-sw491{
+	    width: 49.1rem;
+	}
+	.fs-sw492{
+	    width: 49.2rem;
+	}
+	.fs-sw493{
+	    width: 49.3rem;
+	}
+	.fs-sw494{
+	    width: 49.4rem;
+	}
+	.fs-sw495{
+	    width: 49.5rem;
+	}
+	.fs-sw496{
+	    width: 49.6rem;
+	}
+	.fs-sw497{
+	    width: 49.7rem;
+	}
+	.fs-sw498{
+	    width: 49.8rem;
+	}
+	.fs-sw499{
+	    width: 49.9rem;
+	}
+	.fs-sw500{
+	    width: 50rem;
+	}
+	.fs-sw1_2{
+	    width: 50%;
+	}
+	.fs-sw1_3{
+	    width: 33.3333333333333%;
+	}
+	.fs-sw2_3{
+	    width: 66.6666666666667%;
+	}
+	.fs-sw1_4{
+	    width: 25%;
+	}
+	.fs-sw2_4{
+	    width: 50%;
+	}
+	.fs-sw3_4{
+	    width: 75%;
+	}
+	.fs-sw1_5{
+	    width: 20%;
+	}
+	.fs-sw2_5{
+	    width: 40%;
+	}
+	.fs-sw3_5{
+	    width: 60%;
+	}
+	.fs-sw4_5{
+	    width: 80%;
+	}
+	.fs-sw1_6{
+	    width: 16.6666666666667%;
+	}
+	.fs-sw2_6{
+	    width: 33.3333333333333%;
+	}
+	.fs-sw3_6{
+	    width: 50%;
+	}
+	.fs-sw4_6{
+	    width: 66.6666666666667%;
+	}
+	.fs-sw5_6{
+	    width: 83.3333333333333%;
+	}
+	.fs-sw1_7{
+	    width: 14.2857142857143%;
+	}
+	.fs-sw2_7{
+	    width: 28.5714285714286%;
+	}
+	.fs-sw3_7{
+	    width: 42.8571428571429%;
+	}
+	.fs-sw4_7{
+	    width: 57.1428571428571%;
+	}
+	.fs-sw5_7{
+	    width: 71.4285714285714%;
+	}
+	.fs-sw6_7{
+	    width: 85.7142857142857%;
+	}
+	.fs-sw1_8{
+	    width: 12.5%;
+	}
+	.fs-sw2_8{
+	    width: 25%;
+	}
+	.fs-sw3_8{
+	    width: 37.5%;
+	}
+	.fs-sw4_8{
+	    width: 50%;
+	}
+	.fs-sw5_8{
+	    width: 62.5%;
+	}
+	.fs-sw6_8{
+	    width: 75%;
+	}
+	.fs-sw7_8{
+	    width: 87.5%;
+	}
+	.fs-sw1_9{
+	    width: 11.1111111111111%;
+	}
+	.fs-sw2_9{
+	    width: 22.2222222222222%;
+	}
+	.fs-sw3_9{
+	    width: 33.3333333333333%;
+	}
+	.fs-sw4_9{
+	    width: 44.4444444444444%;
+	}
+	.fs-sw5_9{
+	    width: 55.5555555555556%;
+	}
+	.fs-sw6_9{
+	    width: 66.6666666666667%;
+	}
+	.fs-sw7_9{
+	    width: 77.7777777777778%;
+	}
+	.fs-sw8_9{
+	    width: 88.8888888888889%;
+	}
+	.fs-sw1_10{
+	    width: 10%;
+	}
+	.fs-sw2_10{
+	    width: 20%;
+	}
+	.fs-sw3_10{
+	    width: 30%;
+	}
+	.fs-sw4_10{
+	    width: 40%;
+	}
+	.fs-sw5_10{
+	    width: 50%;
+	}
+	.fs-sw6_10{
+	    width: 60%;
+	}
+	.fs-sw7_10{
+	    width: 70%;
+	}
+	.fs-sw8_10{
+	    width: 80%;
+	}
+	.fs-sw9_10{
+	    width: 90%;
+	}
+	.fs-sw1_11{
+	    width: 9.09090909090909%;
+	}
+	.fs-sw2_11{
+	    width: 18.1818181818182%;
+	}
+	.fs-sw3_11{
+	    width: 27.2727272727273%;
+	}
+	.fs-sw4_11{
+	    width: 36.3636363636364%;
+	}
+	.fs-sw5_11{
+	    width: 45.4545454545455%;
+	}
+	.fs-sw6_11{
+	    width: 54.5454545454545%;
+	}
+	.fs-sw7_11{
+	    width: 63.6363636363636%;
+	}
+	.fs-sw8_11{
+	    width: 72.7272727272727%;
+	}
+	.fs-sw9_11{
+	    width: 81.8181818181818%;
+	}
+	.fs-sw10_11{
+	    width: 90.9090909090909%;
+	}
+	.fs-sw1_12{
+	    width: 8.33333333333333%;
+	}
+	.fs-sw2_12{
+	    width: 16.6666666666667%;
+	}
+	.fs-sw3_12{
+	    width: 25%;
+	}
+	.fs-sw4_12{
+	    width: 33.3333333333333%;
+	}
+	.fs-sw5_12{
+	    width: 41.6666666666667%;
+	}
+	.fs-sw6_12{
+	    width: 50%;
+	}
+	.fs-sw7_12{
+	    width: 58.3333333333333%;
+	}
+	.fs-sw8_12{
+	    width: 66.6666666666667%;
+	}
+	.fs-sw9_12{
+	    width: 75%;
+	}
+	.fs-sw10_12{
+	    width: 83.3333333333333%;
+	}
+	.fs-sw11_12{
+	    width: 91.6666666666667%;
+	}
+}
+@media (min-width: 768px) {
+	.fs-mw1{
+	    width: 0.1rem;
+	}
+	.fs-mw2{
+	    width: 0.2rem;
+	}
+	.fs-mw3{
+	    width: 0.3rem;
+	}
+	.fs-mw4{
+	    width: 0.4rem;
+	}
+	.fs-mw5{
+	    width: 0.5rem;
+	}
+	.fs-mw6{
+	    width: 0.6rem;
+	}
+	.fs-mw7{
+	    width: 0.7rem;
+	}
+	.fs-mw8{
+	    width: 0.8rem;
+	}
+	.fs-mw9{
+	    width: 0.9rem;
+	}
+	.fs-mw10{
+	    width: 1rem;
+	}
+	.fs-mw11{
+	    width: 1.1rem;
+	}
+	.fs-mw12{
+	    width: 1.2rem;
+	}
+	.fs-mw13{
+	    width: 1.3rem;
+	}
+	.fs-mw14{
+	    width: 1.4rem;
+	}
+	.fs-mw15{
+	    width: 1.5rem;
+	}
+	.fs-mw16{
+	    width: 1.6rem;
+	}
+	.fs-mw17{
+	    width: 1.7rem;
+	}
+	.fs-mw18{
+	    width: 1.8rem;
+	}
+	.fs-mw19{
+	    width: 1.9rem;
+	}
+	.fs-mw20{
+	    width: 2rem;
+	}
+	.fs-mw21{
+	    width: 2.1rem;
+	}
+	.fs-mw22{
+	    width: 2.2rem;
+	}
+	.fs-mw23{
+	    width: 2.3rem;
+	}
+	.fs-mw24{
+	    width: 2.4rem;
+	}
+	.fs-mw25{
+	    width: 2.5rem;
+	}
+	.fs-mw26{
+	    width: 2.6rem;
+	}
+	.fs-mw27{
+	    width: 2.7rem;
+	}
+	.fs-mw28{
+	    width: 2.8rem;
+	}
+	.fs-mw29{
+	    width: 2.9rem;
+	}
+	.fs-mw30{
+	    width: 3rem;
+	}
+	.fs-mw31{
+	    width: 3.1rem;
+	}
+	.fs-mw32{
+	    width: 3.2rem;
+	}
+	.fs-mw33{
+	    width: 3.3rem;
+	}
+	.fs-mw34{
+	    width: 3.4rem;
+	}
+	.fs-mw35{
+	    width: 3.5rem;
+	}
+	.fs-mw36{
+	    width: 3.6rem;
+	}
+	.fs-mw37{
+	    width: 3.7rem;
+	}
+	.fs-mw38{
+	    width: 3.8rem;
+	}
+	.fs-mw39{
+	    width: 3.9rem;
+	}
+	.fs-mw40{
+	    width: 4rem;
+	}
+	.fs-mw41{
+	    width: 4.1rem;
+	}
+	.fs-mw42{
+	    width: 4.2rem;
+	}
+	.fs-mw43{
+	    width: 4.3rem;
+	}
+	.fs-mw44{
+	    width: 4.4rem;
+	}
+	.fs-mw45{
+	    width: 4.5rem;
+	}
+	.fs-mw46{
+	    width: 4.6rem;
+	}
+	.fs-mw47{
+	    width: 4.7rem;
+	}
+	.fs-mw48{
+	    width: 4.8rem;
+	}
+	.fs-mw49{
+	    width: 4.9rem;
+	}
+	.fs-mw50{
+	    width: 5rem;
+	}
+	.fs-mw51{
+	    width: 5.1rem;
+	}
+	.fs-mw52{
+	    width: 5.2rem;
+	}
+	.fs-mw53{
+	    width: 5.3rem;
+	}
+	.fs-mw54{
+	    width: 5.4rem;
+	}
+	.fs-mw55{
+	    width: 5.5rem;
+	}
+	.fs-mw56{
+	    width: 5.6rem;
+	}
+	.fs-mw57{
+	    width: 5.7rem;
+	}
+	.fs-mw58{
+	    width: 5.8rem;
+	}
+	.fs-mw59{
+	    width: 5.9rem;
+	}
+	.fs-mw60{
+	    width: 6rem;
+	}
+	.fs-mw61{
+	    width: 6.1rem;
+	}
+	.fs-mw62{
+	    width: 6.2rem;
+	}
+	.fs-mw63{
+	    width: 6.3rem;
+	}
+	.fs-mw64{
+	    width: 6.4rem;
+	}
+	.fs-mw65{
+	    width: 6.5rem;
+	}
+	.fs-mw66{
+	    width: 6.6rem;
+	}
+	.fs-mw67{
+	    width: 6.7rem;
+	}
+	.fs-mw68{
+	    width: 6.8rem;
+	}
+	.fs-mw69{
+	    width: 6.9rem;
+	}
+	.fs-mw70{
+	    width: 7rem;
+	}
+	.fs-mw71{
+	    width: 7.1rem;
+	}
+	.fs-mw72{
+	    width: 7.2rem;
+	}
+	.fs-mw73{
+	    width: 7.3rem;
+	}
+	.fs-mw74{
+	    width: 7.4rem;
+	}
+	.fs-mw75{
+	    width: 7.5rem;
+	}
+	.fs-mw76{
+	    width: 7.6rem;
+	}
+	.fs-mw77{
+	    width: 7.7rem;
+	}
+	.fs-mw78{
+	    width: 7.8rem;
+	}
+	.fs-mw79{
+	    width: 7.9rem;
+	}
+	.fs-mw80{
+	    width: 8rem;
+	}
+	.fs-mw81{
+	    width: 8.1rem;
+	}
+	.fs-mw82{
+	    width: 8.2rem;
+	}
+	.fs-mw83{
+	    width: 8.3rem;
+	}
+	.fs-mw84{
+	    width: 8.4rem;
+	}
+	.fs-mw85{
+	    width: 8.5rem;
+	}
+	.fs-mw86{
+	    width: 8.6rem;
+	}
+	.fs-mw87{
+	    width: 8.7rem;
+	}
+	.fs-mw88{
+	    width: 8.8rem;
+	}
+	.fs-mw89{
+	    width: 8.9rem;
+	}
+	.fs-mw90{
+	    width: 9rem;
+	}
+	.fs-mw91{
+	    width: 9.1rem;
+	}
+	.fs-mw92{
+	    width: 9.2rem;
+	}
+	.fs-mw93{
+	    width: 9.3rem;
+	}
+	.fs-mw94{
+	    width: 9.4rem;
+	}
+	.fs-mw95{
+	    width: 9.5rem;
+	}
+	.fs-mw96{
+	    width: 9.6rem;
+	}
+	.fs-mw97{
+	    width: 9.7rem;
+	}
+	.fs-mw98{
+	    width: 9.8rem;
+	}
+	.fs-mw99{
+	    width: 9.9rem;
+	}
+	.fs-mw100{
+	    width: 10rem;
+	}
+	.fs-mw101{
+	    width: 10.1rem;
+	}
+	.fs-mw102{
+	    width: 10.2rem;
+	}
+	.fs-mw103{
+	    width: 10.3rem;
+	}
+	.fs-mw104{
+	    width: 10.4rem;
+	}
+	.fs-mw105{
+	    width: 10.5rem;
+	}
+	.fs-mw106{
+	    width: 10.6rem;
+	}
+	.fs-mw107{
+	    width: 10.7rem;
+	}
+	.fs-mw108{
+	    width: 10.8rem;
+	}
+	.fs-mw109{
+	    width: 10.9rem;
+	}
+	.fs-mw110{
+	    width: 11rem;
+	}
+	.fs-mw111{
+	    width: 11.1rem;
+	}
+	.fs-mw112{
+	    width: 11.2rem;
+	}
+	.fs-mw113{
+	    width: 11.3rem;
+	}
+	.fs-mw114{
+	    width: 11.4rem;
+	}
+	.fs-mw115{
+	    width: 11.5rem;
+	}
+	.fs-mw116{
+	    width: 11.6rem;
+	}
+	.fs-mw117{
+	    width: 11.7rem;
+	}
+	.fs-mw118{
+	    width: 11.8rem;
+	}
+	.fs-mw119{
+	    width: 11.9rem;
+	}
+	.fs-mw120{
+	    width: 12rem;
+	}
+	.fs-mw121{
+	    width: 12.1rem;
+	}
+	.fs-mw122{
+	    width: 12.2rem;
+	}
+	.fs-mw123{
+	    width: 12.3rem;
+	}
+	.fs-mw124{
+	    width: 12.4rem;
+	}
+	.fs-mw125{
+	    width: 12.5rem;
+	}
+	.fs-mw126{
+	    width: 12.6rem;
+	}
+	.fs-mw127{
+	    width: 12.7rem;
+	}
+	.fs-mw128{
+	    width: 12.8rem;
+	}
+	.fs-mw129{
+	    width: 12.9rem;
+	}
+	.fs-mw130{
+	    width: 13rem;
+	}
+	.fs-mw131{
+	    width: 13.1rem;
+	}
+	.fs-mw132{
+	    width: 13.2rem;
+	}
+	.fs-mw133{
+	    width: 13.3rem;
+	}
+	.fs-mw134{
+	    width: 13.4rem;
+	}
+	.fs-mw135{
+	    width: 13.5rem;
+	}
+	.fs-mw136{
+	    width: 13.6rem;
+	}
+	.fs-mw137{
+	    width: 13.7rem;
+	}
+	.fs-mw138{
+	    width: 13.8rem;
+	}
+	.fs-mw139{
+	    width: 13.9rem;
+	}
+	.fs-mw140{
+	    width: 14rem;
+	}
+	.fs-mw141{
+	    width: 14.1rem;
+	}
+	.fs-mw142{
+	    width: 14.2rem;
+	}
+	.fs-mw143{
+	    width: 14.3rem;
+	}
+	.fs-mw144{
+	    width: 14.4rem;
+	}
+	.fs-mw145{
+	    width: 14.5rem;
+	}
+	.fs-mw146{
+	    width: 14.6rem;
+	}
+	.fs-mw147{
+	    width: 14.7rem;
+	}
+	.fs-mw148{
+	    width: 14.8rem;
+	}
+	.fs-mw149{
+	    width: 14.9rem;
+	}
+	.fs-mw150{
+	    width: 15rem;
+	}
+	.fs-mw151{
+	    width: 15.1rem;
+	}
+	.fs-mw152{
+	    width: 15.2rem;
+	}
+	.fs-mw153{
+	    width: 15.3rem;
+	}
+	.fs-mw154{
+	    width: 15.4rem;
+	}
+	.fs-mw155{
+	    width: 15.5rem;
+	}
+	.fs-mw156{
+	    width: 15.6rem;
+	}
+	.fs-mw157{
+	    width: 15.7rem;
+	}
+	.fs-mw158{
+	    width: 15.8rem;
+	}
+	.fs-mw159{
+	    width: 15.9rem;
+	}
+	.fs-mw160{
+	    width: 16rem;
+	}
+	.fs-mw161{
+	    width: 16.1rem;
+	}
+	.fs-mw162{
+	    width: 16.2rem;
+	}
+	.fs-mw163{
+	    width: 16.3rem;
+	}
+	.fs-mw164{
+	    width: 16.4rem;
+	}
+	.fs-mw165{
+	    width: 16.5rem;
+	}
+	.fs-mw166{
+	    width: 16.6rem;
+	}
+	.fs-mw167{
+	    width: 16.7rem;
+	}
+	.fs-mw168{
+	    width: 16.8rem;
+	}
+	.fs-mw169{
+	    width: 16.9rem;
+	}
+	.fs-mw170{
+	    width: 17rem;
+	}
+	.fs-mw171{
+	    width: 17.1rem;
+	}
+	.fs-mw172{
+	    width: 17.2rem;
+	}
+	.fs-mw173{
+	    width: 17.3rem;
+	}
+	.fs-mw174{
+	    width: 17.4rem;
+	}
+	.fs-mw175{
+	    width: 17.5rem;
+	}
+	.fs-mw176{
+	    width: 17.6rem;
+	}
+	.fs-mw177{
+	    width: 17.7rem;
+	}
+	.fs-mw178{
+	    width: 17.8rem;
+	}
+	.fs-mw179{
+	    width: 17.9rem;
+	}
+	.fs-mw180{
+	    width: 18rem;
+	}
+	.fs-mw181{
+	    width: 18.1rem;
+	}
+	.fs-mw182{
+	    width: 18.2rem;
+	}
+	.fs-mw183{
+	    width: 18.3rem;
+	}
+	.fs-mw184{
+	    width: 18.4rem;
+	}
+	.fs-mw185{
+	    width: 18.5rem;
+	}
+	.fs-mw186{
+	    width: 18.6rem;
+	}
+	.fs-mw187{
+	    width: 18.7rem;
+	}
+	.fs-mw188{
+	    width: 18.8rem;
+	}
+	.fs-mw189{
+	    width: 18.9rem;
+	}
+	.fs-mw190{
+	    width: 19rem;
+	}
+	.fs-mw191{
+	    width: 19.1rem;
+	}
+	.fs-mw192{
+	    width: 19.2rem;
+	}
+	.fs-mw193{
+	    width: 19.3rem;
+	}
+	.fs-mw194{
+	    width: 19.4rem;
+	}
+	.fs-mw195{
+	    width: 19.5rem;
+	}
+	.fs-mw196{
+	    width: 19.6rem;
+	}
+	.fs-mw197{
+	    width: 19.7rem;
+	}
+	.fs-mw198{
+	    width: 19.8rem;
+	}
+	.fs-mw199{
+	    width: 19.9rem;
+	}
+	.fs-mw200{
+	    width: 20rem;
+	}
+	.fs-mw201{
+	    width: 20.1rem;
+	}
+	.fs-mw202{
+	    width: 20.2rem;
+	}
+	.fs-mw203{
+	    width: 20.3rem;
+	}
+	.fs-mw204{
+	    width: 20.4rem;
+	}
+	.fs-mw205{
+	    width: 20.5rem;
+	}
+	.fs-mw206{
+	    width: 20.6rem;
+	}
+	.fs-mw207{
+	    width: 20.7rem;
+	}
+	.fs-mw208{
+	    width: 20.8rem;
+	}
+	.fs-mw209{
+	    width: 20.9rem;
+	}
+	.fs-mw210{
+	    width: 21rem;
+	}
+	.fs-mw211{
+	    width: 21.1rem;
+	}
+	.fs-mw212{
+	    width: 21.2rem;
+	}
+	.fs-mw213{
+	    width: 21.3rem;
+	}
+	.fs-mw214{
+	    width: 21.4rem;
+	}
+	.fs-mw215{
+	    width: 21.5rem;
+	}
+	.fs-mw216{
+	    width: 21.6rem;
+	}
+	.fs-mw217{
+	    width: 21.7rem;
+	}
+	.fs-mw218{
+	    width: 21.8rem;
+	}
+	.fs-mw219{
+	    width: 21.9rem;
+	}
+	.fs-mw220{
+	    width: 22rem;
+	}
+	.fs-mw221{
+	    width: 22.1rem;
+	}
+	.fs-mw222{
+	    width: 22.2rem;
+	}
+	.fs-mw223{
+	    width: 22.3rem;
+	}
+	.fs-mw224{
+	    width: 22.4rem;
+	}
+	.fs-mw225{
+	    width: 22.5rem;
+	}
+	.fs-mw226{
+	    width: 22.6rem;
+	}
+	.fs-mw227{
+	    width: 22.7rem;
+	}
+	.fs-mw228{
+	    width: 22.8rem;
+	}
+	.fs-mw229{
+	    width: 22.9rem;
+	}
+	.fs-mw230{
+	    width: 23rem;
+	}
+	.fs-mw231{
+	    width: 23.1rem;
+	}
+	.fs-mw232{
+	    width: 23.2rem;
+	}
+	.fs-mw233{
+	    width: 23.3rem;
+	}
+	.fs-mw234{
+	    width: 23.4rem;
+	}
+	.fs-mw235{
+	    width: 23.5rem;
+	}
+	.fs-mw236{
+	    width: 23.6rem;
+	}
+	.fs-mw237{
+	    width: 23.7rem;
+	}
+	.fs-mw238{
+	    width: 23.8rem;
+	}
+	.fs-mw239{
+	    width: 23.9rem;
+	}
+	.fs-mw240{
+	    width: 24rem;
+	}
+	.fs-mw241{
+	    width: 24.1rem;
+	}
+	.fs-mw242{
+	    width: 24.2rem;
+	}
+	.fs-mw243{
+	    width: 24.3rem;
+	}
+	.fs-mw244{
+	    width: 24.4rem;
+	}
+	.fs-mw245{
+	    width: 24.5rem;
+	}
+	.fs-mw246{
+	    width: 24.6rem;
+	}
+	.fs-mw247{
+	    width: 24.7rem;
+	}
+	.fs-mw248{
+	    width: 24.8rem;
+	}
+	.fs-mw249{
+	    width: 24.9rem;
+	}
+	.fs-mw250{
+	    width: 25rem;
+	}
+	.fs-mw251{
+	    width: 25.1rem;
+	}
+	.fs-mw252{
+	    width: 25.2rem;
+	}
+	.fs-mw253{
+	    width: 25.3rem;
+	}
+	.fs-mw254{
+	    width: 25.4rem;
+	}
+	.fs-mw255{
+	    width: 25.5rem;
+	}
+	.fs-mw256{
+	    width: 25.6rem;
+	}
+	.fs-mw257{
+	    width: 25.7rem;
+	}
+	.fs-mw258{
+	    width: 25.8rem;
+	}
+	.fs-mw259{
+	    width: 25.9rem;
+	}
+	.fs-mw260{
+	    width: 26rem;
+	}
+	.fs-mw261{
+	    width: 26.1rem;
+	}
+	.fs-mw262{
+	    width: 26.2rem;
+	}
+	.fs-mw263{
+	    width: 26.3rem;
+	}
+	.fs-mw264{
+	    width: 26.4rem;
+	}
+	.fs-mw265{
+	    width: 26.5rem;
+	}
+	.fs-mw266{
+	    width: 26.6rem;
+	}
+	.fs-mw267{
+	    width: 26.7rem;
+	}
+	.fs-mw268{
+	    width: 26.8rem;
+	}
+	.fs-mw269{
+	    width: 26.9rem;
+	}
+	.fs-mw270{
+	    width: 27rem;
+	}
+	.fs-mw271{
+	    width: 27.1rem;
+	}
+	.fs-mw272{
+	    width: 27.2rem;
+	}
+	.fs-mw273{
+	    width: 27.3rem;
+	}
+	.fs-mw274{
+	    width: 27.4rem;
+	}
+	.fs-mw275{
+	    width: 27.5rem;
+	}
+	.fs-mw276{
+	    width: 27.6rem;
+	}
+	.fs-mw277{
+	    width: 27.7rem;
+	}
+	.fs-mw278{
+	    width: 27.8rem;
+	}
+	.fs-mw279{
+	    width: 27.9rem;
+	}
+	.fs-mw280{
+	    width: 28rem;
+	}
+	.fs-mw281{
+	    width: 28.1rem;
+	}
+	.fs-mw282{
+	    width: 28.2rem;
+	}
+	.fs-mw283{
+	    width: 28.3rem;
+	}
+	.fs-mw284{
+	    width: 28.4rem;
+	}
+	.fs-mw285{
+	    width: 28.5rem;
+	}
+	.fs-mw286{
+	    width: 28.6rem;
+	}
+	.fs-mw287{
+	    width: 28.7rem;
+	}
+	.fs-mw288{
+	    width: 28.8rem;
+	}
+	.fs-mw289{
+	    width: 28.9rem;
+	}
+	.fs-mw290{
+	    width: 29rem;
+	}
+	.fs-mw291{
+	    width: 29.1rem;
+	}
+	.fs-mw292{
+	    width: 29.2rem;
+	}
+	.fs-mw293{
+	    width: 29.3rem;
+	}
+	.fs-mw294{
+	    width: 29.4rem;
+	}
+	.fs-mw295{
+	    width: 29.5rem;
+	}
+	.fs-mw296{
+	    width: 29.6rem;
+	}
+	.fs-mw297{
+	    width: 29.7rem;
+	}
+	.fs-mw298{
+	    width: 29.8rem;
+	}
+	.fs-mw299{
+	    width: 29.9rem;
+	}
+	.fs-mw300{
+	    width: 30rem;
+	}
+	.fs-mw301{
+	    width: 30.1rem;
+	}
+	.fs-mw302{
+	    width: 30.2rem;
+	}
+	.fs-mw303{
+	    width: 30.3rem;
+	}
+	.fs-mw304{
+	    width: 30.4rem;
+	}
+	.fs-mw305{
+	    width: 30.5rem;
+	}
+	.fs-mw306{
+	    width: 30.6rem;
+	}
+	.fs-mw307{
+	    width: 30.7rem;
+	}
+	.fs-mw308{
+	    width: 30.8rem;
+	}
+	.fs-mw309{
+	    width: 30.9rem;
+	}
+	.fs-mw310{
+	    width: 31rem;
+	}
+	.fs-mw311{
+	    width: 31.1rem;
+	}
+	.fs-mw312{
+	    width: 31.2rem;
+	}
+	.fs-mw313{
+	    width: 31.3rem;
+	}
+	.fs-mw314{
+	    width: 31.4rem;
+	}
+	.fs-mw315{
+	    width: 31.5rem;
+	}
+	.fs-mw316{
+	    width: 31.6rem;
+	}
+	.fs-mw317{
+	    width: 31.7rem;
+	}
+	.fs-mw318{
+	    width: 31.8rem;
+	}
+	.fs-mw319{
+	    width: 31.9rem;
+	}
+	.fs-mw320{
+	    width: 32rem;
+	}
+	.fs-mw321{
+	    width: 32.1rem;
+	}
+	.fs-mw322{
+	    width: 32.2rem;
+	}
+	.fs-mw323{
+	    width: 32.3rem;
+	}
+	.fs-mw324{
+	    width: 32.4rem;
+	}
+	.fs-mw325{
+	    width: 32.5rem;
+	}
+	.fs-mw326{
+	    width: 32.6rem;
+	}
+	.fs-mw327{
+	    width: 32.7rem;
+	}
+	.fs-mw328{
+	    width: 32.8rem;
+	}
+	.fs-mw329{
+	    width: 32.9rem;
+	}
+	.fs-mw330{
+	    width: 33rem;
+	}
+	.fs-mw331{
+	    width: 33.1rem;
+	}
+	.fs-mw332{
+	    width: 33.2rem;
+	}
+	.fs-mw333{
+	    width: 33.3rem;
+	}
+	.fs-mw334{
+	    width: 33.4rem;
+	}
+	.fs-mw335{
+	    width: 33.5rem;
+	}
+	.fs-mw336{
+	    width: 33.6rem;
+	}
+	.fs-mw337{
+	    width: 33.7rem;
+	}
+	.fs-mw338{
+	    width: 33.8rem;
+	}
+	.fs-mw339{
+	    width: 33.9rem;
+	}
+	.fs-mw340{
+	    width: 34rem;
+	}
+	.fs-mw341{
+	    width: 34.1rem;
+	}
+	.fs-mw342{
+	    width: 34.2rem;
+	}
+	.fs-mw343{
+	    width: 34.3rem;
+	}
+	.fs-mw344{
+	    width: 34.4rem;
+	}
+	.fs-mw345{
+	    width: 34.5rem;
+	}
+	.fs-mw346{
+	    width: 34.6rem;
+	}
+	.fs-mw347{
+	    width: 34.7rem;
+	}
+	.fs-mw348{
+	    width: 34.8rem;
+	}
+	.fs-mw349{
+	    width: 34.9rem;
+	}
+	.fs-mw350{
+	    width: 35rem;
+	}
+	.fs-mw351{
+	    width: 35.1rem;
+	}
+	.fs-mw352{
+	    width: 35.2rem;
+	}
+	.fs-mw353{
+	    width: 35.3rem;
+	}
+	.fs-mw354{
+	    width: 35.4rem;
+	}
+	.fs-mw355{
+	    width: 35.5rem;
+	}
+	.fs-mw356{
+	    width: 35.6rem;
+	}
+	.fs-mw357{
+	    width: 35.7rem;
+	}
+	.fs-mw358{
+	    width: 35.8rem;
+	}
+	.fs-mw359{
+	    width: 35.9rem;
+	}
+	.fs-mw360{
+	    width: 36rem;
+	}
+	.fs-mw361{
+	    width: 36.1rem;
+	}
+	.fs-mw362{
+	    width: 36.2rem;
+	}
+	.fs-mw363{
+	    width: 36.3rem;
+	}
+	.fs-mw364{
+	    width: 36.4rem;
+	}
+	.fs-mw365{
+	    width: 36.5rem;
+	}
+	.fs-mw366{
+	    width: 36.6rem;
+	}
+	.fs-mw367{
+	    width: 36.7rem;
+	}
+	.fs-mw368{
+	    width: 36.8rem;
+	}
+	.fs-mw369{
+	    width: 36.9rem;
+	}
+	.fs-mw370{
+	    width: 37rem;
+	}
+	.fs-mw371{
+	    width: 37.1rem;
+	}
+	.fs-mw372{
+	    width: 37.2rem;
+	}
+	.fs-mw373{
+	    width: 37.3rem;
+	}
+	.fs-mw374{
+	    width: 37.4rem;
+	}
+	.fs-mw375{
+	    width: 37.5rem;
+	}
+	.fs-mw376{
+	    width: 37.6rem;
+	}
+	.fs-mw377{
+	    width: 37.7rem;
+	}
+	.fs-mw378{
+	    width: 37.8rem;
+	}
+	.fs-mw379{
+	    width: 37.9rem;
+	}
+	.fs-mw380{
+	    width: 38rem;
+	}
+	.fs-mw381{
+	    width: 38.1rem;
+	}
+	.fs-mw382{
+	    width: 38.2rem;
+	}
+	.fs-mw383{
+	    width: 38.3rem;
+	}
+	.fs-mw384{
+	    width: 38.4rem;
+	}
+	.fs-mw385{
+	    width: 38.5rem;
+	}
+	.fs-mw386{
+	    width: 38.6rem;
+	}
+	.fs-mw387{
+	    width: 38.7rem;
+	}
+	.fs-mw388{
+	    width: 38.8rem;
+	}
+	.fs-mw389{
+	    width: 38.9rem;
+	}
+	.fs-mw390{
+	    width: 39rem;
+	}
+	.fs-mw391{
+	    width: 39.1rem;
+	}
+	.fs-mw392{
+	    width: 39.2rem;
+	}
+	.fs-mw393{
+	    width: 39.3rem;
+	}
+	.fs-mw394{
+	    width: 39.4rem;
+	}
+	.fs-mw395{
+	    width: 39.5rem;
+	}
+	.fs-mw396{
+	    width: 39.6rem;
+	}
+	.fs-mw397{
+	    width: 39.7rem;
+	}
+	.fs-mw398{
+	    width: 39.8rem;
+	}
+	.fs-mw399{
+	    width: 39.9rem;
+	}
+	.fs-mw400{
+	    width: 40rem;
+	}
+	.fs-mw401{
+	    width: 40.1rem;
+	}
+	.fs-mw402{
+	    width: 40.2rem;
+	}
+	.fs-mw403{
+	    width: 40.3rem;
+	}
+	.fs-mw404{
+	    width: 40.4rem;
+	}
+	.fs-mw405{
+	    width: 40.5rem;
+	}
+	.fs-mw406{
+	    width: 40.6rem;
+	}
+	.fs-mw407{
+	    width: 40.7rem;
+	}
+	.fs-mw408{
+	    width: 40.8rem;
+	}
+	.fs-mw409{
+	    width: 40.9rem;
+	}
+	.fs-mw410{
+	    width: 41rem;
+	}
+	.fs-mw411{
+	    width: 41.1rem;
+	}
+	.fs-mw412{
+	    width: 41.2rem;
+	}
+	.fs-mw413{
+	    width: 41.3rem;
+	}
+	.fs-mw414{
+	    width: 41.4rem;
+	}
+	.fs-mw415{
+	    width: 41.5rem;
+	}
+	.fs-mw416{
+	    width: 41.6rem;
+	}
+	.fs-mw417{
+	    width: 41.7rem;
+	}
+	.fs-mw418{
+	    width: 41.8rem;
+	}
+	.fs-mw419{
+	    width: 41.9rem;
+	}
+	.fs-mw420{
+	    width: 42rem;
+	}
+	.fs-mw421{
+	    width: 42.1rem;
+	}
+	.fs-mw422{
+	    width: 42.2rem;
+	}
+	.fs-mw423{
+	    width: 42.3rem;
+	}
+	.fs-mw424{
+	    width: 42.4rem;
+	}
+	.fs-mw425{
+	    width: 42.5rem;
+	}
+	.fs-mw426{
+	    width: 42.6rem;
+	}
+	.fs-mw427{
+	    width: 42.7rem;
+	}
+	.fs-mw428{
+	    width: 42.8rem;
+	}
+	.fs-mw429{
+	    width: 42.9rem;
+	}
+	.fs-mw430{
+	    width: 43rem;
+	}
+	.fs-mw431{
+	    width: 43.1rem;
+	}
+	.fs-mw432{
+	    width: 43.2rem;
+	}
+	.fs-mw433{
+	    width: 43.3rem;
+	}
+	.fs-mw434{
+	    width: 43.4rem;
+	}
+	.fs-mw435{
+	    width: 43.5rem;
+	}
+	.fs-mw436{
+	    width: 43.6rem;
+	}
+	.fs-mw437{
+	    width: 43.7rem;
+	}
+	.fs-mw438{
+	    width: 43.8rem;
+	}
+	.fs-mw439{
+	    width: 43.9rem;
+	}
+	.fs-mw440{
+	    width: 44rem;
+	}
+	.fs-mw441{
+	    width: 44.1rem;
+	}
+	.fs-mw442{
+	    width: 44.2rem;
+	}
+	.fs-mw443{
+	    width: 44.3rem;
+	}
+	.fs-mw444{
+	    width: 44.4rem;
+	}
+	.fs-mw445{
+	    width: 44.5rem;
+	}
+	.fs-mw446{
+	    width: 44.6rem;
+	}
+	.fs-mw447{
+	    width: 44.7rem;
+	}
+	.fs-mw448{
+	    width: 44.8rem;
+	}
+	.fs-mw449{
+	    width: 44.9rem;
+	}
+	.fs-mw450{
+	    width: 45rem;
+	}
+	.fs-mw451{
+	    width: 45.1rem;
+	}
+	.fs-mw452{
+	    width: 45.2rem;
+	}
+	.fs-mw453{
+	    width: 45.3rem;
+	}
+	.fs-mw454{
+	    width: 45.4rem;
+	}
+	.fs-mw455{
+	    width: 45.5rem;
+	}
+	.fs-mw456{
+	    width: 45.6rem;
+	}
+	.fs-mw457{
+	    width: 45.7rem;
+	}
+	.fs-mw458{
+	    width: 45.8rem;
+	}
+	.fs-mw459{
+	    width: 45.9rem;
+	}
+	.fs-mw460{
+	    width: 46rem;
+	}
+	.fs-mw461{
+	    width: 46.1rem;
+	}
+	.fs-mw462{
+	    width: 46.2rem;
+	}
+	.fs-mw463{
+	    width: 46.3rem;
+	}
+	.fs-mw464{
+	    width: 46.4rem;
+	}
+	.fs-mw465{
+	    width: 46.5rem;
+	}
+	.fs-mw466{
+	    width: 46.6rem;
+	}
+	.fs-mw467{
+	    width: 46.7rem;
+	}
+	.fs-mw468{
+	    width: 46.8rem;
+	}
+	.fs-mw469{
+	    width: 46.9rem;
+	}
+	.fs-mw470{
+	    width: 47rem;
+	}
+	.fs-mw471{
+	    width: 47.1rem;
+	}
+	.fs-mw472{
+	    width: 47.2rem;
+	}
+	.fs-mw473{
+	    width: 47.3rem;
+	}
+	.fs-mw474{
+	    width: 47.4rem;
+	}
+	.fs-mw475{
+	    width: 47.5rem;
+	}
+	.fs-mw476{
+	    width: 47.6rem;
+	}
+	.fs-mw477{
+	    width: 47.7rem;
+	}
+	.fs-mw478{
+	    width: 47.8rem;
+	}
+	.fs-mw479{
+	    width: 47.9rem;
+	}
+	.fs-mw480{
+	    width: 48rem;
+	}
+	.fs-mw481{
+	    width: 48.1rem;
+	}
+	.fs-mw482{
+	    width: 48.2rem;
+	}
+	.fs-mw483{
+	    width: 48.3rem;
+	}
+	.fs-mw484{
+	    width: 48.4rem;
+	}
+	.fs-mw485{
+	    width: 48.5rem;
+	}
+	.fs-mw486{
+	    width: 48.6rem;
+	}
+	.fs-mw487{
+	    width: 48.7rem;
+	}
+	.fs-mw488{
+	    width: 48.8rem;
+	}
+	.fs-mw489{
+	    width: 48.9rem;
+	}
+	.fs-mw490{
+	    width: 49rem;
+	}
+	.fs-mw491{
+	    width: 49.1rem;
+	}
+	.fs-mw492{
+	    width: 49.2rem;
+	}
+	.fs-mw493{
+	    width: 49.3rem;
+	}
+	.fs-mw494{
+	    width: 49.4rem;
+	}
+	.fs-mw495{
+	    width: 49.5rem;
+	}
+	.fs-mw496{
+	    width: 49.6rem;
+	}
+	.fs-mw497{
+	    width: 49.7rem;
+	}
+	.fs-mw498{
+	    width: 49.8rem;
+	}
+	.fs-mw499{
+	    width: 49.9rem;
+	}
+	.fs-mw500{
+	    width: 50rem;
+	}
+	.fs-mw1_2{
+	    width: 50%;
+	}
+	.fs-mw1_3{
+	    width: 33.3333333333333%;
+	}
+	.fs-mw2_3{
+	    width: 66.6666666666667%;
+	}
+	.fs-mw1_4{
+	    width: 25%;
+	}
+	.fs-mw2_4{
+	    width: 50%;
+	}
+	.fs-mw3_4{
+	    width: 75%;
+	}
+	.fs-mw1_5{
+	    width: 20%;
+	}
+	.fs-mw2_5{
+	    width: 40%;
+	}
+	.fs-mw3_5{
+	    width: 60%;
+	}
+	.fs-mw4_5{
+	    width: 80%;
+	}
+	.fs-mw1_6{
+	    width: 16.6666666666667%;
+	}
+	.fs-mw2_6{
+	    width: 33.3333333333333%;
+	}
+	.fs-mw3_6{
+	    width: 50%;
+	}
+	.fs-mw4_6{
+	    width: 66.6666666666667%;
+	}
+	.fs-mw5_6{
+	    width: 83.3333333333333%;
+	}
+	.fs-mw1_7{
+	    width: 14.2857142857143%;
+	}
+	.fs-mw2_7{
+	    width: 28.5714285714286%;
+	}
+	.fs-mw3_7{
+	    width: 42.8571428571429%;
+	}
+	.fs-mw4_7{
+	    width: 57.1428571428571%;
+	}
+	.fs-mw5_7{
+	    width: 71.4285714285714%;
+	}
+	.fs-mw6_7{
+	    width: 85.7142857142857%;
+	}
+	.fs-mw1_8{
+	    width: 12.5%;
+	}
+	.fs-mw2_8{
+	    width: 25%;
+	}
+	.fs-mw3_8{
+	    width: 37.5%;
+	}
+	.fs-mw4_8{
+	    width: 50%;
+	}
+	.fs-mw5_8{
+	    width: 62.5%;
+	}
+	.fs-mw6_8{
+	    width: 75%;
+	}
+	.fs-mw7_8{
+	    width: 87.5%;
+	}
+	.fs-mw1_9{
+	    width: 11.1111111111111%;
+	}
+	.fs-mw2_9{
+	    width: 22.2222222222222%;
+	}
+	.fs-mw3_9{
+	    width: 33.3333333333333%;
+	}
+	.fs-mw4_9{
+	    width: 44.4444444444444%;
+	}
+	.fs-mw5_9{
+	    width: 55.5555555555556%;
+	}
+	.fs-mw6_9{
+	    width: 66.6666666666667%;
+	}
+	.fs-mw7_9{
+	    width: 77.7777777777778%;
+	}
+	.fs-mw8_9{
+	    width: 88.8888888888889%;
+	}
+	.fs-mw1_10{
+	    width: 10%;
+	}
+	.fs-mw2_10{
+	    width: 20%;
+	}
+	.fs-mw3_10{
+	    width: 30%;
+	}
+	.fs-mw4_10{
+	    width: 40%;
+	}
+	.fs-mw5_10{
+	    width: 50%;
+	}
+	.fs-mw6_10{
+	    width: 60%;
+	}
+	.fs-mw7_10{
+	    width: 70%;
+	}
+	.fs-mw8_10{
+	    width: 80%;
+	}
+	.fs-mw9_10{
+	    width: 90%;
+	}
+	.fs-mw1_11{
+	    width: 9.09090909090909%;
+	}
+	.fs-mw2_11{
+	    width: 18.1818181818182%;
+	}
+	.fs-mw3_11{
+	    width: 27.2727272727273%;
+	}
+	.fs-mw4_11{
+	    width: 36.3636363636364%;
+	}
+	.fs-mw5_11{
+	    width: 45.4545454545455%;
+	}
+	.fs-mw6_11{
+	    width: 54.5454545454545%;
+	}
+	.fs-mw7_11{
+	    width: 63.6363636363636%;
+	}
+	.fs-mw8_11{
+	    width: 72.7272727272727%;
+	}
+	.fs-mw9_11{
+	    width: 81.8181818181818%;
+	}
+	.fs-mw10_11{
+	    width: 90.9090909090909%;
+	}
+	.fs-mw1_12{
+	    width: 8.33333333333333%;
+	}
+	.fs-mw2_12{
+	    width: 16.6666666666667%;
+	}
+	.fs-mw3_12{
+	    width: 25%;
+	}
+	.fs-mw4_12{
+	    width: 33.3333333333333%;
+	}
+	.fs-mw5_12{
+	    width: 41.6666666666667%;
+	}
+	.fs-mw6_12{
+	    width: 50%;
+	}
+	.fs-mw7_12{
+	    width: 58.3333333333333%;
+	}
+	.fs-mw8_12{
+	    width: 66.6666666666667%;
+	}
+	.fs-mw9_12{
+	    width: 75%;
+	}
+	.fs-mw10_12{
+	    width: 83.3333333333333%;
+	}
+	.fs-mw11_12{
+	    width: 91.6666666666667%;
+	}
+}
+@media (min-width: 992px) {
+	.fs-lw1{
+	    width: 0.1rem;
+	}
+	.fs-lw2{
+	    width: 0.2rem;
+	}
+	.fs-lw3{
+	    width: 0.3rem;
+	}
+	.fs-lw4{
+	    width: 0.4rem;
+	}
+	.fs-lw5{
+	    width: 0.5rem;
+	}
+	.fs-lw6{
+	    width: 0.6rem;
+	}
+	.fs-lw7{
+	    width: 0.7rem;
+	}
+	.fs-lw8{
+	    width: 0.8rem;
+	}
+	.fs-lw9{
+	    width: 0.9rem;
+	}
+	.fs-lw10{
+	    width: 1rem;
+	}
+	.fs-lw11{
+	    width: 1.1rem;
+	}
+	.fs-lw12{
+	    width: 1.2rem;
+	}
+	.fs-lw13{
+	    width: 1.3rem;
+	}
+	.fs-lw14{
+	    width: 1.4rem;
+	}
+	.fs-lw15{
+	    width: 1.5rem;
+	}
+	.fs-lw16{
+	    width: 1.6rem;
+	}
+	.fs-lw17{
+	    width: 1.7rem;
+	}
+	.fs-lw18{
+	    width: 1.8rem;
+	}
+	.fs-lw19{
+	    width: 1.9rem;
+	}
+	.fs-lw20{
+	    width: 2rem;
+	}
+	.fs-lw21{
+	    width: 2.1rem;
+	}
+	.fs-lw22{
+	    width: 2.2rem;
+	}
+	.fs-lw23{
+	    width: 2.3rem;
+	}
+	.fs-lw24{
+	    width: 2.4rem;
+	}
+	.fs-lw25{
+	    width: 2.5rem;
+	}
+	.fs-lw26{
+	    width: 2.6rem;
+	}
+	.fs-lw27{
+	    width: 2.7rem;
+	}
+	.fs-lw28{
+	    width: 2.8rem;
+	}
+	.fs-lw29{
+	    width: 2.9rem;
+	}
+	.fs-lw30{
+	    width: 3rem;
+	}
+	.fs-lw31{
+	    width: 3.1rem;
+	}
+	.fs-lw32{
+	    width: 3.2rem;
+	}
+	.fs-lw33{
+	    width: 3.3rem;
+	}
+	.fs-lw34{
+	    width: 3.4rem;
+	}
+	.fs-lw35{
+	    width: 3.5rem;
+	}
+	.fs-lw36{
+	    width: 3.6rem;
+	}
+	.fs-lw37{
+	    width: 3.7rem;
+	}
+	.fs-lw38{
+	    width: 3.8rem;
+	}
+	.fs-lw39{
+	    width: 3.9rem;
+	}
+	.fs-lw40{
+	    width: 4rem;
+	}
+	.fs-lw41{
+	    width: 4.1rem;
+	}
+	.fs-lw42{
+	    width: 4.2rem;
+	}
+	.fs-lw43{
+	    width: 4.3rem;
+	}
+	.fs-lw44{
+	    width: 4.4rem;
+	}
+	.fs-lw45{
+	    width: 4.5rem;
+	}
+	.fs-lw46{
+	    width: 4.6rem;
+	}
+	.fs-lw47{
+	    width: 4.7rem;
+	}
+	.fs-lw48{
+	    width: 4.8rem;
+	}
+	.fs-lw49{
+	    width: 4.9rem;
+	}
+	.fs-lw50{
+	    width: 5rem;
+	}
+	.fs-lw51{
+	    width: 5.1rem;
+	}
+	.fs-lw52{
+	    width: 5.2rem;
+	}
+	.fs-lw53{
+	    width: 5.3rem;
+	}
+	.fs-lw54{
+	    width: 5.4rem;
+	}
+	.fs-lw55{
+	    width: 5.5rem;
+	}
+	.fs-lw56{
+	    width: 5.6rem;
+	}
+	.fs-lw57{
+	    width: 5.7rem;
+	}
+	.fs-lw58{
+	    width: 5.8rem;
+	}
+	.fs-lw59{
+	    width: 5.9rem;
+	}
+	.fs-lw60{
+	    width: 6rem;
+	}
+	.fs-lw61{
+	    width: 6.1rem;
+	}
+	.fs-lw62{
+	    width: 6.2rem;
+	}
+	.fs-lw63{
+	    width: 6.3rem;
+	}
+	.fs-lw64{
+	    width: 6.4rem;
+	}
+	.fs-lw65{
+	    width: 6.5rem;
+	}
+	.fs-lw66{
+	    width: 6.6rem;
+	}
+	.fs-lw67{
+	    width: 6.7rem;
+	}
+	.fs-lw68{
+	    width: 6.8rem;
+	}
+	.fs-lw69{
+	    width: 6.9rem;
+	}
+	.fs-lw70{
+	    width: 7rem;
+	}
+	.fs-lw71{
+	    width: 7.1rem;
+	}
+	.fs-lw72{
+	    width: 7.2rem;
+	}
+	.fs-lw73{
+	    width: 7.3rem;
+	}
+	.fs-lw74{
+	    width: 7.4rem;
+	}
+	.fs-lw75{
+	    width: 7.5rem;
+	}
+	.fs-lw76{
+	    width: 7.6rem;
+	}
+	.fs-lw77{
+	    width: 7.7rem;
+	}
+	.fs-lw78{
+	    width: 7.8rem;
+	}
+	.fs-lw79{
+	    width: 7.9rem;
+	}
+	.fs-lw80{
+	    width: 8rem;
+	}
+	.fs-lw81{
+	    width: 8.1rem;
+	}
+	.fs-lw82{
+	    width: 8.2rem;
+	}
+	.fs-lw83{
+	    width: 8.3rem;
+	}
+	.fs-lw84{
+	    width: 8.4rem;
+	}
+	.fs-lw85{
+	    width: 8.5rem;
+	}
+	.fs-lw86{
+	    width: 8.6rem;
+	}
+	.fs-lw87{
+	    width: 8.7rem;
+	}
+	.fs-lw88{
+	    width: 8.8rem;
+	}
+	.fs-lw89{
+	    width: 8.9rem;
+	}
+	.fs-lw90{
+	    width: 9rem;
+	}
+	.fs-lw91{
+	    width: 9.1rem;
+	}
+	.fs-lw92{
+	    width: 9.2rem;
+	}
+	.fs-lw93{
+	    width: 9.3rem;
+	}
+	.fs-lw94{
+	    width: 9.4rem;
+	}
+	.fs-lw95{
+	    width: 9.5rem;
+	}
+	.fs-lw96{
+	    width: 9.6rem;
+	}
+	.fs-lw97{
+	    width: 9.7rem;
+	}
+	.fs-lw98{
+	    width: 9.8rem;
+	}
+	.fs-lw99{
+	    width: 9.9rem;
+	}
+	.fs-lw100{
+	    width: 10rem;
+	}
+	.fs-lw101{
+	    width: 10.1rem;
+	}
+	.fs-lw102{
+	    width: 10.2rem;
+	}
+	.fs-lw103{
+	    width: 10.3rem;
+	}
+	.fs-lw104{
+	    width: 10.4rem;
+	}
+	.fs-lw105{
+	    width: 10.5rem;
+	}
+	.fs-lw106{
+	    width: 10.6rem;
+	}
+	.fs-lw107{
+	    width: 10.7rem;
+	}
+	.fs-lw108{
+	    width: 10.8rem;
+	}
+	.fs-lw109{
+	    width: 10.9rem;
+	}
+	.fs-lw110{
+	    width: 11rem;
+	}
+	.fs-lw111{
+	    width: 11.1rem;
+	}
+	.fs-lw112{
+	    width: 11.2rem;
+	}
+	.fs-lw113{
+	    width: 11.3rem;
+	}
+	.fs-lw114{
+	    width: 11.4rem;
+	}
+	.fs-lw115{
+	    width: 11.5rem;
+	}
+	.fs-lw116{
+	    width: 11.6rem;
+	}
+	.fs-lw117{
+	    width: 11.7rem;
+	}
+	.fs-lw118{
+	    width: 11.8rem;
+	}
+	.fs-lw119{
+	    width: 11.9rem;
+	}
+	.fs-lw120{
+	    width: 12rem;
+	}
+	.fs-lw121{
+	    width: 12.1rem;
+	}
+	.fs-lw122{
+	    width: 12.2rem;
+	}
+	.fs-lw123{
+	    width: 12.3rem;
+	}
+	.fs-lw124{
+	    width: 12.4rem;
+	}
+	.fs-lw125{
+	    width: 12.5rem;
+	}
+	.fs-lw126{
+	    width: 12.6rem;
+	}
+	.fs-lw127{
+	    width: 12.7rem;
+	}
+	.fs-lw128{
+	    width: 12.8rem;
+	}
+	.fs-lw129{
+	    width: 12.9rem;
+	}
+	.fs-lw130{
+	    width: 13rem;
+	}
+	.fs-lw131{
+	    width: 13.1rem;
+	}
+	.fs-lw132{
+	    width: 13.2rem;
+	}
+	.fs-lw133{
+	    width: 13.3rem;
+	}
+	.fs-lw134{
+	    width: 13.4rem;
+	}
+	.fs-lw135{
+	    width: 13.5rem;
+	}
+	.fs-lw136{
+	    width: 13.6rem;
+	}
+	.fs-lw137{
+	    width: 13.7rem;
+	}
+	.fs-lw138{
+	    width: 13.8rem;
+	}
+	.fs-lw139{
+	    width: 13.9rem;
+	}
+	.fs-lw140{
+	    width: 14rem;
+	}
+	.fs-lw141{
+	    width: 14.1rem;
+	}
+	.fs-lw142{
+	    width: 14.2rem;
+	}
+	.fs-lw143{
+	    width: 14.3rem;
+	}
+	.fs-lw144{
+	    width: 14.4rem;
+	}
+	.fs-lw145{
+	    width: 14.5rem;
+	}
+	.fs-lw146{
+	    width: 14.6rem;
+	}
+	.fs-lw147{
+	    width: 14.7rem;
+	}
+	.fs-lw148{
+	    width: 14.8rem;
+	}
+	.fs-lw149{
+	    width: 14.9rem;
+	}
+	.fs-lw150{
+	    width: 15rem;
+	}
+	.fs-lw151{
+	    width: 15.1rem;
+	}
+	.fs-lw152{
+	    width: 15.2rem;
+	}
+	.fs-lw153{
+	    width: 15.3rem;
+	}
+	.fs-lw154{
+	    width: 15.4rem;
+	}
+	.fs-lw155{
+	    width: 15.5rem;
+	}
+	.fs-lw156{
+	    width: 15.6rem;
+	}
+	.fs-lw157{
+	    width: 15.7rem;
+	}
+	.fs-lw158{
+	    width: 15.8rem;
+	}
+	.fs-lw159{
+	    width: 15.9rem;
+	}
+	.fs-lw160{
+	    width: 16rem;
+	}
+	.fs-lw161{
+	    width: 16.1rem;
+	}
+	.fs-lw162{
+	    width: 16.2rem;
+	}
+	.fs-lw163{
+	    width: 16.3rem;
+	}
+	.fs-lw164{
+	    width: 16.4rem;
+	}
+	.fs-lw165{
+	    width: 16.5rem;
+	}
+	.fs-lw166{
+	    width: 16.6rem;
+	}
+	.fs-lw167{
+	    width: 16.7rem;
+	}
+	.fs-lw168{
+	    width: 16.8rem;
+	}
+	.fs-lw169{
+	    width: 16.9rem;
+	}
+	.fs-lw170{
+	    width: 17rem;
+	}
+	.fs-lw171{
+	    width: 17.1rem;
+	}
+	.fs-lw172{
+	    width: 17.2rem;
+	}
+	.fs-lw173{
+	    width: 17.3rem;
+	}
+	.fs-lw174{
+	    width: 17.4rem;
+	}
+	.fs-lw175{
+	    width: 17.5rem;
+	}
+	.fs-lw176{
+	    width: 17.6rem;
+	}
+	.fs-lw177{
+	    width: 17.7rem;
+	}
+	.fs-lw178{
+	    width: 17.8rem;
+	}
+	.fs-lw179{
+	    width: 17.9rem;
+	}
+	.fs-lw180{
+	    width: 18rem;
+	}
+	.fs-lw181{
+	    width: 18.1rem;
+	}
+	.fs-lw182{
+	    width: 18.2rem;
+	}
+	.fs-lw183{
+	    width: 18.3rem;
+	}
+	.fs-lw184{
+	    width: 18.4rem;
+	}
+	.fs-lw185{
+	    width: 18.5rem;
+	}
+	.fs-lw186{
+	    width: 18.6rem;
+	}
+	.fs-lw187{
+	    width: 18.7rem;
+	}
+	.fs-lw188{
+	    width: 18.8rem;
+	}
+	.fs-lw189{
+	    width: 18.9rem;
+	}
+	.fs-lw190{
+	    width: 19rem;
+	}
+	.fs-lw191{
+	    width: 19.1rem;
+	}
+	.fs-lw192{
+	    width: 19.2rem;
+	}
+	.fs-lw193{
+	    width: 19.3rem;
+	}
+	.fs-lw194{
+	    width: 19.4rem;
+	}
+	.fs-lw195{
+	    width: 19.5rem;
+	}
+	.fs-lw196{
+	    width: 19.6rem;
+	}
+	.fs-lw197{
+	    width: 19.7rem;
+	}
+	.fs-lw198{
+	    width: 19.8rem;
+	}
+	.fs-lw199{
+	    width: 19.9rem;
+	}
+	.fs-lw200{
+	    width: 20rem;
+	}
+	.fs-lw201{
+	    width: 20.1rem;
+	}
+	.fs-lw202{
+	    width: 20.2rem;
+	}
+	.fs-lw203{
+	    width: 20.3rem;
+	}
+	.fs-lw204{
+	    width: 20.4rem;
+	}
+	.fs-lw205{
+	    width: 20.5rem;
+	}
+	.fs-lw206{
+	    width: 20.6rem;
+	}
+	.fs-lw207{
+	    width: 20.7rem;
+	}
+	.fs-lw208{
+	    width: 20.8rem;
+	}
+	.fs-lw209{
+	    width: 20.9rem;
+	}
+	.fs-lw210{
+	    width: 21rem;
+	}
+	.fs-lw211{
+	    width: 21.1rem;
+	}
+	.fs-lw212{
+	    width: 21.2rem;
+	}
+	.fs-lw213{
+	    width: 21.3rem;
+	}
+	.fs-lw214{
+	    width: 21.4rem;
+	}
+	.fs-lw215{
+	    width: 21.5rem;
+	}
+	.fs-lw216{
+	    width: 21.6rem;
+	}
+	.fs-lw217{
+	    width: 21.7rem;
+	}
+	.fs-lw218{
+	    width: 21.8rem;
+	}
+	.fs-lw219{
+	    width: 21.9rem;
+	}
+	.fs-lw220{
+	    width: 22rem;
+	}
+	.fs-lw221{
+	    width: 22.1rem;
+	}
+	.fs-lw222{
+	    width: 22.2rem;
+	}
+	.fs-lw223{
+	    width: 22.3rem;
+	}
+	.fs-lw224{
+	    width: 22.4rem;
+	}
+	.fs-lw225{
+	    width: 22.5rem;
+	}
+	.fs-lw226{
+	    width: 22.6rem;
+	}
+	.fs-lw227{
+	    width: 22.7rem;
+	}
+	.fs-lw228{
+	    width: 22.8rem;
+	}
+	.fs-lw229{
+	    width: 22.9rem;
+	}
+	.fs-lw230{
+	    width: 23rem;
+	}
+	.fs-lw231{
+	    width: 23.1rem;
+	}
+	.fs-lw232{
+	    width: 23.2rem;
+	}
+	.fs-lw233{
+	    width: 23.3rem;
+	}
+	.fs-lw234{
+	    width: 23.4rem;
+	}
+	.fs-lw235{
+	    width: 23.5rem;
+	}
+	.fs-lw236{
+	    width: 23.6rem;
+	}
+	.fs-lw237{
+	    width: 23.7rem;
+	}
+	.fs-lw238{
+	    width: 23.8rem;
+	}
+	.fs-lw239{
+	    width: 23.9rem;
+	}
+	.fs-lw240{
+	    width: 24rem;
+	}
+	.fs-lw241{
+	    width: 24.1rem;
+	}
+	.fs-lw242{
+	    width: 24.2rem;
+	}
+	.fs-lw243{
+	    width: 24.3rem;
+	}
+	.fs-lw244{
+	    width: 24.4rem;
+	}
+	.fs-lw245{
+	    width: 24.5rem;
+	}
+	.fs-lw246{
+	    width: 24.6rem;
+	}
+	.fs-lw247{
+	    width: 24.7rem;
+	}
+	.fs-lw248{
+	    width: 24.8rem;
+	}
+	.fs-lw249{
+	    width: 24.9rem;
+	}
+	.fs-lw250{
+	    width: 25rem;
+	}
+	.fs-lw251{
+	    width: 25.1rem;
+	}
+	.fs-lw252{
+	    width: 25.2rem;
+	}
+	.fs-lw253{
+	    width: 25.3rem;
+	}
+	.fs-lw254{
+	    width: 25.4rem;
+	}
+	.fs-lw255{
+	    width: 25.5rem;
+	}
+	.fs-lw256{
+	    width: 25.6rem;
+	}
+	.fs-lw257{
+	    width: 25.7rem;
+	}
+	.fs-lw258{
+	    width: 25.8rem;
+	}
+	.fs-lw259{
+	    width: 25.9rem;
+	}
+	.fs-lw260{
+	    width: 26rem;
+	}
+	.fs-lw261{
+	    width: 26.1rem;
+	}
+	.fs-lw262{
+	    width: 26.2rem;
+	}
+	.fs-lw263{
+	    width: 26.3rem;
+	}
+	.fs-lw264{
+	    width: 26.4rem;
+	}
+	.fs-lw265{
+	    width: 26.5rem;
+	}
+	.fs-lw266{
+	    width: 26.6rem;
+	}
+	.fs-lw267{
+	    width: 26.7rem;
+	}
+	.fs-lw268{
+	    width: 26.8rem;
+	}
+	.fs-lw269{
+	    width: 26.9rem;
+	}
+	.fs-lw270{
+	    width: 27rem;
+	}
+	.fs-lw271{
+	    width: 27.1rem;
+	}
+	.fs-lw272{
+	    width: 27.2rem;
+	}
+	.fs-lw273{
+	    width: 27.3rem;
+	}
+	.fs-lw274{
+	    width: 27.4rem;
+	}
+	.fs-lw275{
+	    width: 27.5rem;
+	}
+	.fs-lw276{
+	    width: 27.6rem;
+	}
+	.fs-lw277{
+	    width: 27.7rem;
+	}
+	.fs-lw278{
+	    width: 27.8rem;
+	}
+	.fs-lw279{
+	    width: 27.9rem;
+	}
+	.fs-lw280{
+	    width: 28rem;
+	}
+	.fs-lw281{
+	    width: 28.1rem;
+	}
+	.fs-lw282{
+	    width: 28.2rem;
+	}
+	.fs-lw283{
+	    width: 28.3rem;
+	}
+	.fs-lw284{
+	    width: 28.4rem;
+	}
+	.fs-lw285{
+	    width: 28.5rem;
+	}
+	.fs-lw286{
+	    width: 28.6rem;
+	}
+	.fs-lw287{
+	    width: 28.7rem;
+	}
+	.fs-lw288{
+	    width: 28.8rem;
+	}
+	.fs-lw289{
+	    width: 28.9rem;
+	}
+	.fs-lw290{
+	    width: 29rem;
+	}
+	.fs-lw291{
+	    width: 29.1rem;
+	}
+	.fs-lw292{
+	    width: 29.2rem;
+	}
+	.fs-lw293{
+	    width: 29.3rem;
+	}
+	.fs-lw294{
+	    width: 29.4rem;
+	}
+	.fs-lw295{
+	    width: 29.5rem;
+	}
+	.fs-lw296{
+	    width: 29.6rem;
+	}
+	.fs-lw297{
+	    width: 29.7rem;
+	}
+	.fs-lw298{
+	    width: 29.8rem;
+	}
+	.fs-lw299{
+	    width: 29.9rem;
+	}
+	.fs-lw300{
+	    width: 30rem;
+	}
+	.fs-lw301{
+	    width: 30.1rem;
+	}
+	.fs-lw302{
+	    width: 30.2rem;
+	}
+	.fs-lw303{
+	    width: 30.3rem;
+	}
+	.fs-lw304{
+	    width: 30.4rem;
+	}
+	.fs-lw305{
+	    width: 30.5rem;
+	}
+	.fs-lw306{
+	    width: 30.6rem;
+	}
+	.fs-lw307{
+	    width: 30.7rem;
+	}
+	.fs-lw308{
+	    width: 30.8rem;
+	}
+	.fs-lw309{
+	    width: 30.9rem;
+	}
+	.fs-lw310{
+	    width: 31rem;
+	}
+	.fs-lw311{
+	    width: 31.1rem;
+	}
+	.fs-lw312{
+	    width: 31.2rem;
+	}
+	.fs-lw313{
+	    width: 31.3rem;
+	}
+	.fs-lw314{
+	    width: 31.4rem;
+	}
+	.fs-lw315{
+	    width: 31.5rem;
+	}
+	.fs-lw316{
+	    width: 31.6rem;
+	}
+	.fs-lw317{
+	    width: 31.7rem;
+	}
+	.fs-lw318{
+	    width: 31.8rem;
+	}
+	.fs-lw319{
+	    width: 31.9rem;
+	}
+	.fs-lw320{
+	    width: 32rem;
+	}
+	.fs-lw321{
+	    width: 32.1rem;
+	}
+	.fs-lw322{
+	    width: 32.2rem;
+	}
+	.fs-lw323{
+	    width: 32.3rem;
+	}
+	.fs-lw324{
+	    width: 32.4rem;
+	}
+	.fs-lw325{
+	    width: 32.5rem;
+	}
+	.fs-lw326{
+	    width: 32.6rem;
+	}
+	.fs-lw327{
+	    width: 32.7rem;
+	}
+	.fs-lw328{
+	    width: 32.8rem;
+	}
+	.fs-lw329{
+	    width: 32.9rem;
+	}
+	.fs-lw330{
+	    width: 33rem;
+	}
+	.fs-lw331{
+	    width: 33.1rem;
+	}
+	.fs-lw332{
+	    width: 33.2rem;
+	}
+	.fs-lw333{
+	    width: 33.3rem;
+	}
+	.fs-lw334{
+	    width: 33.4rem;
+	}
+	.fs-lw335{
+	    width: 33.5rem;
+	}
+	.fs-lw336{
+	    width: 33.6rem;
+	}
+	.fs-lw337{
+	    width: 33.7rem;
+	}
+	.fs-lw338{
+	    width: 33.8rem;
+	}
+	.fs-lw339{
+	    width: 33.9rem;
+	}
+	.fs-lw340{
+	    width: 34rem;
+	}
+	.fs-lw341{
+	    width: 34.1rem;
+	}
+	.fs-lw342{
+	    width: 34.2rem;
+	}
+	.fs-lw343{
+	    width: 34.3rem;
+	}
+	.fs-lw344{
+	    width: 34.4rem;
+	}
+	.fs-lw345{
+	    width: 34.5rem;
+	}
+	.fs-lw346{
+	    width: 34.6rem;
+	}
+	.fs-lw347{
+	    width: 34.7rem;
+	}
+	.fs-lw348{
+	    width: 34.8rem;
+	}
+	.fs-lw349{
+	    width: 34.9rem;
+	}
+	.fs-lw350{
+	    width: 35rem;
+	}
+	.fs-lw351{
+	    width: 35.1rem;
+	}
+	.fs-lw352{
+	    width: 35.2rem;
+	}
+	.fs-lw353{
+	    width: 35.3rem;
+	}
+	.fs-lw354{
+	    width: 35.4rem;
+	}
+	.fs-lw355{
+	    width: 35.5rem;
+	}
+	.fs-lw356{
+	    width: 35.6rem;
+	}
+	.fs-lw357{
+	    width: 35.7rem;
+	}
+	.fs-lw358{
+	    width: 35.8rem;
+	}
+	.fs-lw359{
+	    width: 35.9rem;
+	}
+	.fs-lw360{
+	    width: 36rem;
+	}
+	.fs-lw361{
+	    width: 36.1rem;
+	}
+	.fs-lw362{
+	    width: 36.2rem;
+	}
+	.fs-lw363{
+	    width: 36.3rem;
+	}
+	.fs-lw364{
+	    width: 36.4rem;
+	}
+	.fs-lw365{
+	    width: 36.5rem;
+	}
+	.fs-lw366{
+	    width: 36.6rem;
+	}
+	.fs-lw367{
+	    width: 36.7rem;
+	}
+	.fs-lw368{
+	    width: 36.8rem;
+	}
+	.fs-lw369{
+	    width: 36.9rem;
+	}
+	.fs-lw370{
+	    width: 37rem;
+	}
+	.fs-lw371{
+	    width: 37.1rem;
+	}
+	.fs-lw372{
+	    width: 37.2rem;
+	}
+	.fs-lw373{
+	    width: 37.3rem;
+	}
+	.fs-lw374{
+	    width: 37.4rem;
+	}
+	.fs-lw375{
+	    width: 37.5rem;
+	}
+	.fs-lw376{
+	    width: 37.6rem;
+	}
+	.fs-lw377{
+	    width: 37.7rem;
+	}
+	.fs-lw378{
+	    width: 37.8rem;
+	}
+	.fs-lw379{
+	    width: 37.9rem;
+	}
+	.fs-lw380{
+	    width: 38rem;
+	}
+	.fs-lw381{
+	    width: 38.1rem;
+	}
+	.fs-lw382{
+	    width: 38.2rem;
+	}
+	.fs-lw383{
+	    width: 38.3rem;
+	}
+	.fs-lw384{
+	    width: 38.4rem;
+	}
+	.fs-lw385{
+	    width: 38.5rem;
+	}
+	.fs-lw386{
+	    width: 38.6rem;
+	}
+	.fs-lw387{
+	    width: 38.7rem;
+	}
+	.fs-lw388{
+	    width: 38.8rem;
+	}
+	.fs-lw389{
+	    width: 38.9rem;
+	}
+	.fs-lw390{
+	    width: 39rem;
+	}
+	.fs-lw391{
+	    width: 39.1rem;
+	}
+	.fs-lw392{
+	    width: 39.2rem;
+	}
+	.fs-lw393{
+	    width: 39.3rem;
+	}
+	.fs-lw394{
+	    width: 39.4rem;
+	}
+	.fs-lw395{
+	    width: 39.5rem;
+	}
+	.fs-lw396{
+	    width: 39.6rem;
+	}
+	.fs-lw397{
+	    width: 39.7rem;
+	}
+	.fs-lw398{
+	    width: 39.8rem;
+	}
+	.fs-lw399{
+	    width: 39.9rem;
+	}
+	.fs-lw400{
+	    width: 40rem;
+	}
+	.fs-lw401{
+	    width: 40.1rem;
+	}
+	.fs-lw402{
+	    width: 40.2rem;
+	}
+	.fs-lw403{
+	    width: 40.3rem;
+	}
+	.fs-lw404{
+	    width: 40.4rem;
+	}
+	.fs-lw405{
+	    width: 40.5rem;
+	}
+	.fs-lw406{
+	    width: 40.6rem;
+	}
+	.fs-lw407{
+	    width: 40.7rem;
+	}
+	.fs-lw408{
+	    width: 40.8rem;
+	}
+	.fs-lw409{
+	    width: 40.9rem;
+	}
+	.fs-lw410{
+	    width: 41rem;
+	}
+	.fs-lw411{
+	    width: 41.1rem;
+	}
+	.fs-lw412{
+	    width: 41.2rem;
+	}
+	.fs-lw413{
+	    width: 41.3rem;
+	}
+	.fs-lw414{
+	    width: 41.4rem;
+	}
+	.fs-lw415{
+	    width: 41.5rem;
+	}
+	.fs-lw416{
+	    width: 41.6rem;
+	}
+	.fs-lw417{
+	    width: 41.7rem;
+	}
+	.fs-lw418{
+	    width: 41.8rem;
+	}
+	.fs-lw419{
+	    width: 41.9rem;
+	}
+	.fs-lw420{
+	    width: 42rem;
+	}
+	.fs-lw421{
+	    width: 42.1rem;
+	}
+	.fs-lw422{
+	    width: 42.2rem;
+	}
+	.fs-lw423{
+	    width: 42.3rem;
+	}
+	.fs-lw424{
+	    width: 42.4rem;
+	}
+	.fs-lw425{
+	    width: 42.5rem;
+	}
+	.fs-lw426{
+	    width: 42.6rem;
+	}
+	.fs-lw427{
+	    width: 42.7rem;
+	}
+	.fs-lw428{
+	    width: 42.8rem;
+	}
+	.fs-lw429{
+	    width: 42.9rem;
+	}
+	.fs-lw430{
+	    width: 43rem;
+	}
+	.fs-lw431{
+	    width: 43.1rem;
+	}
+	.fs-lw432{
+	    width: 43.2rem;
+	}
+	.fs-lw433{
+	    width: 43.3rem;
+	}
+	.fs-lw434{
+	    width: 43.4rem;
+	}
+	.fs-lw435{
+	    width: 43.5rem;
+	}
+	.fs-lw436{
+	    width: 43.6rem;
+	}
+	.fs-lw437{
+	    width: 43.7rem;
+	}
+	.fs-lw438{
+	    width: 43.8rem;
+	}
+	.fs-lw439{
+	    width: 43.9rem;
+	}
+	.fs-lw440{
+	    width: 44rem;
+	}
+	.fs-lw441{
+	    width: 44.1rem;
+	}
+	.fs-lw442{
+	    width: 44.2rem;
+	}
+	.fs-lw443{
+	    width: 44.3rem;
+	}
+	.fs-lw444{
+	    width: 44.4rem;
+	}
+	.fs-lw445{
+	    width: 44.5rem;
+	}
+	.fs-lw446{
+	    width: 44.6rem;
+	}
+	.fs-lw447{
+	    width: 44.7rem;
+	}
+	.fs-lw448{
+	    width: 44.8rem;
+	}
+	.fs-lw449{
+	    width: 44.9rem;
+	}
+	.fs-lw450{
+	    width: 45rem;
+	}
+	.fs-lw451{
+	    width: 45.1rem;
+	}
+	.fs-lw452{
+	    width: 45.2rem;
+	}
+	.fs-lw453{
+	    width: 45.3rem;
+	}
+	.fs-lw454{
+	    width: 45.4rem;
+	}
+	.fs-lw455{
+	    width: 45.5rem;
+	}
+	.fs-lw456{
+	    width: 45.6rem;
+	}
+	.fs-lw457{
+	    width: 45.7rem;
+	}
+	.fs-lw458{
+	    width: 45.8rem;
+	}
+	.fs-lw459{
+	    width: 45.9rem;
+	}
+	.fs-lw460{
+	    width: 46rem;
+	}
+	.fs-lw461{
+	    width: 46.1rem;
+	}
+	.fs-lw462{
+	    width: 46.2rem;
+	}
+	.fs-lw463{
+	    width: 46.3rem;
+	}
+	.fs-lw464{
+	    width: 46.4rem;
+	}
+	.fs-lw465{
+	    width: 46.5rem;
+	}
+	.fs-lw466{
+	    width: 46.6rem;
+	}
+	.fs-lw467{
+	    width: 46.7rem;
+	}
+	.fs-lw468{
+	    width: 46.8rem;
+	}
+	.fs-lw469{
+	    width: 46.9rem;
+	}
+	.fs-lw470{
+	    width: 47rem;
+	}
+	.fs-lw471{
+	    width: 47.1rem;
+	}
+	.fs-lw472{
+	    width: 47.2rem;
+	}
+	.fs-lw473{
+	    width: 47.3rem;
+	}
+	.fs-lw474{
+	    width: 47.4rem;
+	}
+	.fs-lw475{
+	    width: 47.5rem;
+	}
+	.fs-lw476{
+	    width: 47.6rem;
+	}
+	.fs-lw477{
+	    width: 47.7rem;
+	}
+	.fs-lw478{
+	    width: 47.8rem;
+	}
+	.fs-lw479{
+	    width: 47.9rem;
+	}
+	.fs-lw480{
+	    width: 48rem;
+	}
+	.fs-lw481{
+	    width: 48.1rem;
+	}
+	.fs-lw482{
+	    width: 48.2rem;
+	}
+	.fs-lw483{
+	    width: 48.3rem;
+	}
+	.fs-lw484{
+	    width: 48.4rem;
+	}
+	.fs-lw485{
+	    width: 48.5rem;
+	}
+	.fs-lw486{
+	    width: 48.6rem;
+	}
+	.fs-lw487{
+	    width: 48.7rem;
+	}
+	.fs-lw488{
+	    width: 48.8rem;
+	}
+	.fs-lw489{
+	    width: 48.9rem;
+	}
+	.fs-lw490{
+	    width: 49rem;
+	}
+	.fs-lw491{
+	    width: 49.1rem;
+	}
+	.fs-lw492{
+	    width: 49.2rem;
+	}
+	.fs-lw493{
+	    width: 49.3rem;
+	}
+	.fs-lw494{
+	    width: 49.4rem;
+	}
+	.fs-lw495{
+	    width: 49.5rem;
+	}
+	.fs-lw496{
+	    width: 49.6rem;
+	}
+	.fs-lw497{
+	    width: 49.7rem;
+	}
+	.fs-lw498{
+	    width: 49.8rem;
+	}
+	.fs-lw499{
+	    width: 49.9rem;
+	}
+	.fs-lw500{
+	    width: 50rem;
+	}
+	.fs-lw1_2{
+	    width: 50%;
+	}
+	.fs-lw1_3{
+	    width: 33.3333333333333%;
+	}
+	.fs-lw2_3{
+	    width: 66.6666666666667%;
+	}
+	.fs-lw1_4{
+	    width: 25%;
+	}
+	.fs-lw2_4{
+	    width: 50%;
+	}
+	.fs-lw3_4{
+	    width: 75%;
+	}
+	.fs-lw1_5{
+	    width: 20%;
+	}
+	.fs-lw2_5{
+	    width: 40%;
+	}
+	.fs-lw3_5{
+	    width: 60%;
+	}
+	.fs-lw4_5{
+	    width: 80%;
+	}
+	.fs-lw1_6{
+	    width: 16.6666666666667%;
+	}
+	.fs-lw2_6{
+	    width: 33.3333333333333%;
+	}
+	.fs-lw3_6{
+	    width: 50%;
+	}
+	.fs-lw4_6{
+	    width: 66.6666666666667%;
+	}
+	.fs-lw5_6{
+	    width: 83.3333333333333%;
+	}
+	.fs-lw1_7{
+	    width: 14.2857142857143%;
+	}
+	.fs-lw2_7{
+	    width: 28.5714285714286%;
+	}
+	.fs-lw3_7{
+	    width: 42.8571428571429%;
+	}
+	.fs-lw4_7{
+	    width: 57.1428571428571%;
+	}
+	.fs-lw5_7{
+	    width: 71.4285714285714%;
+	}
+	.fs-lw6_7{
+	    width: 85.7142857142857%;
+	}
+	.fs-lw1_8{
+	    width: 12.5%;
+	}
+	.fs-lw2_8{
+	    width: 25%;
+	}
+	.fs-lw3_8{
+	    width: 37.5%;
+	}
+	.fs-lw4_8{
+	    width: 50%;
+	}
+	.fs-lw5_8{
+	    width: 62.5%;
+	}
+	.fs-lw6_8{
+	    width: 75%;
+	}
+	.fs-lw7_8{
+	    width: 87.5%;
+	}
+	.fs-lw1_9{
+	    width: 11.1111111111111%;
+	}
+	.fs-lw2_9{
+	    width: 22.2222222222222%;
+	}
+	.fs-lw3_9{
+	    width: 33.3333333333333%;
+	}
+	.fs-lw4_9{
+	    width: 44.4444444444444%;
+	}
+	.fs-lw5_9{
+	    width: 55.5555555555556%;
+	}
+	.fs-lw6_9{
+	    width: 66.6666666666667%;
+	}
+	.fs-lw7_9{
+	    width: 77.7777777777778%;
+	}
+	.fs-lw8_9{
+	    width: 88.8888888888889%;
+	}
+	.fs-lw1_10{
+	    width: 10%;
+	}
+	.fs-lw2_10{
+	    width: 20%;
+	}
+	.fs-lw3_10{
+	    width: 30%;
+	}
+	.fs-lw4_10{
+	    width: 40%;
+	}
+	.fs-lw5_10{
+	    width: 50%;
+	}
+	.fs-lw6_10{
+	    width: 60%;
+	}
+	.fs-lw7_10{
+	    width: 70%;
+	}
+	.fs-lw8_10{
+	    width: 80%;
+	}
+	.fs-lw9_10{
+	    width: 90%;
+	}
+	.fs-lw1_11{
+	    width: 9.09090909090909%;
+	}
+	.fs-lw2_11{
+	    width: 18.1818181818182%;
+	}
+	.fs-lw3_11{
+	    width: 27.2727272727273%;
+	}
+	.fs-lw4_11{
+	    width: 36.3636363636364%;
+	}
+	.fs-lw5_11{
+	    width: 45.4545454545455%;
+	}
+	.fs-lw6_11{
+	    width: 54.5454545454545%;
+	}
+	.fs-lw7_11{
+	    width: 63.6363636363636%;
+	}
+	.fs-lw8_11{
+	    width: 72.7272727272727%;
+	}
+	.fs-lw9_11{
+	    width: 81.8181818181818%;
+	}
+	.fs-lw10_11{
+	    width: 90.9090909090909%;
+	}
+	.fs-lw1_12{
+	    width: 8.33333333333333%;
+	}
+	.fs-lw2_12{
+	    width: 16.6666666666667%;
+	}
+	.fs-lw3_12{
+	    width: 25%;
+	}
+	.fs-lw4_12{
+	    width: 33.3333333333333%;
+	}
+	.fs-lw5_12{
+	    width: 41.6666666666667%;
+	}
+	.fs-lw6_12{
+	    width: 50%;
+	}
+	.fs-lw7_12{
+	    width: 58.3333333333333%;
+	}
+	.fs-lw8_12{
+	    width: 66.6666666666667%;
+	}
+	.fs-lw9_12{
+	    width: 75%;
+	}
+	.fs-lw10_12{
+	    width: 83.3333333333333%;
+	}
+	.fs-lw11_12{
+	    width: 91.6666666666667%;
+	}
+}

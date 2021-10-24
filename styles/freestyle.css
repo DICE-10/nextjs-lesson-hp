@@ -3,6 +3,8 @@
 @import "freestyle-bg.css";
 @import "freestyle-padding.css";
 @import "freestyle-margin.css";
+@import "freestyle-width.css";
+@import "freestyle-height.css";
 
 :root{
 }
@@ -92,6 +94,41 @@ body{
 
 .fs-d-block{
     display: block;
+}
+
+.fs-outer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fs-inner{
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.fs-aspectHD-hor{
+    aspect-ratio: 16/9;
+}
+.fs-aspectHD-vert{
+    aspect-ratio: 9/16;
+}
+.fs-aspectVGA-hor{
+    aspect-ratio: 4/3;
+}
+.fs-aspectVGA-vert{
+    aspect-ratio: 3/4;
+}
+.fs-aspectHVGA-hor{
+    aspect-ratio: 3/2;
+}
+.fs-aspectHVGA-vert{
+    aspect-ratio: 2/3;
+}
+.fs-aspectWIDE-hor{
+    aspect-ratio: 16/10;
+}
+.fs-aspectWIDE-vert{
+    aspect-ratio: 10/16;
 }
 @media (max-width: 575px) {
     .fs-container {
