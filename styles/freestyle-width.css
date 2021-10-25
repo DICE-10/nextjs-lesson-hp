@@ -1709,7 +1709,14 @@
 .fs-w11_12{
     width: 91.6666666666667%;
 }
-@media (min-width: 576px) {
+@media (min-widtw: 576px) {
+	/* width */
+	.fs-sw0{
+	    width: 0px;
+	}
+	.fs-swpx{
+	    width: 1px;
+	}
 	.fs-sw1{
 	    width: 0.1rem;
 	}
@@ -3409,7 +3416,14 @@
 	    width: 91.6666666666667%;
 	}
 }
-@media (min-width: 768px) {
+@media (min-widtw: 768px) {
+	/* width */
+	.fs-mw0{
+	    width: 0px;
+	}
+	.fs-mwpx{
+	    width: 1px;
+	}
 	.fs-mw1{
 	    width: 0.1rem;
 	}
@@ -5108,8 +5122,16 @@
 	.fs-mw11_12{
 	    width: 91.6666666666667%;
 	}
+
 }
-@media (min-width: 992px) {
+@media (min-widtw: 992px) {
+	/* width */
+	.fs-lw0{
+	    width: 0px;
+	}
+	.fs-lwpx{
+	    width: 1px;
+	}
 	.fs-lw1{
 	    width: 0.1rem;
 	}
@@ -6808,4 +6830,3421 @@
 	.fs-lw11_12{
 	    width: 91.6666666666667%;
 	}
+
+}
+@media (min-widtw: 1200px) {
+	/* width */
+	.fs-xlw0{
+	    width: 0px;
+	}
+	.fs-xlwpx{
+	    width: 1px;
+	}
+	.fs-xlw1{
+	    width: 0.1rem;
+	}
+	.fs-xlw2{
+	    width: 0.2rem;
+	}
+	.fs-xlw3{
+	    width: 0.3rem;
+	}
+	.fs-xlw4{
+	    width: 0.4rem;
+	}
+	.fs-xlw5{
+	    width: 0.5rem;
+	}
+	.fs-xlw6{
+	    width: 0.6rem;
+	}
+	.fs-xlw7{
+	    width: 0.7rem;
+	}
+	.fs-xlw8{
+	    width: 0.8rem;
+	}
+	.fs-xlw9{
+	    width: 0.9rem;
+	}
+	.fs-xlw10{
+	    width: 1rem;
+	}
+	.fs-xlw11{
+	    width: 1.1rem;
+	}
+	.fs-xlw12{
+	    width: 1.2rem;
+	}
+	.fs-xlw13{
+	    width: 1.3rem;
+	}
+	.fs-xlw14{
+	    width: 1.4rem;
+	}
+	.fs-xlw15{
+	    width: 1.5rem;
+	}
+	.fs-xlw16{
+	    width: 1.6rem;
+	}
+	.fs-xlw17{
+	    width: 1.7rem;
+	}
+	.fs-xlw18{
+	    width: 1.8rem;
+	}
+	.fs-xlw19{
+	    width: 1.9rem;
+	}
+	.fs-xlw20{
+	    width: 2rem;
+	}
+	.fs-xlw21{
+	    width: 2.1rem;
+	}
+	.fs-xlw22{
+	    width: 2.2rem;
+	}
+	.fs-xlw23{
+	    width: 2.3rem;
+	}
+	.fs-xlw24{
+	    width: 2.4rem;
+	}
+	.fs-xlw25{
+	    width: 2.5rem;
+	}
+	.fs-xlw26{
+	    width: 2.6rem;
+	}
+	.fs-xlw27{
+	    width: 2.7rem;
+	}
+	.fs-xlw28{
+	    width: 2.8rem;
+	}
+	.fs-xlw29{
+	    width: 2.9rem;
+	}
+	.fs-xlw30{
+	    width: 3rem;
+	}
+	.fs-xlw31{
+	    width: 3.1rem;
+	}
+	.fs-xlw32{
+	    width: 3.2rem;
+	}
+	.fs-xlw33{
+	    width: 3.3rem;
+	}
+	.fs-xlw34{
+	    width: 3.4rem;
+	}
+	.fs-xlw35{
+	    width: 3.5rem;
+	}
+	.fs-xlw36{
+	    width: 3.6rem;
+	}
+	.fs-xlw37{
+	    width: 3.7rem;
+	}
+	.fs-xlw38{
+	    width: 3.8rem;
+	}
+	.fs-xlw39{
+	    width: 3.9rem;
+	}
+	.fs-xlw40{
+	    width: 4rem;
+	}
+	.fs-xlw41{
+	    width: 4.1rem;
+	}
+	.fs-xlw42{
+	    width: 4.2rem;
+	}
+	.fs-xlw43{
+	    width: 4.3rem;
+	}
+	.fs-xlw44{
+	    width: 4.4rem;
+	}
+	.fs-xlw45{
+	    width: 4.5rem;
+	}
+	.fs-xlw46{
+	    width: 4.6rem;
+	}
+	.fs-xlw47{
+	    width: 4.7rem;
+	}
+	.fs-xlw48{
+	    width: 4.8rem;
+	}
+	.fs-xlw49{
+	    width: 4.9rem;
+	}
+	.fs-xlw50{
+	    width: 5rem;
+	}
+	.fs-xlw51{
+	    width: 5.1rem;
+	}
+	.fs-xlw52{
+	    width: 5.2rem;
+	}
+	.fs-xlw53{
+	    width: 5.3rem;
+	}
+	.fs-xlw54{
+	    width: 5.4rem;
+	}
+	.fs-xlw55{
+	    width: 5.5rem;
+	}
+	.fs-xlw56{
+	    width: 5.6rem;
+	}
+	.fs-xlw57{
+	    width: 5.7rem;
+	}
+	.fs-xlw58{
+	    width: 5.8rem;
+	}
+	.fs-xlw59{
+	    width: 5.9rem;
+	}
+	.fs-xlw60{
+	    width: 6rem;
+	}
+	.fs-xlw61{
+	    width: 6.1rem;
+	}
+	.fs-xlw62{
+	    width: 6.2rem;
+	}
+	.fs-xlw63{
+	    width: 6.3rem;
+	}
+	.fs-xlw64{
+	    width: 6.4rem;
+	}
+	.fs-xlw65{
+	    width: 6.5rem;
+	}
+	.fs-xlw66{
+	    width: 6.6rem;
+	}
+	.fs-xlw67{
+	    width: 6.7rem;
+	}
+	.fs-xlw68{
+	    width: 6.8rem;
+	}
+	.fs-xlw69{
+	    width: 6.9rem;
+	}
+	.fs-xlw70{
+	    width: 7rem;
+	}
+	.fs-xlw71{
+	    width: 7.1rem;
+	}
+	.fs-xlw72{
+	    width: 7.2rem;
+	}
+	.fs-xlw73{
+	    width: 7.3rem;
+	}
+	.fs-xlw74{
+	    width: 7.4rem;
+	}
+	.fs-xlw75{
+	    width: 7.5rem;
+	}
+	.fs-xlw76{
+	    width: 7.6rem;
+	}
+	.fs-xlw77{
+	    width: 7.7rem;
+	}
+	.fs-xlw78{
+	    width: 7.8rem;
+	}
+	.fs-xlw79{
+	    width: 7.9rem;
+	}
+	.fs-xlw80{
+	    width: 8rem;
+	}
+	.fs-xlw81{
+	    width: 8.1rem;
+	}
+	.fs-xlw82{
+	    width: 8.2rem;
+	}
+	.fs-xlw83{
+	    width: 8.3rem;
+	}
+	.fs-xlw84{
+	    width: 8.4rem;
+	}
+	.fs-xlw85{
+	    width: 8.5rem;
+	}
+	.fs-xlw86{
+	    width: 8.6rem;
+	}
+	.fs-xlw87{
+	    width: 8.7rem;
+	}
+	.fs-xlw88{
+	    width: 8.8rem;
+	}
+	.fs-xlw89{
+	    width: 8.9rem;
+	}
+	.fs-xlw90{
+	    width: 9rem;
+	}
+	.fs-xlw91{
+	    width: 9.1rem;
+	}
+	.fs-xlw92{
+	    width: 9.2rem;
+	}
+	.fs-xlw93{
+	    width: 9.3rem;
+	}
+	.fs-xlw94{
+	    width: 9.4rem;
+	}
+	.fs-xlw95{
+	    width: 9.5rem;
+	}
+	.fs-xlw96{
+	    width: 9.6rem;
+	}
+	.fs-xlw97{
+	    width: 9.7rem;
+	}
+	.fs-xlw98{
+	    width: 9.8rem;
+	}
+	.fs-xlw99{
+	    width: 9.9rem;
+	}
+	.fs-xlw100{
+	    width: 10rem;
+	}
+	.fs-xlw101{
+	    width: 10.1rem;
+	}
+	.fs-xlw102{
+	    width: 10.2rem;
+	}
+	.fs-xlw103{
+	    width: 10.3rem;
+	}
+	.fs-xlw104{
+	    width: 10.4rem;
+	}
+	.fs-xlw105{
+	    width: 10.5rem;
+	}
+	.fs-xlw106{
+	    width: 10.6rem;
+	}
+	.fs-xlw107{
+	    width: 10.7rem;
+	}
+	.fs-xlw108{
+	    width: 10.8rem;
+	}
+	.fs-xlw109{
+	    width: 10.9rem;
+	}
+	.fs-xlw110{
+	    width: 11rem;
+	}
+	.fs-xlw111{
+	    width: 11.1rem;
+	}
+	.fs-xlw112{
+	    width: 11.2rem;
+	}
+	.fs-xlw113{
+	    width: 11.3rem;
+	}
+	.fs-xlw114{
+	    width: 11.4rem;
+	}
+	.fs-xlw115{
+	    width: 11.5rem;
+	}
+	.fs-xlw116{
+	    width: 11.6rem;
+	}
+	.fs-xlw117{
+	    width: 11.7rem;
+	}
+	.fs-xlw118{
+	    width: 11.8rem;
+	}
+	.fs-xlw119{
+	    width: 11.9rem;
+	}
+	.fs-xlw120{
+	    width: 12rem;
+	}
+	.fs-xlw121{
+	    width: 12.1rem;
+	}
+	.fs-xlw122{
+	    width: 12.2rem;
+	}
+	.fs-xlw123{
+	    width: 12.3rem;
+	}
+	.fs-xlw124{
+	    width: 12.4rem;
+	}
+	.fs-xlw125{
+	    width: 12.5rem;
+	}
+	.fs-xlw126{
+	    width: 12.6rem;
+	}
+	.fs-xlw127{
+	    width: 12.7rem;
+	}
+	.fs-xlw128{
+	    width: 12.8rem;
+	}
+	.fs-xlw129{
+	    width: 12.9rem;
+	}
+	.fs-xlw130{
+	    width: 13rem;
+	}
+	.fs-xlw131{
+	    width: 13.1rem;
+	}
+	.fs-xlw132{
+	    width: 13.2rem;
+	}
+	.fs-xlw133{
+	    width: 13.3rem;
+	}
+	.fs-xlw134{
+	    width: 13.4rem;
+	}
+	.fs-xlw135{
+	    width: 13.5rem;
+	}
+	.fs-xlw136{
+	    width: 13.6rem;
+	}
+	.fs-xlw137{
+	    width: 13.7rem;
+	}
+	.fs-xlw138{
+	    width: 13.8rem;
+	}
+	.fs-xlw139{
+	    width: 13.9rem;
+	}
+	.fs-xlw140{
+	    width: 14rem;
+	}
+	.fs-xlw141{
+	    width: 14.1rem;
+	}
+	.fs-xlw142{
+	    width: 14.2rem;
+	}
+	.fs-xlw143{
+	    width: 14.3rem;
+	}
+	.fs-xlw144{
+	    width: 14.4rem;
+	}
+	.fs-xlw145{
+	    width: 14.5rem;
+	}
+	.fs-xlw146{
+	    width: 14.6rem;
+	}
+	.fs-xlw147{
+	    width: 14.7rem;
+	}
+	.fs-xlw148{
+	    width: 14.8rem;
+	}
+	.fs-xlw149{
+	    width: 14.9rem;
+	}
+	.fs-xlw150{
+	    width: 15rem;
+	}
+	.fs-xlw151{
+	    width: 15.1rem;
+	}
+	.fs-xlw152{
+	    width: 15.2rem;
+	}
+	.fs-xlw153{
+	    width: 15.3rem;
+	}
+	.fs-xlw154{
+	    width: 15.4rem;
+	}
+	.fs-xlw155{
+	    width: 15.5rem;
+	}
+	.fs-xlw156{
+	    width: 15.6rem;
+	}
+	.fs-xlw157{
+	    width: 15.7rem;
+	}
+	.fs-xlw158{
+	    width: 15.8rem;
+	}
+	.fs-xlw159{
+	    width: 15.9rem;
+	}
+	.fs-xlw160{
+	    width: 16rem;
+	}
+	.fs-xlw161{
+	    width: 16.1rem;
+	}
+	.fs-xlw162{
+	    width: 16.2rem;
+	}
+	.fs-xlw163{
+	    width: 16.3rem;
+	}
+	.fs-xlw164{
+	    width: 16.4rem;
+	}
+	.fs-xlw165{
+	    width: 16.5rem;
+	}
+	.fs-xlw166{
+	    width: 16.6rem;
+	}
+	.fs-xlw167{
+	    width: 16.7rem;
+	}
+	.fs-xlw168{
+	    width: 16.8rem;
+	}
+	.fs-xlw169{
+	    width: 16.9rem;
+	}
+	.fs-xlw170{
+	    width: 17rem;
+	}
+	.fs-xlw171{
+	    width: 17.1rem;
+	}
+	.fs-xlw172{
+	    width: 17.2rem;
+	}
+	.fs-xlw173{
+	    width: 17.3rem;
+	}
+	.fs-xlw174{
+	    width: 17.4rem;
+	}
+	.fs-xlw175{
+	    width: 17.5rem;
+	}
+	.fs-xlw176{
+	    width: 17.6rem;
+	}
+	.fs-xlw177{
+	    width: 17.7rem;
+	}
+	.fs-xlw178{
+	    width: 17.8rem;
+	}
+	.fs-xlw179{
+	    width: 17.9rem;
+	}
+	.fs-xlw180{
+	    width: 18rem;
+	}
+	.fs-xlw181{
+	    width: 18.1rem;
+	}
+	.fs-xlw182{
+	    width: 18.2rem;
+	}
+	.fs-xlw183{
+	    width: 18.3rem;
+	}
+	.fs-xlw184{
+	    width: 18.4rem;
+	}
+	.fs-xlw185{
+	    width: 18.5rem;
+	}
+	.fs-xlw186{
+	    width: 18.6rem;
+	}
+	.fs-xlw187{
+	    width: 18.7rem;
+	}
+	.fs-xlw188{
+	    width: 18.8rem;
+	}
+	.fs-xlw189{
+	    width: 18.9rem;
+	}
+	.fs-xlw190{
+	    width: 19rem;
+	}
+	.fs-xlw191{
+	    width: 19.1rem;
+	}
+	.fs-xlw192{
+	    width: 19.2rem;
+	}
+	.fs-xlw193{
+	    width: 19.3rem;
+	}
+	.fs-xlw194{
+	    width: 19.4rem;
+	}
+	.fs-xlw195{
+	    width: 19.5rem;
+	}
+	.fs-xlw196{
+	    width: 19.6rem;
+	}
+	.fs-xlw197{
+	    width: 19.7rem;
+	}
+	.fs-xlw198{
+	    width: 19.8rem;
+	}
+	.fs-xlw199{
+	    width: 19.9rem;
+	}
+	.fs-xlw200{
+	    width: 20rem;
+	}
+	.fs-xlw201{
+	    width: 20.1rem;
+	}
+	.fs-xlw202{
+	    width: 20.2rem;
+	}
+	.fs-xlw203{
+	    width: 20.3rem;
+	}
+	.fs-xlw204{
+	    width: 20.4rem;
+	}
+	.fs-xlw205{
+	    width: 20.5rem;
+	}
+	.fs-xlw206{
+	    width: 20.6rem;
+	}
+	.fs-xlw207{
+	    width: 20.7rem;
+	}
+	.fs-xlw208{
+	    width: 20.8rem;
+	}
+	.fs-xlw209{
+	    width: 20.9rem;
+	}
+	.fs-xlw210{
+	    width: 21rem;
+	}
+	.fs-xlw211{
+	    width: 21.1rem;
+	}
+	.fs-xlw212{
+	    width: 21.2rem;
+	}
+	.fs-xlw213{
+	    width: 21.3rem;
+	}
+	.fs-xlw214{
+	    width: 21.4rem;
+	}
+	.fs-xlw215{
+	    width: 21.5rem;
+	}
+	.fs-xlw216{
+	    width: 21.6rem;
+	}
+	.fs-xlw217{
+	    width: 21.7rem;
+	}
+	.fs-xlw218{
+	    width: 21.8rem;
+	}
+	.fs-xlw219{
+	    width: 21.9rem;
+	}
+	.fs-xlw220{
+	    width: 22rem;
+	}
+	.fs-xlw221{
+	    width: 22.1rem;
+	}
+	.fs-xlw222{
+	    width: 22.2rem;
+	}
+	.fs-xlw223{
+	    width: 22.3rem;
+	}
+	.fs-xlw224{
+	    width: 22.4rem;
+	}
+	.fs-xlw225{
+	    width: 22.5rem;
+	}
+	.fs-xlw226{
+	    width: 22.6rem;
+	}
+	.fs-xlw227{
+	    width: 22.7rem;
+	}
+	.fs-xlw228{
+	    width: 22.8rem;
+	}
+	.fs-xlw229{
+	    width: 22.9rem;
+	}
+	.fs-xlw230{
+	    width: 23rem;
+	}
+	.fs-xlw231{
+	    width: 23.1rem;
+	}
+	.fs-xlw232{
+	    width: 23.2rem;
+	}
+	.fs-xlw233{
+	    width: 23.3rem;
+	}
+	.fs-xlw234{
+	    width: 23.4rem;
+	}
+	.fs-xlw235{
+	    width: 23.5rem;
+	}
+	.fs-xlw236{
+	    width: 23.6rem;
+	}
+	.fs-xlw237{
+	    width: 23.7rem;
+	}
+	.fs-xlw238{
+	    width: 23.8rem;
+	}
+	.fs-xlw239{
+	    width: 23.9rem;
+	}
+	.fs-xlw240{
+	    width: 24rem;
+	}
+	.fs-xlw241{
+	    width: 24.1rem;
+	}
+	.fs-xlw242{
+	    width: 24.2rem;
+	}
+	.fs-xlw243{
+	    width: 24.3rem;
+	}
+	.fs-xlw244{
+	    width: 24.4rem;
+	}
+	.fs-xlw245{
+	    width: 24.5rem;
+	}
+	.fs-xlw246{
+	    width: 24.6rem;
+	}
+	.fs-xlw247{
+	    width: 24.7rem;
+	}
+	.fs-xlw248{
+	    width: 24.8rem;
+	}
+	.fs-xlw249{
+	    width: 24.9rem;
+	}
+	.fs-xlw250{
+	    width: 25rem;
+	}
+	.fs-xlw251{
+	    width: 25.1rem;
+	}
+	.fs-xlw252{
+	    width: 25.2rem;
+	}
+	.fs-xlw253{
+	    width: 25.3rem;
+	}
+	.fs-xlw254{
+	    width: 25.4rem;
+	}
+	.fs-xlw255{
+	    width: 25.5rem;
+	}
+	.fs-xlw256{
+	    width: 25.6rem;
+	}
+	.fs-xlw257{
+	    width: 25.7rem;
+	}
+	.fs-xlw258{
+	    width: 25.8rem;
+	}
+	.fs-xlw259{
+	    width: 25.9rem;
+	}
+	.fs-xlw260{
+	    width: 26rem;
+	}
+	.fs-xlw261{
+	    width: 26.1rem;
+	}
+	.fs-xlw262{
+	    width: 26.2rem;
+	}
+	.fs-xlw263{
+	    width: 26.3rem;
+	}
+	.fs-xlw264{
+	    width: 26.4rem;
+	}
+	.fs-xlw265{
+	    width: 26.5rem;
+	}
+	.fs-xlw266{
+	    width: 26.6rem;
+	}
+	.fs-xlw267{
+	    width: 26.7rem;
+	}
+	.fs-xlw268{
+	    width: 26.8rem;
+	}
+	.fs-xlw269{
+	    width: 26.9rem;
+	}
+	.fs-xlw270{
+	    width: 27rem;
+	}
+	.fs-xlw271{
+	    width: 27.1rem;
+	}
+	.fs-xlw272{
+	    width: 27.2rem;
+	}
+	.fs-xlw273{
+	    width: 27.3rem;
+	}
+	.fs-xlw274{
+	    width: 27.4rem;
+	}
+	.fs-xlw275{
+	    width: 27.5rem;
+	}
+	.fs-xlw276{
+	    width: 27.6rem;
+	}
+	.fs-xlw277{
+	    width: 27.7rem;
+	}
+	.fs-xlw278{
+	    width: 27.8rem;
+	}
+	.fs-xlw279{
+	    width: 27.9rem;
+	}
+	.fs-xlw280{
+	    width: 28rem;
+	}
+	.fs-xlw281{
+	    width: 28.1rem;
+	}
+	.fs-xlw282{
+	    width: 28.2rem;
+	}
+	.fs-xlw283{
+	    width: 28.3rem;
+	}
+	.fs-xlw284{
+	    width: 28.4rem;
+	}
+	.fs-xlw285{
+	    width: 28.5rem;
+	}
+	.fs-xlw286{
+	    width: 28.6rem;
+	}
+	.fs-xlw287{
+	    width: 28.7rem;
+	}
+	.fs-xlw288{
+	    width: 28.8rem;
+	}
+	.fs-xlw289{
+	    width: 28.9rem;
+	}
+	.fs-xlw290{
+	    width: 29rem;
+	}
+	.fs-xlw291{
+	    width: 29.1rem;
+	}
+	.fs-xlw292{
+	    width: 29.2rem;
+	}
+	.fs-xlw293{
+	    width: 29.3rem;
+	}
+	.fs-xlw294{
+	    width: 29.4rem;
+	}
+	.fs-xlw295{
+	    width: 29.5rem;
+	}
+	.fs-xlw296{
+	    width: 29.6rem;
+	}
+	.fs-xlw297{
+	    width: 29.7rem;
+	}
+	.fs-xlw298{
+	    width: 29.8rem;
+	}
+	.fs-xlw299{
+	    width: 29.9rem;
+	}
+	.fs-xlw300{
+	    width: 30rem;
+	}
+	.fs-xlw301{
+	    width: 30.1rem;
+	}
+	.fs-xlw302{
+	    width: 30.2rem;
+	}
+	.fs-xlw303{
+	    width: 30.3rem;
+	}
+	.fs-xlw304{
+	    width: 30.4rem;
+	}
+	.fs-xlw305{
+	    width: 30.5rem;
+	}
+	.fs-xlw306{
+	    width: 30.6rem;
+	}
+	.fs-xlw307{
+	    width: 30.7rem;
+	}
+	.fs-xlw308{
+	    width: 30.8rem;
+	}
+	.fs-xlw309{
+	    width: 30.9rem;
+	}
+	.fs-xlw310{
+	    width: 31rem;
+	}
+	.fs-xlw311{
+	    width: 31.1rem;
+	}
+	.fs-xlw312{
+	    width: 31.2rem;
+	}
+	.fs-xlw313{
+	    width: 31.3rem;
+	}
+	.fs-xlw314{
+	    width: 31.4rem;
+	}
+	.fs-xlw315{
+	    width: 31.5rem;
+	}
+	.fs-xlw316{
+	    width: 31.6rem;
+	}
+	.fs-xlw317{
+	    width: 31.7rem;
+	}
+	.fs-xlw318{
+	    width: 31.8rem;
+	}
+	.fs-xlw319{
+	    width: 31.9rem;
+	}
+	.fs-xlw320{
+	    width: 32rem;
+	}
+	.fs-xlw321{
+	    width: 32.1rem;
+	}
+	.fs-xlw322{
+	    width: 32.2rem;
+	}
+	.fs-xlw323{
+	    width: 32.3rem;
+	}
+	.fs-xlw324{
+	    width: 32.4rem;
+	}
+	.fs-xlw325{
+	    width: 32.5rem;
+	}
+	.fs-xlw326{
+	    width: 32.6rem;
+	}
+	.fs-xlw327{
+	    width: 32.7rem;
+	}
+	.fs-xlw328{
+	    width: 32.8rem;
+	}
+	.fs-xlw329{
+	    width: 32.9rem;
+	}
+	.fs-xlw330{
+	    width: 33rem;
+	}
+	.fs-xlw331{
+	    width: 33.1rem;
+	}
+	.fs-xlw332{
+	    width: 33.2rem;
+	}
+	.fs-xlw333{
+	    width: 33.3rem;
+	}
+	.fs-xlw334{
+	    width: 33.4rem;
+	}
+	.fs-xlw335{
+	    width: 33.5rem;
+	}
+	.fs-xlw336{
+	    width: 33.6rem;
+	}
+	.fs-xlw337{
+	    width: 33.7rem;
+	}
+	.fs-xlw338{
+	    width: 33.8rem;
+	}
+	.fs-xlw339{
+	    width: 33.9rem;
+	}
+	.fs-xlw340{
+	    width: 34rem;
+	}
+	.fs-xlw341{
+	    width: 34.1rem;
+	}
+	.fs-xlw342{
+	    width: 34.2rem;
+	}
+	.fs-xlw343{
+	    width: 34.3rem;
+	}
+	.fs-xlw344{
+	    width: 34.4rem;
+	}
+	.fs-xlw345{
+	    width: 34.5rem;
+	}
+	.fs-xlw346{
+	    width: 34.6rem;
+	}
+	.fs-xlw347{
+	    width: 34.7rem;
+	}
+	.fs-xlw348{
+	    width: 34.8rem;
+	}
+	.fs-xlw349{
+	    width: 34.9rem;
+	}
+	.fs-xlw350{
+	    width: 35rem;
+	}
+	.fs-xlw351{
+	    width: 35.1rem;
+	}
+	.fs-xlw352{
+	    width: 35.2rem;
+	}
+	.fs-xlw353{
+	    width: 35.3rem;
+	}
+	.fs-xlw354{
+	    width: 35.4rem;
+	}
+	.fs-xlw355{
+	    width: 35.5rem;
+	}
+	.fs-xlw356{
+	    width: 35.6rem;
+	}
+	.fs-xlw357{
+	    width: 35.7rem;
+	}
+	.fs-xlw358{
+	    width: 35.8rem;
+	}
+	.fs-xlw359{
+	    width: 35.9rem;
+	}
+	.fs-xlw360{
+	    width: 36rem;
+	}
+	.fs-xlw361{
+	    width: 36.1rem;
+	}
+	.fs-xlw362{
+	    width: 36.2rem;
+	}
+	.fs-xlw363{
+	    width: 36.3rem;
+	}
+	.fs-xlw364{
+	    width: 36.4rem;
+	}
+	.fs-xlw365{
+	    width: 36.5rem;
+	}
+	.fs-xlw366{
+	    width: 36.6rem;
+	}
+	.fs-xlw367{
+	    width: 36.7rem;
+	}
+	.fs-xlw368{
+	    width: 36.8rem;
+	}
+	.fs-xlw369{
+	    width: 36.9rem;
+	}
+	.fs-xlw370{
+	    width: 37rem;
+	}
+	.fs-xlw371{
+	    width: 37.1rem;
+	}
+	.fs-xlw372{
+	    width: 37.2rem;
+	}
+	.fs-xlw373{
+	    width: 37.3rem;
+	}
+	.fs-xlw374{
+	    width: 37.4rem;
+	}
+	.fs-xlw375{
+	    width: 37.5rem;
+	}
+	.fs-xlw376{
+	    width: 37.6rem;
+	}
+	.fs-xlw377{
+	    width: 37.7rem;
+	}
+	.fs-xlw378{
+	    width: 37.8rem;
+	}
+	.fs-xlw379{
+	    width: 37.9rem;
+	}
+	.fs-xlw380{
+	    width: 38rem;
+	}
+	.fs-xlw381{
+	    width: 38.1rem;
+	}
+	.fs-xlw382{
+	    width: 38.2rem;
+	}
+	.fs-xlw383{
+	    width: 38.3rem;
+	}
+	.fs-xlw384{
+	    width: 38.4rem;
+	}
+	.fs-xlw385{
+	    width: 38.5rem;
+	}
+	.fs-xlw386{
+	    width: 38.6rem;
+	}
+	.fs-xlw387{
+	    width: 38.7rem;
+	}
+	.fs-xlw388{
+	    width: 38.8rem;
+	}
+	.fs-xlw389{
+	    width: 38.9rem;
+	}
+	.fs-xlw390{
+	    width: 39rem;
+	}
+	.fs-xlw391{
+	    width: 39.1rem;
+	}
+	.fs-xlw392{
+	    width: 39.2rem;
+	}
+	.fs-xlw393{
+	    width: 39.3rem;
+	}
+	.fs-xlw394{
+	    width: 39.4rem;
+	}
+	.fs-xlw395{
+	    width: 39.5rem;
+	}
+	.fs-xlw396{
+	    width: 39.6rem;
+	}
+	.fs-xlw397{
+	    width: 39.7rem;
+	}
+	.fs-xlw398{
+	    width: 39.8rem;
+	}
+	.fs-xlw399{
+	    width: 39.9rem;
+	}
+	.fs-xlw400{
+	    width: 40rem;
+	}
+	.fs-xlw401{
+	    width: 40.1rem;
+	}
+	.fs-xlw402{
+	    width: 40.2rem;
+	}
+	.fs-xlw403{
+	    width: 40.3rem;
+	}
+	.fs-xlw404{
+	    width: 40.4rem;
+	}
+	.fs-xlw405{
+	    width: 40.5rem;
+	}
+	.fs-xlw406{
+	    width: 40.6rem;
+	}
+	.fs-xlw407{
+	    width: 40.7rem;
+	}
+	.fs-xlw408{
+	    width: 40.8rem;
+	}
+	.fs-xlw409{
+	    width: 40.9rem;
+	}
+	.fs-xlw410{
+	    width: 41rem;
+	}
+	.fs-xlw411{
+	    width: 41.1rem;
+	}
+	.fs-xlw412{
+	    width: 41.2rem;
+	}
+	.fs-xlw413{
+	    width: 41.3rem;
+	}
+	.fs-xlw414{
+	    width: 41.4rem;
+	}
+	.fs-xlw415{
+	    width: 41.5rem;
+	}
+	.fs-xlw416{
+	    width: 41.6rem;
+	}
+	.fs-xlw417{
+	    width: 41.7rem;
+	}
+	.fs-xlw418{
+	    width: 41.8rem;
+	}
+	.fs-xlw419{
+	    width: 41.9rem;
+	}
+	.fs-xlw420{
+	    width: 42rem;
+	}
+	.fs-xlw421{
+	    width: 42.1rem;
+	}
+	.fs-xlw422{
+	    width: 42.2rem;
+	}
+	.fs-xlw423{
+	    width: 42.3rem;
+	}
+	.fs-xlw424{
+	    width: 42.4rem;
+	}
+	.fs-xlw425{
+	    width: 42.5rem;
+	}
+	.fs-xlw426{
+	    width: 42.6rem;
+	}
+	.fs-xlw427{
+	    width: 42.7rem;
+	}
+	.fs-xlw428{
+	    width: 42.8rem;
+	}
+	.fs-xlw429{
+	    width: 42.9rem;
+	}
+	.fs-xlw430{
+	    width: 43rem;
+	}
+	.fs-xlw431{
+	    width: 43.1rem;
+	}
+	.fs-xlw432{
+	    width: 43.2rem;
+	}
+	.fs-xlw433{
+	    width: 43.3rem;
+	}
+	.fs-xlw434{
+	    width: 43.4rem;
+	}
+	.fs-xlw435{
+	    width: 43.5rem;
+	}
+	.fs-xlw436{
+	    width: 43.6rem;
+	}
+	.fs-xlw437{
+	    width: 43.7rem;
+	}
+	.fs-xlw438{
+	    width: 43.8rem;
+	}
+	.fs-xlw439{
+	    width: 43.9rem;
+	}
+	.fs-xlw440{
+	    width: 44rem;
+	}
+	.fs-xlw441{
+	    width: 44.1rem;
+	}
+	.fs-xlw442{
+	    width: 44.2rem;
+	}
+	.fs-xlw443{
+	    width: 44.3rem;
+	}
+	.fs-xlw444{
+	    width: 44.4rem;
+	}
+	.fs-xlw445{
+	    width: 44.5rem;
+	}
+	.fs-xlw446{
+	    width: 44.6rem;
+	}
+	.fs-xlw447{
+	    width: 44.7rem;
+	}
+	.fs-xlw448{
+	    width: 44.8rem;
+	}
+	.fs-xlw449{
+	    width: 44.9rem;
+	}
+	.fs-xlw450{
+	    width: 45rem;
+	}
+	.fs-xlw451{
+	    width: 45.1rem;
+	}
+	.fs-xlw452{
+	    width: 45.2rem;
+	}
+	.fs-xlw453{
+	    width: 45.3rem;
+	}
+	.fs-xlw454{
+	    width: 45.4rem;
+	}
+	.fs-xlw455{
+	    width: 45.5rem;
+	}
+	.fs-xlw456{
+	    width: 45.6rem;
+	}
+	.fs-xlw457{
+	    width: 45.7rem;
+	}
+	.fs-xlw458{
+	    width: 45.8rem;
+	}
+	.fs-xlw459{
+	    width: 45.9rem;
+	}
+	.fs-xlw460{
+	    width: 46rem;
+	}
+	.fs-xlw461{
+	    width: 46.1rem;
+	}
+	.fs-xlw462{
+	    width: 46.2rem;
+	}
+	.fs-xlw463{
+	    width: 46.3rem;
+	}
+	.fs-xlw464{
+	    width: 46.4rem;
+	}
+	.fs-xlw465{
+	    width: 46.5rem;
+	}
+	.fs-xlw466{
+	    width: 46.6rem;
+	}
+	.fs-xlw467{
+	    width: 46.7rem;
+	}
+	.fs-xlw468{
+	    width: 46.8rem;
+	}
+	.fs-xlw469{
+	    width: 46.9rem;
+	}
+	.fs-xlw470{
+	    width: 47rem;
+	}
+	.fs-xlw471{
+	    width: 47.1rem;
+	}
+	.fs-xlw472{
+	    width: 47.2rem;
+	}
+	.fs-xlw473{
+	    width: 47.3rem;
+	}
+	.fs-xlw474{
+	    width: 47.4rem;
+	}
+	.fs-xlw475{
+	    width: 47.5rem;
+	}
+	.fs-xlw476{
+	    width: 47.6rem;
+	}
+	.fs-xlw477{
+	    width: 47.7rem;
+	}
+	.fs-xlw478{
+	    width: 47.8rem;
+	}
+	.fs-xlw479{
+	    width: 47.9rem;
+	}
+	.fs-xlw480{
+	    width: 48rem;
+	}
+	.fs-xlw481{
+	    width: 48.1rem;
+	}
+	.fs-xlw482{
+	    width: 48.2rem;
+	}
+	.fs-xlw483{
+	    width: 48.3rem;
+	}
+	.fs-xlw484{
+	    width: 48.4rem;
+	}
+	.fs-xlw485{
+	    width: 48.5rem;
+	}
+	.fs-xlw486{
+	    width: 48.6rem;
+	}
+	.fs-xlw487{
+	    width: 48.7rem;
+	}
+	.fs-xlw488{
+	    width: 48.8rem;
+	}
+	.fs-xlw489{
+	    width: 48.9rem;
+	}
+	.fs-xlw490{
+	    width: 49rem;
+	}
+	.fs-xlw491{
+	    width: 49.1rem;
+	}
+	.fs-xlw492{
+	    width: 49.2rem;
+	}
+	.fs-xlw493{
+	    width: 49.3rem;
+	}
+	.fs-xlw494{
+	    width: 49.4rem;
+	}
+	.fs-xlw495{
+	    width: 49.5rem;
+	}
+	.fs-xlw496{
+	    width: 49.6rem;
+	}
+	.fs-xlw497{
+	    width: 49.7rem;
+	}
+	.fs-xlw498{
+	    width: 49.8rem;
+	}
+	.fs-xlw499{
+	    width: 49.9rem;
+	}
+	.fs-xlw500{
+	    width: 50rem;
+	}
+	.fs-xlw1_2{
+	    width: 50%;
+	}
+	.fs-xlw1_3{
+	    width: 33.3333333333333%;
+	}
+	.fs-xlw2_3{
+	    width: 66.6666666666667%;
+	}
+	.fs-xlw1_4{
+	    width: 25%;
+	}
+	.fs-xlw2_4{
+	    width: 50%;
+	}
+	.fs-xlw3_4{
+	    width: 75%;
+	}
+	.fs-xlw1_5{
+	    width: 20%;
+	}
+	.fs-xlw2_5{
+	    width: 40%;
+	}
+	.fs-xlw3_5{
+	    width: 60%;
+	}
+	.fs-xlw4_5{
+	    width: 80%;
+	}
+	.fs-xlw1_6{
+	    width: 16.6666666666667%;
+	}
+	.fs-xlw2_6{
+	    width: 33.3333333333333%;
+	}
+	.fs-xlw3_6{
+	    width: 50%;
+	}
+	.fs-xlw4_6{
+	    width: 66.6666666666667%;
+	}
+	.fs-xlw5_6{
+	    width: 83.3333333333333%;
+	}
+	.fs-xlw1_7{
+	    width: 14.2857142857143%;
+	}
+	.fs-xlw2_7{
+	    width: 28.5714285714286%;
+	}
+	.fs-xlw3_7{
+	    width: 42.8571428571429%;
+	}
+	.fs-xlw4_7{
+	    width: 57.1428571428571%;
+	}
+	.fs-xlw5_7{
+	    width: 71.4285714285714%;
+	}
+	.fs-xlw6_7{
+	    width: 85.7142857142857%;
+	}
+	.fs-xlw1_8{
+	    width: 12.5%;
+	}
+	.fs-xlw2_8{
+	    width: 25%;
+	}
+	.fs-xlw3_8{
+	    width: 37.5%;
+	}
+	.fs-xlw4_8{
+	    width: 50%;
+	}
+	.fs-xlw5_8{
+	    width: 62.5%;
+	}
+	.fs-xlw6_8{
+	    width: 75%;
+	}
+	.fs-xlw7_8{
+	    width: 87.5%;
+	}
+	.fs-xlw1_9{
+	    width: 11.1111111111111%;
+	}
+	.fs-xlw2_9{
+	    width: 22.2222222222222%;
+	}
+	.fs-xlw3_9{
+	    width: 33.3333333333333%;
+	}
+	.fs-xlw4_9{
+	    width: 44.4444444444444%;
+	}
+	.fs-xlw5_9{
+	    width: 55.5555555555556%;
+	}
+	.fs-xlw6_9{
+	    width: 66.6666666666667%;
+	}
+	.fs-xlw7_9{
+	    width: 77.7777777777778%;
+	}
+	.fs-xlw8_9{
+	    width: 88.8888888888889%;
+	}
+	.fs-xlw1_10{
+	    width: 10%;
+	}
+	.fs-xlw2_10{
+	    width: 20%;
+	}
+	.fs-xlw3_10{
+	    width: 30%;
+	}
+	.fs-xlw4_10{
+	    width: 40%;
+	}
+	.fs-xlw5_10{
+	    width: 50%;
+	}
+	.fs-xlw6_10{
+	    width: 60%;
+	}
+	.fs-xlw7_10{
+	    width: 70%;
+	}
+	.fs-xlw8_10{
+	    width: 80%;
+	}
+	.fs-xlw9_10{
+	    width: 90%;
+	}
+	.fs-xlw1_11{
+	    width: 9.09090909090909%;
+	}
+	.fs-xlw2_11{
+	    width: 18.1818181818182%;
+	}
+	.fs-xlw3_11{
+	    width: 27.2727272727273%;
+	}
+	.fs-xlw4_11{
+	    width: 36.3636363636364%;
+	}
+	.fs-xlw5_11{
+	    width: 45.4545454545455%;
+	}
+	.fs-xlw6_11{
+	    width: 54.5454545454545%;
+	}
+	.fs-xlw7_11{
+	    width: 63.6363636363636%;
+	}
+	.fs-xlw8_11{
+	    width: 72.7272727272727%;
+	}
+	.fs-xlw9_11{
+	    width: 81.8181818181818%;
+	}
+	.fs-xlw10_11{
+	    width: 90.9090909090909%;
+	}
+	.fs-xlw1_12{
+	    width: 8.33333333333333%;
+	}
+	.fs-xlw2_12{
+	    width: 16.6666666666667%;
+	}
+	.fs-xlw3_12{
+	    width: 25%;
+	}
+	.fs-xlw4_12{
+	    width: 33.3333333333333%;
+	}
+	.fs-xlw5_12{
+	    width: 41.6666666666667%;
+	}
+	.fs-xlw6_12{
+	    width: 50%;
+	}
+	.fs-xlw7_12{
+	    width: 58.3333333333333%;
+	}
+	.fs-xlw8_12{
+	    width: 66.6666666666667%;
+	}
+	.fs-xlw9_12{
+	    width: 75%;
+	}
+	.fs-xlw10_12{
+	    width: 83.3333333333333%;
+	}
+	.fs-xlw11_12{
+	    width: 91.6666666666667%;
+	}
+
+}
+@media (min-widtw: 1400px) {
+	/* width */
+	.fs-xxlw0{
+	    width: 0px;
+	}
+	.fs-xxlwpx{
+	    width: 1px;
+	}
+	.fs-xxlw1{
+	    width: 0.1rem;
+	}
+	.fs-xxlw2{
+	    width: 0.2rem;
+	}
+	.fs-xxlw3{
+	    width: 0.3rem;
+	}
+	.fs-xxlw4{
+	    width: 0.4rem;
+	}
+	.fs-xxlw5{
+	    width: 0.5rem;
+	}
+	.fs-xxlw6{
+	    width: 0.6rem;
+	}
+	.fs-xxlw7{
+	    width: 0.7rem;
+	}
+	.fs-xxlw8{
+	    width: 0.8rem;
+	}
+	.fs-xxlw9{
+	    width: 0.9rem;
+	}
+	.fs-xxlw10{
+	    width: 1rem;
+	}
+	.fs-xxlw11{
+	    width: 1.1rem;
+	}
+	.fs-xxlw12{
+	    width: 1.2rem;
+	}
+	.fs-xxlw13{
+	    width: 1.3rem;
+	}
+	.fs-xxlw14{
+	    width: 1.4rem;
+	}
+	.fs-xxlw15{
+	    width: 1.5rem;
+	}
+	.fs-xxlw16{
+	    width: 1.6rem;
+	}
+	.fs-xxlw17{
+	    width: 1.7rem;
+	}
+	.fs-xxlw18{
+	    width: 1.8rem;
+	}
+	.fs-xxlw19{
+	    width: 1.9rem;
+	}
+	.fs-xxlw20{
+	    width: 2rem;
+	}
+	.fs-xxlw21{
+	    width: 2.1rem;
+	}
+	.fs-xxlw22{
+	    width: 2.2rem;
+	}
+	.fs-xxlw23{
+	    width: 2.3rem;
+	}
+	.fs-xxlw24{
+	    width: 2.4rem;
+	}
+	.fs-xxlw25{
+	    width: 2.5rem;
+	}
+	.fs-xxlw26{
+	    width: 2.6rem;
+	}
+	.fs-xxlw27{
+	    width: 2.7rem;
+	}
+	.fs-xxlw28{
+	    width: 2.8rem;
+	}
+	.fs-xxlw29{
+	    width: 2.9rem;
+	}
+	.fs-xxlw30{
+	    width: 3rem;
+	}
+	.fs-xxlw31{
+	    width: 3.1rem;
+	}
+	.fs-xxlw32{
+	    width: 3.2rem;
+	}
+	.fs-xxlw33{
+	    width: 3.3rem;
+	}
+	.fs-xxlw34{
+	    width: 3.4rem;
+	}
+	.fs-xxlw35{
+	    width: 3.5rem;
+	}
+	.fs-xxlw36{
+	    width: 3.6rem;
+	}
+	.fs-xxlw37{
+	    width: 3.7rem;
+	}
+	.fs-xxlw38{
+	    width: 3.8rem;
+	}
+	.fs-xxlw39{
+	    width: 3.9rem;
+	}
+	.fs-xxlw40{
+	    width: 4rem;
+	}
+	.fs-xxlw41{
+	    width: 4.1rem;
+	}
+	.fs-xxlw42{
+	    width: 4.2rem;
+	}
+	.fs-xxlw43{
+	    width: 4.3rem;
+	}
+	.fs-xxlw44{
+	    width: 4.4rem;
+	}
+	.fs-xxlw45{
+	    width: 4.5rem;
+	}
+	.fs-xxlw46{
+	    width: 4.6rem;
+	}
+	.fs-xxlw47{
+	    width: 4.7rem;
+	}
+	.fs-xxlw48{
+	    width: 4.8rem;
+	}
+	.fs-xxlw49{
+	    width: 4.9rem;
+	}
+	.fs-xxlw50{
+	    width: 5rem;
+	}
+	.fs-xxlw51{
+	    width: 5.1rem;
+	}
+	.fs-xxlw52{
+	    width: 5.2rem;
+	}
+	.fs-xxlw53{
+	    width: 5.3rem;
+	}
+	.fs-xxlw54{
+	    width: 5.4rem;
+	}
+	.fs-xxlw55{
+	    width: 5.5rem;
+	}
+	.fs-xxlw56{
+	    width: 5.6rem;
+	}
+	.fs-xxlw57{
+	    width: 5.7rem;
+	}
+	.fs-xxlw58{
+	    width: 5.8rem;
+	}
+	.fs-xxlw59{
+	    width: 5.9rem;
+	}
+	.fs-xxlw60{
+	    width: 6rem;
+	}
+	.fs-xxlw61{
+	    width: 6.1rem;
+	}
+	.fs-xxlw62{
+	    width: 6.2rem;
+	}
+	.fs-xxlw63{
+	    width: 6.3rem;
+	}
+	.fs-xxlw64{
+	    width: 6.4rem;
+	}
+	.fs-xxlw65{
+	    width: 6.5rem;
+	}
+	.fs-xxlw66{
+	    width: 6.6rem;
+	}
+	.fs-xxlw67{
+	    width: 6.7rem;
+	}
+	.fs-xxlw68{
+	    width: 6.8rem;
+	}
+	.fs-xxlw69{
+	    width: 6.9rem;
+	}
+	.fs-xxlw70{
+	    width: 7rem;
+	}
+	.fs-xxlw71{
+	    width: 7.1rem;
+	}
+	.fs-xxlw72{
+	    width: 7.2rem;
+	}
+	.fs-xxlw73{
+	    width: 7.3rem;
+	}
+	.fs-xxlw74{
+	    width: 7.4rem;
+	}
+	.fs-xxlw75{
+	    width: 7.5rem;
+	}
+	.fs-xxlw76{
+	    width: 7.6rem;
+	}
+	.fs-xxlw77{
+	    width: 7.7rem;
+	}
+	.fs-xxlw78{
+	    width: 7.8rem;
+	}
+	.fs-xxlw79{
+	    width: 7.9rem;
+	}
+	.fs-xxlw80{
+	    width: 8rem;
+	}
+	.fs-xxlw81{
+	    width: 8.1rem;
+	}
+	.fs-xxlw82{
+	    width: 8.2rem;
+	}
+	.fs-xxlw83{
+	    width: 8.3rem;
+	}
+	.fs-xxlw84{
+	    width: 8.4rem;
+	}
+	.fs-xxlw85{
+	    width: 8.5rem;
+	}
+	.fs-xxlw86{
+	    width: 8.6rem;
+	}
+	.fs-xxlw87{
+	    width: 8.7rem;
+	}
+	.fs-xxlw88{
+	    width: 8.8rem;
+	}
+	.fs-xxlw89{
+	    width: 8.9rem;
+	}
+	.fs-xxlw90{
+	    width: 9rem;
+	}
+	.fs-xxlw91{
+	    width: 9.1rem;
+	}
+	.fs-xxlw92{
+	    width: 9.2rem;
+	}
+	.fs-xxlw93{
+	    width: 9.3rem;
+	}
+	.fs-xxlw94{
+	    width: 9.4rem;
+	}
+	.fs-xxlw95{
+	    width: 9.5rem;
+	}
+	.fs-xxlw96{
+	    width: 9.6rem;
+	}
+	.fs-xxlw97{
+	    width: 9.7rem;
+	}
+	.fs-xxlw98{
+	    width: 9.8rem;
+	}
+	.fs-xxlw99{
+	    width: 9.9rem;
+	}
+	.fs-xxlw100{
+	    width: 10rem;
+	}
+	.fs-xxlw101{
+	    width: 10.1rem;
+	}
+	.fs-xxlw102{
+	    width: 10.2rem;
+	}
+	.fs-xxlw103{
+	    width: 10.3rem;
+	}
+	.fs-xxlw104{
+	    width: 10.4rem;
+	}
+	.fs-xxlw105{
+	    width: 10.5rem;
+	}
+	.fs-xxlw106{
+	    width: 10.6rem;
+	}
+	.fs-xxlw107{
+	    width: 10.7rem;
+	}
+	.fs-xxlw108{
+	    width: 10.8rem;
+	}
+	.fs-xxlw109{
+	    width: 10.9rem;
+	}
+	.fs-xxlw110{
+	    width: 11rem;
+	}
+	.fs-xxlw111{
+	    width: 11.1rem;
+	}
+	.fs-xxlw112{
+	    width: 11.2rem;
+	}
+	.fs-xxlw113{
+	    width: 11.3rem;
+	}
+	.fs-xxlw114{
+	    width: 11.4rem;
+	}
+	.fs-xxlw115{
+	    width: 11.5rem;
+	}
+	.fs-xxlw116{
+	    width: 11.6rem;
+	}
+	.fs-xxlw117{
+	    width: 11.7rem;
+	}
+	.fs-xxlw118{
+	    width: 11.8rem;
+	}
+	.fs-xxlw119{
+	    width: 11.9rem;
+	}
+	.fs-xxlw120{
+	    width: 12rem;
+	}
+	.fs-xxlw121{
+	    width: 12.1rem;
+	}
+	.fs-xxlw122{
+	    width: 12.2rem;
+	}
+	.fs-xxlw123{
+	    width: 12.3rem;
+	}
+	.fs-xxlw124{
+	    width: 12.4rem;
+	}
+	.fs-xxlw125{
+	    width: 12.5rem;
+	}
+	.fs-xxlw126{
+	    width: 12.6rem;
+	}
+	.fs-xxlw127{
+	    width: 12.7rem;
+	}
+	.fs-xxlw128{
+	    width: 12.8rem;
+	}
+	.fs-xxlw129{
+	    width: 12.9rem;
+	}
+	.fs-xxlw130{
+	    width: 13rem;
+	}
+	.fs-xxlw131{
+	    width: 13.1rem;
+	}
+	.fs-xxlw132{
+	    width: 13.2rem;
+	}
+	.fs-xxlw133{
+	    width: 13.3rem;
+	}
+	.fs-xxlw134{
+	    width: 13.4rem;
+	}
+	.fs-xxlw135{
+	    width: 13.5rem;
+	}
+	.fs-xxlw136{
+	    width: 13.6rem;
+	}
+	.fs-xxlw137{
+	    width: 13.7rem;
+	}
+	.fs-xxlw138{
+	    width: 13.8rem;
+	}
+	.fs-xxlw139{
+	    width: 13.9rem;
+	}
+	.fs-xxlw140{
+	    width: 14rem;
+	}
+	.fs-xxlw141{
+	    width: 14.1rem;
+	}
+	.fs-xxlw142{
+	    width: 14.2rem;
+	}
+	.fs-xxlw143{
+	    width: 14.3rem;
+	}
+	.fs-xxlw144{
+	    width: 14.4rem;
+	}
+	.fs-xxlw145{
+	    width: 14.5rem;
+	}
+	.fs-xxlw146{
+	    width: 14.6rem;
+	}
+	.fs-xxlw147{
+	    width: 14.7rem;
+	}
+	.fs-xxlw148{
+	    width: 14.8rem;
+	}
+	.fs-xxlw149{
+	    width: 14.9rem;
+	}
+	.fs-xxlw150{
+	    width: 15rem;
+	}
+	.fs-xxlw151{
+	    width: 15.1rem;
+	}
+	.fs-xxlw152{
+	    width: 15.2rem;
+	}
+	.fs-xxlw153{
+	    width: 15.3rem;
+	}
+	.fs-xxlw154{
+	    width: 15.4rem;
+	}
+	.fs-xxlw155{
+	    width: 15.5rem;
+	}
+	.fs-xxlw156{
+	    width: 15.6rem;
+	}
+	.fs-xxlw157{
+	    width: 15.7rem;
+	}
+	.fs-xxlw158{
+	    width: 15.8rem;
+	}
+	.fs-xxlw159{
+	    width: 15.9rem;
+	}
+	.fs-xxlw160{
+	    width: 16rem;
+	}
+	.fs-xxlw161{
+	    width: 16.1rem;
+	}
+	.fs-xxlw162{
+	    width: 16.2rem;
+	}
+	.fs-xxlw163{
+	    width: 16.3rem;
+	}
+	.fs-xxlw164{
+	    width: 16.4rem;
+	}
+	.fs-xxlw165{
+	    width: 16.5rem;
+	}
+	.fs-xxlw166{
+	    width: 16.6rem;
+	}
+	.fs-xxlw167{
+	    width: 16.7rem;
+	}
+	.fs-xxlw168{
+	    width: 16.8rem;
+	}
+	.fs-xxlw169{
+	    width: 16.9rem;
+	}
+	.fs-xxlw170{
+	    width: 17rem;
+	}
+	.fs-xxlw171{
+	    width: 17.1rem;
+	}
+	.fs-xxlw172{
+	    width: 17.2rem;
+	}
+	.fs-xxlw173{
+	    width: 17.3rem;
+	}
+	.fs-xxlw174{
+	    width: 17.4rem;
+	}
+	.fs-xxlw175{
+	    width: 17.5rem;
+	}
+	.fs-xxlw176{
+	    width: 17.6rem;
+	}
+	.fs-xxlw177{
+	    width: 17.7rem;
+	}
+	.fs-xxlw178{
+	    width: 17.8rem;
+	}
+	.fs-xxlw179{
+	    width: 17.9rem;
+	}
+	.fs-xxlw180{
+	    width: 18rem;
+	}
+	.fs-xxlw181{
+	    width: 18.1rem;
+	}
+	.fs-xxlw182{
+	    width: 18.2rem;
+	}
+	.fs-xxlw183{
+	    width: 18.3rem;
+	}
+	.fs-xxlw184{
+	    width: 18.4rem;
+	}
+	.fs-xxlw185{
+	    width: 18.5rem;
+	}
+	.fs-xxlw186{
+	    width: 18.6rem;
+	}
+	.fs-xxlw187{
+	    width: 18.7rem;
+	}
+	.fs-xxlw188{
+	    width: 18.8rem;
+	}
+	.fs-xxlw189{
+	    width: 18.9rem;
+	}
+	.fs-xxlw190{
+	    width: 19rem;
+	}
+	.fs-xxlw191{
+	    width: 19.1rem;
+	}
+	.fs-xxlw192{
+	    width: 19.2rem;
+	}
+	.fs-xxlw193{
+	    width: 19.3rem;
+	}
+	.fs-xxlw194{
+	    width: 19.4rem;
+	}
+	.fs-xxlw195{
+	    width: 19.5rem;
+	}
+	.fs-xxlw196{
+	    width: 19.6rem;
+	}
+	.fs-xxlw197{
+	    width: 19.7rem;
+	}
+	.fs-xxlw198{
+	    width: 19.8rem;
+	}
+	.fs-xxlw199{
+	    width: 19.9rem;
+	}
+	.fs-xxlw200{
+	    width: 20rem;
+	}
+	.fs-xxlw201{
+	    width: 20.1rem;
+	}
+	.fs-xxlw202{
+	    width: 20.2rem;
+	}
+	.fs-xxlw203{
+	    width: 20.3rem;
+	}
+	.fs-xxlw204{
+	    width: 20.4rem;
+	}
+	.fs-xxlw205{
+	    width: 20.5rem;
+	}
+	.fs-xxlw206{
+	    width: 20.6rem;
+	}
+	.fs-xxlw207{
+	    width: 20.7rem;
+	}
+	.fs-xxlw208{
+	    width: 20.8rem;
+	}
+	.fs-xxlw209{
+	    width: 20.9rem;
+	}
+	.fs-xxlw210{
+	    width: 21rem;
+	}
+	.fs-xxlw211{
+	    width: 21.1rem;
+	}
+	.fs-xxlw212{
+	    width: 21.2rem;
+	}
+	.fs-xxlw213{
+	    width: 21.3rem;
+	}
+	.fs-xxlw214{
+	    width: 21.4rem;
+	}
+	.fs-xxlw215{
+	    width: 21.5rem;
+	}
+	.fs-xxlw216{
+	    width: 21.6rem;
+	}
+	.fs-xxlw217{
+	    width: 21.7rem;
+	}
+	.fs-xxlw218{
+	    width: 21.8rem;
+	}
+	.fs-xxlw219{
+	    width: 21.9rem;
+	}
+	.fs-xxlw220{
+	    width: 22rem;
+	}
+	.fs-xxlw221{
+	    width: 22.1rem;
+	}
+	.fs-xxlw222{
+	    width: 22.2rem;
+	}
+	.fs-xxlw223{
+	    width: 22.3rem;
+	}
+	.fs-xxlw224{
+	    width: 22.4rem;
+	}
+	.fs-xxlw225{
+	    width: 22.5rem;
+	}
+	.fs-xxlw226{
+	    width: 22.6rem;
+	}
+	.fs-xxlw227{
+	    width: 22.7rem;
+	}
+	.fs-xxlw228{
+	    width: 22.8rem;
+	}
+	.fs-xxlw229{
+	    width: 22.9rem;
+	}
+	.fs-xxlw230{
+	    width: 23rem;
+	}
+	.fs-xxlw231{
+	    width: 23.1rem;
+	}
+	.fs-xxlw232{
+	    width: 23.2rem;
+	}
+	.fs-xxlw233{
+	    width: 23.3rem;
+	}
+	.fs-xxlw234{
+	    width: 23.4rem;
+	}
+	.fs-xxlw235{
+	    width: 23.5rem;
+	}
+	.fs-xxlw236{
+	    width: 23.6rem;
+	}
+	.fs-xxlw237{
+	    width: 23.7rem;
+	}
+	.fs-xxlw238{
+	    width: 23.8rem;
+	}
+	.fs-xxlw239{
+	    width: 23.9rem;
+	}
+	.fs-xxlw240{
+	    width: 24rem;
+	}
+	.fs-xxlw241{
+	    width: 24.1rem;
+	}
+	.fs-xxlw242{
+	    width: 24.2rem;
+	}
+	.fs-xxlw243{
+	    width: 24.3rem;
+	}
+	.fs-xxlw244{
+	    width: 24.4rem;
+	}
+	.fs-xxlw245{
+	    width: 24.5rem;
+	}
+	.fs-xxlw246{
+	    width: 24.6rem;
+	}
+	.fs-xxlw247{
+	    width: 24.7rem;
+	}
+	.fs-xxlw248{
+	    width: 24.8rem;
+	}
+	.fs-xxlw249{
+	    width: 24.9rem;
+	}
+	.fs-xxlw250{
+	    width: 25rem;
+	}
+	.fs-xxlw251{
+	    width: 25.1rem;
+	}
+	.fs-xxlw252{
+	    width: 25.2rem;
+	}
+	.fs-xxlw253{
+	    width: 25.3rem;
+	}
+	.fs-xxlw254{
+	    width: 25.4rem;
+	}
+	.fs-xxlw255{
+	    width: 25.5rem;
+	}
+	.fs-xxlw256{
+	    width: 25.6rem;
+	}
+	.fs-xxlw257{
+	    width: 25.7rem;
+	}
+	.fs-xxlw258{
+	    width: 25.8rem;
+	}
+	.fs-xxlw259{
+	    width: 25.9rem;
+	}
+	.fs-xxlw260{
+	    width: 26rem;
+	}
+	.fs-xxlw261{
+	    width: 26.1rem;
+	}
+	.fs-xxlw262{
+	    width: 26.2rem;
+	}
+	.fs-xxlw263{
+	    width: 26.3rem;
+	}
+	.fs-xxlw264{
+	    width: 26.4rem;
+	}
+	.fs-xxlw265{
+	    width: 26.5rem;
+	}
+	.fs-xxlw266{
+	    width: 26.6rem;
+	}
+	.fs-xxlw267{
+	    width: 26.7rem;
+	}
+	.fs-xxlw268{
+	    width: 26.8rem;
+	}
+	.fs-xxlw269{
+	    width: 26.9rem;
+	}
+	.fs-xxlw270{
+	    width: 27rem;
+	}
+	.fs-xxlw271{
+	    width: 27.1rem;
+	}
+	.fs-xxlw272{
+	    width: 27.2rem;
+	}
+	.fs-xxlw273{
+	    width: 27.3rem;
+	}
+	.fs-xxlw274{
+	    width: 27.4rem;
+	}
+	.fs-xxlw275{
+	    width: 27.5rem;
+	}
+	.fs-xxlw276{
+	    width: 27.6rem;
+	}
+	.fs-xxlw277{
+	    width: 27.7rem;
+	}
+	.fs-xxlw278{
+	    width: 27.8rem;
+	}
+	.fs-xxlw279{
+	    width: 27.9rem;
+	}
+	.fs-xxlw280{
+	    width: 28rem;
+	}
+	.fs-xxlw281{
+	    width: 28.1rem;
+	}
+	.fs-xxlw282{
+	    width: 28.2rem;
+	}
+	.fs-xxlw283{
+	    width: 28.3rem;
+	}
+	.fs-xxlw284{
+	    width: 28.4rem;
+	}
+	.fs-xxlw285{
+	    width: 28.5rem;
+	}
+	.fs-xxlw286{
+	    width: 28.6rem;
+	}
+	.fs-xxlw287{
+	    width: 28.7rem;
+	}
+	.fs-xxlw288{
+	    width: 28.8rem;
+	}
+	.fs-xxlw289{
+	    width: 28.9rem;
+	}
+	.fs-xxlw290{
+	    width: 29rem;
+	}
+	.fs-xxlw291{
+	    width: 29.1rem;
+	}
+	.fs-xxlw292{
+	    width: 29.2rem;
+	}
+	.fs-xxlw293{
+	    width: 29.3rem;
+	}
+	.fs-xxlw294{
+	    width: 29.4rem;
+	}
+	.fs-xxlw295{
+	    width: 29.5rem;
+	}
+	.fs-xxlw296{
+	    width: 29.6rem;
+	}
+	.fs-xxlw297{
+	    width: 29.7rem;
+	}
+	.fs-xxlw298{
+	    width: 29.8rem;
+	}
+	.fs-xxlw299{
+	    width: 29.9rem;
+	}
+	.fs-xxlw300{
+	    width: 30rem;
+	}
+	.fs-xxlw301{
+	    width: 30.1rem;
+	}
+	.fs-xxlw302{
+	    width: 30.2rem;
+	}
+	.fs-xxlw303{
+	    width: 30.3rem;
+	}
+	.fs-xxlw304{
+	    width: 30.4rem;
+	}
+	.fs-xxlw305{
+	    width: 30.5rem;
+	}
+	.fs-xxlw306{
+	    width: 30.6rem;
+	}
+	.fs-xxlw307{
+	    width: 30.7rem;
+	}
+	.fs-xxlw308{
+	    width: 30.8rem;
+	}
+	.fs-xxlw309{
+	    width: 30.9rem;
+	}
+	.fs-xxlw310{
+	    width: 31rem;
+	}
+	.fs-xxlw311{
+	    width: 31.1rem;
+	}
+	.fs-xxlw312{
+	    width: 31.2rem;
+	}
+	.fs-xxlw313{
+	    width: 31.3rem;
+	}
+	.fs-xxlw314{
+	    width: 31.4rem;
+	}
+	.fs-xxlw315{
+	    width: 31.5rem;
+	}
+	.fs-xxlw316{
+	    width: 31.6rem;
+	}
+	.fs-xxlw317{
+	    width: 31.7rem;
+	}
+	.fs-xxlw318{
+	    width: 31.8rem;
+	}
+	.fs-xxlw319{
+	    width: 31.9rem;
+	}
+	.fs-xxlw320{
+	    width: 32rem;
+	}
+	.fs-xxlw321{
+	    width: 32.1rem;
+	}
+	.fs-xxlw322{
+	    width: 32.2rem;
+	}
+	.fs-xxlw323{
+	    width: 32.3rem;
+	}
+	.fs-xxlw324{
+	    width: 32.4rem;
+	}
+	.fs-xxlw325{
+	    width: 32.5rem;
+	}
+	.fs-xxlw326{
+	    width: 32.6rem;
+	}
+	.fs-xxlw327{
+	    width: 32.7rem;
+	}
+	.fs-xxlw328{
+	    width: 32.8rem;
+	}
+	.fs-xxlw329{
+	    width: 32.9rem;
+	}
+	.fs-xxlw330{
+	    width: 33rem;
+	}
+	.fs-xxlw331{
+	    width: 33.1rem;
+	}
+	.fs-xxlw332{
+	    width: 33.2rem;
+	}
+	.fs-xxlw333{
+	    width: 33.3rem;
+	}
+	.fs-xxlw334{
+	    width: 33.4rem;
+	}
+	.fs-xxlw335{
+	    width: 33.5rem;
+	}
+	.fs-xxlw336{
+	    width: 33.6rem;
+	}
+	.fs-xxlw337{
+	    width: 33.7rem;
+	}
+	.fs-xxlw338{
+	    width: 33.8rem;
+	}
+	.fs-xxlw339{
+	    width: 33.9rem;
+	}
+	.fs-xxlw340{
+	    width: 34rem;
+	}
+	.fs-xxlw341{
+	    width: 34.1rem;
+	}
+	.fs-xxlw342{
+	    width: 34.2rem;
+	}
+	.fs-xxlw343{
+	    width: 34.3rem;
+	}
+	.fs-xxlw344{
+	    width: 34.4rem;
+	}
+	.fs-xxlw345{
+	    width: 34.5rem;
+	}
+	.fs-xxlw346{
+	    width: 34.6rem;
+	}
+	.fs-xxlw347{
+	    width: 34.7rem;
+	}
+	.fs-xxlw348{
+	    width: 34.8rem;
+	}
+	.fs-xxlw349{
+	    width: 34.9rem;
+	}
+	.fs-xxlw350{
+	    width: 35rem;
+	}
+	.fs-xxlw351{
+	    width: 35.1rem;
+	}
+	.fs-xxlw352{
+	    width: 35.2rem;
+	}
+	.fs-xxlw353{
+	    width: 35.3rem;
+	}
+	.fs-xxlw354{
+	    width: 35.4rem;
+	}
+	.fs-xxlw355{
+	    width: 35.5rem;
+	}
+	.fs-xxlw356{
+	    width: 35.6rem;
+	}
+	.fs-xxlw357{
+	    width: 35.7rem;
+	}
+	.fs-xxlw358{
+	    width: 35.8rem;
+	}
+	.fs-xxlw359{
+	    width: 35.9rem;
+	}
+	.fs-xxlw360{
+	    width: 36rem;
+	}
+	.fs-xxlw361{
+	    width: 36.1rem;
+	}
+	.fs-xxlw362{
+	    width: 36.2rem;
+	}
+	.fs-xxlw363{
+	    width: 36.3rem;
+	}
+	.fs-xxlw364{
+	    width: 36.4rem;
+	}
+	.fs-xxlw365{
+	    width: 36.5rem;
+	}
+	.fs-xxlw366{
+	    width: 36.6rem;
+	}
+	.fs-xxlw367{
+	    width: 36.7rem;
+	}
+	.fs-xxlw368{
+	    width: 36.8rem;
+	}
+	.fs-xxlw369{
+	    width: 36.9rem;
+	}
+	.fs-xxlw370{
+	    width: 37rem;
+	}
+	.fs-xxlw371{
+	    width: 37.1rem;
+	}
+	.fs-xxlw372{
+	    width: 37.2rem;
+	}
+	.fs-xxlw373{
+	    width: 37.3rem;
+	}
+	.fs-xxlw374{
+	    width: 37.4rem;
+	}
+	.fs-xxlw375{
+	    width: 37.5rem;
+	}
+	.fs-xxlw376{
+	    width: 37.6rem;
+	}
+	.fs-xxlw377{
+	    width: 37.7rem;
+	}
+	.fs-xxlw378{
+	    width: 37.8rem;
+	}
+	.fs-xxlw379{
+	    width: 37.9rem;
+	}
+	.fs-xxlw380{
+	    width: 38rem;
+	}
+	.fs-xxlw381{
+	    width: 38.1rem;
+	}
+	.fs-xxlw382{
+	    width: 38.2rem;
+	}
+	.fs-xxlw383{
+	    width: 38.3rem;
+	}
+	.fs-xxlw384{
+	    width: 38.4rem;
+	}
+	.fs-xxlw385{
+	    width: 38.5rem;
+	}
+	.fs-xxlw386{
+	    width: 38.6rem;
+	}
+	.fs-xxlw387{
+	    width: 38.7rem;
+	}
+	.fs-xxlw388{
+	    width: 38.8rem;
+	}
+	.fs-xxlw389{
+	    width: 38.9rem;
+	}
+	.fs-xxlw390{
+	    width: 39rem;
+	}
+	.fs-xxlw391{
+	    width: 39.1rem;
+	}
+	.fs-xxlw392{
+	    width: 39.2rem;
+	}
+	.fs-xxlw393{
+	    width: 39.3rem;
+	}
+	.fs-xxlw394{
+	    width: 39.4rem;
+	}
+	.fs-xxlw395{
+	    width: 39.5rem;
+	}
+	.fs-xxlw396{
+	    width: 39.6rem;
+	}
+	.fs-xxlw397{
+	    width: 39.7rem;
+	}
+	.fs-xxlw398{
+	    width: 39.8rem;
+	}
+	.fs-xxlw399{
+	    width: 39.9rem;
+	}
+	.fs-xxlw400{
+	    width: 40rem;
+	}
+	.fs-xxlw401{
+	    width: 40.1rem;
+	}
+	.fs-xxlw402{
+	    width: 40.2rem;
+	}
+	.fs-xxlw403{
+	    width: 40.3rem;
+	}
+	.fs-xxlw404{
+	    width: 40.4rem;
+	}
+	.fs-xxlw405{
+	    width: 40.5rem;
+	}
+	.fs-xxlw406{
+	    width: 40.6rem;
+	}
+	.fs-xxlw407{
+	    width: 40.7rem;
+	}
+	.fs-xxlw408{
+	    width: 40.8rem;
+	}
+	.fs-xxlw409{
+	    width: 40.9rem;
+	}
+	.fs-xxlw410{
+	    width: 41rem;
+	}
+	.fs-xxlw411{
+	    width: 41.1rem;
+	}
+	.fs-xxlw412{
+	    width: 41.2rem;
+	}
+	.fs-xxlw413{
+	    width: 41.3rem;
+	}
+	.fs-xxlw414{
+	    width: 41.4rem;
+	}
+	.fs-xxlw415{
+	    width: 41.5rem;
+	}
+	.fs-xxlw416{
+	    width: 41.6rem;
+	}
+	.fs-xxlw417{
+	    width: 41.7rem;
+	}
+	.fs-xxlw418{
+	    width: 41.8rem;
+	}
+	.fs-xxlw419{
+	    width: 41.9rem;
+	}
+	.fs-xxlw420{
+	    width: 42rem;
+	}
+	.fs-xxlw421{
+	    width: 42.1rem;
+	}
+	.fs-xxlw422{
+	    width: 42.2rem;
+	}
+	.fs-xxlw423{
+	    width: 42.3rem;
+	}
+	.fs-xxlw424{
+	    width: 42.4rem;
+	}
+	.fs-xxlw425{
+	    width: 42.5rem;
+	}
+	.fs-xxlw426{
+	    width: 42.6rem;
+	}
+	.fs-xxlw427{
+	    width: 42.7rem;
+	}
+	.fs-xxlw428{
+	    width: 42.8rem;
+	}
+	.fs-xxlw429{
+	    width: 42.9rem;
+	}
+	.fs-xxlw430{
+	    width: 43rem;
+	}
+	.fs-xxlw431{
+	    width: 43.1rem;
+	}
+	.fs-xxlw432{
+	    width: 43.2rem;
+	}
+	.fs-xxlw433{
+	    width: 43.3rem;
+	}
+	.fs-xxlw434{
+	    width: 43.4rem;
+	}
+	.fs-xxlw435{
+	    width: 43.5rem;
+	}
+	.fs-xxlw436{
+	    width: 43.6rem;
+	}
+	.fs-xxlw437{
+	    width: 43.7rem;
+	}
+	.fs-xxlw438{
+	    width: 43.8rem;
+	}
+	.fs-xxlw439{
+	    width: 43.9rem;
+	}
+	.fs-xxlw440{
+	    width: 44rem;
+	}
+	.fs-xxlw441{
+	    width: 44.1rem;
+	}
+	.fs-xxlw442{
+	    width: 44.2rem;
+	}
+	.fs-xxlw443{
+	    width: 44.3rem;
+	}
+	.fs-xxlw444{
+	    width: 44.4rem;
+	}
+	.fs-xxlw445{
+	    width: 44.5rem;
+	}
+	.fs-xxlw446{
+	    width: 44.6rem;
+	}
+	.fs-xxlw447{
+	    width: 44.7rem;
+	}
+	.fs-xxlw448{
+	    width: 44.8rem;
+	}
+	.fs-xxlw449{
+	    width: 44.9rem;
+	}
+	.fs-xxlw450{
+	    width: 45rem;
+	}
+	.fs-xxlw451{
+	    width: 45.1rem;
+	}
+	.fs-xxlw452{
+	    width: 45.2rem;
+	}
+	.fs-xxlw453{
+	    width: 45.3rem;
+	}
+	.fs-xxlw454{
+	    width: 45.4rem;
+	}
+	.fs-xxlw455{
+	    width: 45.5rem;
+	}
+	.fs-xxlw456{
+	    width: 45.6rem;
+	}
+	.fs-xxlw457{
+	    width: 45.7rem;
+	}
+	.fs-xxlw458{
+	    width: 45.8rem;
+	}
+	.fs-xxlw459{
+	    width: 45.9rem;
+	}
+	.fs-xxlw460{
+	    width: 46rem;
+	}
+	.fs-xxlw461{
+	    width: 46.1rem;
+	}
+	.fs-xxlw462{
+	    width: 46.2rem;
+	}
+	.fs-xxlw463{
+	    width: 46.3rem;
+	}
+	.fs-xxlw464{
+	    width: 46.4rem;
+	}
+	.fs-xxlw465{
+	    width: 46.5rem;
+	}
+	.fs-xxlw466{
+	    width: 46.6rem;
+	}
+	.fs-xxlw467{
+	    width: 46.7rem;
+	}
+	.fs-xxlw468{
+	    width: 46.8rem;
+	}
+	.fs-xxlw469{
+	    width: 46.9rem;
+	}
+	.fs-xxlw470{
+	    width: 47rem;
+	}
+	.fs-xxlw471{
+	    width: 47.1rem;
+	}
+	.fs-xxlw472{
+	    width: 47.2rem;
+	}
+	.fs-xxlw473{
+	    width: 47.3rem;
+	}
+	.fs-xxlw474{
+	    width: 47.4rem;
+	}
+	.fs-xxlw475{
+	    width: 47.5rem;
+	}
+	.fs-xxlw476{
+	    width: 47.6rem;
+	}
+	.fs-xxlw477{
+	    width: 47.7rem;
+	}
+	.fs-xxlw478{
+	    width: 47.8rem;
+	}
+	.fs-xxlw479{
+	    width: 47.9rem;
+	}
+	.fs-xxlw480{
+	    width: 48rem;
+	}
+	.fs-xxlw481{
+	    width: 48.1rem;
+	}
+	.fs-xxlw482{
+	    width: 48.2rem;
+	}
+	.fs-xxlw483{
+	    width: 48.3rem;
+	}
+	.fs-xxlw484{
+	    width: 48.4rem;
+	}
+	.fs-xxlw485{
+	    width: 48.5rem;
+	}
+	.fs-xxlw486{
+	    width: 48.6rem;
+	}
+	.fs-xxlw487{
+	    width: 48.7rem;
+	}
+	.fs-xxlw488{
+	    width: 48.8rem;
+	}
+	.fs-xxlw489{
+	    width: 48.9rem;
+	}
+	.fs-xxlw490{
+	    width: 49rem;
+	}
+	.fs-xxlw491{
+	    width: 49.1rem;
+	}
+	.fs-xxlw492{
+	    width: 49.2rem;
+	}
+	.fs-xxlw493{
+	    width: 49.3rem;
+	}
+	.fs-xxlw494{
+	    width: 49.4rem;
+	}
+	.fs-xxlw495{
+	    width: 49.5rem;
+	}
+	.fs-xxlw496{
+	    width: 49.6rem;
+	}
+	.fs-xxlw497{
+	    width: 49.7rem;
+	}
+	.fs-xxlw498{
+	    width: 49.8rem;
+	}
+	.fs-xxlw499{
+	    width: 49.9rem;
+	}
+	.fs-xxlw500{
+	    width: 50rem;
+	}
+	.fs-xxlw1_2{
+	    width: 50%;
+	}
+	.fs-xxlw1_3{
+	    width: 33.3333333333333%;
+	}
+	.fs-xxlw2_3{
+	    width: 66.6666666666667%;
+	}
+	.fs-xxlw1_4{
+	    width: 25%;
+	}
+	.fs-xxlw2_4{
+	    width: 50%;
+	}
+	.fs-xxlw3_4{
+	    width: 75%;
+	}
+	.fs-xxlw1_5{
+	    width: 20%;
+	}
+	.fs-xxlw2_5{
+	    width: 40%;
+	}
+	.fs-xxlw3_5{
+	    width: 60%;
+	}
+	.fs-xxlw4_5{
+	    width: 80%;
+	}
+	.fs-xxlw1_6{
+	    width: 16.6666666666667%;
+	}
+	.fs-xxlw2_6{
+	    width: 33.3333333333333%;
+	}
+	.fs-xxlw3_6{
+	    width: 50%;
+	}
+	.fs-xxlw4_6{
+	    width: 66.6666666666667%;
+	}
+	.fs-xxlw5_6{
+	    width: 83.3333333333333%;
+	}
+	.fs-xxlw1_7{
+	    width: 14.2857142857143%;
+	}
+	.fs-xxlw2_7{
+	    width: 28.5714285714286%;
+	}
+	.fs-xxlw3_7{
+	    width: 42.8571428571429%;
+	}
+	.fs-xxlw4_7{
+	    width: 57.1428571428571%;
+	}
+	.fs-xxlw5_7{
+	    width: 71.4285714285714%;
+	}
+	.fs-xxlw6_7{
+	    width: 85.7142857142857%;
+	}
+	.fs-xxlw1_8{
+	    width: 12.5%;
+	}
+	.fs-xxlw2_8{
+	    width: 25%;
+	}
+	.fs-xxlw3_8{
+	    width: 37.5%;
+	}
+	.fs-xxlw4_8{
+	    width: 50%;
+	}
+	.fs-xxlw5_8{
+	    width: 62.5%;
+	}
+	.fs-xxlw6_8{
+	    width: 75%;
+	}
+	.fs-xxlw7_8{
+	    width: 87.5%;
+	}
+	.fs-xxlw1_9{
+	    width: 11.1111111111111%;
+	}
+	.fs-xxlw2_9{
+	    width: 22.2222222222222%;
+	}
+	.fs-xxlw3_9{
+	    width: 33.3333333333333%;
+	}
+	.fs-xxlw4_9{
+	    width: 44.4444444444444%;
+	}
+	.fs-xxlw5_9{
+	    width: 55.5555555555556%;
+	}
+	.fs-xxlw6_9{
+	    width: 66.6666666666667%;
+	}
+	.fs-xxlw7_9{
+	    width: 77.7777777777778%;
+	}
+	.fs-xxlw8_9{
+	    width: 88.8888888888889%;
+	}
+	.fs-xxlw1_10{
+	    width: 10%;
+	}
+	.fs-xxlw2_10{
+	    width: 20%;
+	}
+	.fs-xxlw3_10{
+	    width: 30%;
+	}
+	.fs-xxlw4_10{
+	    width: 40%;
+	}
+	.fs-xxlw5_10{
+	    width: 50%;
+	}
+	.fs-xxlw6_10{
+	    width: 60%;
+	}
+	.fs-xxlw7_10{
+	    width: 70%;
+	}
+	.fs-xxlw8_10{
+	    width: 80%;
+	}
+	.fs-xxlw9_10{
+	    width: 90%;
+	}
+	.fs-xxlw1_11{
+	    width: 9.09090909090909%;
+	}
+	.fs-xxlw2_11{
+	    width: 18.1818181818182%;
+	}
+	.fs-xxlw3_11{
+	    width: 27.2727272727273%;
+	}
+	.fs-xxlw4_11{
+	    width: 36.3636363636364%;
+	}
+	.fs-xxlw5_11{
+	    width: 45.4545454545455%;
+	}
+	.fs-xxlw6_11{
+	    width: 54.5454545454545%;
+	}
+	.fs-xxlw7_11{
+	    width: 63.6363636363636%;
+	}
+	.fs-xxlw8_11{
+	    width: 72.7272727272727%;
+	}
+	.fs-xxlw9_11{
+	    width: 81.8181818181818%;
+	}
+	.fs-xxlw10_11{
+	    width: 90.9090909090909%;
+	}
+	.fs-xxlw1_12{
+	    width: 8.33333333333333%;
+	}
+	.fs-xxlw2_12{
+	    width: 16.6666666666667%;
+	}
+	.fs-xxlw3_12{
+	    width: 25%;
+	}
+	.fs-xxlw4_12{
+	    width: 33.3333333333333%;
+	}
+	.fs-xxlw5_12{
+	    width: 41.6666666666667%;
+	}
+	.fs-xxlw6_12{
+	    width: 50%;
+	}
+	.fs-xxlw7_12{
+	    width: 58.3333333333333%;
+	}
+	.fs-xxlw8_12{
+	    width: 66.6666666666667%;
+	}
+	.fs-xxlw9_12{
+	    width: 75%;
+	}
+	.fs-xxlw10_12{
+	    width: 83.3333333333333%;
+	}
+	.fs-xxlw11_12{
+	    width: 91.6666666666667%;
+	}
+
 }
