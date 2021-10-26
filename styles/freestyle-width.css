@@ -1709,8 +1709,14 @@
 .fs-w11_12{
     width: 91.6666666666667%;
 }
-@media (min-widtw: 576px) {
+@media (min-width: 576px) {
 	/* width */
+	.fs-swfull{
+		width: 100%;
+	}
+	.fs-swscreen{
+		width: 100vw;
+	}
 	.fs-sw0{
 	    width: 0px;
 	}
@@ -3416,8 +3422,14 @@
 	    width: 91.6666666666667%;
 	}
 }
-@media (min-widtw: 768px) {
+@media (min-width: 768px) {
 	/* width */
+	.fs-mwfull{
+		width: 100%;
+	}
+	.fs-mwscreen{
+		width: 100vw;
+	}
 	.fs-mw0{
 	    width: 0px;
 	}
@@ -5124,8 +5136,14 @@
 	}
 
 }
-@media (min-widtw: 992px) {
+@media (min-width: 992px) {
 	/* width */
+	.fs-lwfull{
+		width: 100%;
+	}
+	.fs-lwscreen{
+		width: 100vw;
+	}
 	.fs-lw0{
 	    width: 0px;
 	}
@@ -6832,8 +6850,14 @@
 	}
 
 }
-@media (min-widtw: 1200px) {
+@media (min-width: 1200px) {
 	/* width */
+	.fs-xlwfull{
+		width: 100%;
+	}
+	.fs-xlwscreen{
+		width: 100vw;
+	}
 	.fs-xlw0{
 	    width: 0px;
 	}
@@ -8540,8 +8564,14 @@
 	}
 
 }
-@media (min-widtw: 1400px) {
+@media (min-width: 1400px) {
 	/* width */
+	.fs-xxlwfull{
+		width: 100%;
+	}
+	.fs-xxlwscreen{
+		width: 100vw;
+	}
 	.fs-xxlw0{
 	    width: 0px;
 	}
