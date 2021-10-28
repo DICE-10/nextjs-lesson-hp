@@ -8,9 +8,9 @@ export default function Navbar({ children }) {
     return (
             <div className="fs-header">
                 <div className="fs-hamburger">
-                    <input type="checkbox" name="navToggle" id="navToggle" className="fs-nav-toggle fs-nav-leftin black50" />
+                    <input type="checkbox" name="navToggle" id="navToggle" className="fs-nav-toggle fs-nav-leftin white90" />
                     <label htmlFor="navToggle" className="fs-btn-burger">
-                        <span className="fs-hamburger-icon"></span>
+                        <span className="fs-hamburger-icon-b"></span>
                     </label>
                 
                     <div className="fs-navi fs-grid bg-ghostwhite m-grid-2_3 ">

@@ -1,0 +1,164 @@
+.ts-base{
+    font-size: 1rem;
+}
+.ts-xm{
+    font-size: 0.75rem;
+}
+.ts-sm{
+    font-size: 0.875rem;
+}
+.ts-lg{
+    font-size: 1.125rem;
+}
+.ts-xl{
+    font-size: 1.25rem;
+}
+.ts-2xl{
+    font-size: 1.375rem;
+}
+.ts-3xl{
+    font-size: 1.5rem;
+}
+.ts-4xl{
+    font-size: 1.625rem;
+}
+.ts-5xl{
+    font-size: 1.75rem;
+}
+.ts-6xl{
+    font-size: 1.875rem;
+}
+.ts-7xl{
+    font-size: 2rem;
+}
+.ts-8xl{
+    font-size: 2.125rem;
+}
+.ts-9xl{
+    font-size: 2.25rem;
+}
+.ts-10xl{
+    font-size: 2.375rem;
+}
+.ts-11xl{
+    font-size: 2.5rem;
+}
+.ts-12xl{
+    font-size: 2.625rem;
+}
+.ts-13xl{
+    font-size: 2.75rem;
+}
+.ts-14xl{
+    font-size: 2.875rem;
+}
+.ts-15xl{
+    font-size: 3rem;
+}
+
+/*フォント*/
+.font-Arial-s{
+    font-family: 'Arial',serif;
+}
+.font-Arial-ss{
+    font-family: 'Arial',sans-serif;
+}
+.font-Arial-c{
+    font-family: 'Arial',cursive;
+}
+.font-Arial-f{
+    font-family: 'Arial',fantasy;
+}
+.font-Arial-m{
+    font-family: 'Arial',monospace;
+}
+
+.font-Georgia-s{
+    font-family: 'Georgia',serif;
+}
+.font-Georgia-ss{
+    font-family: 'Georgia',sans-serif;
+}
+.font-Georgia-c{
+    font-family: 'Georgia',cursive;
+}
+.font-Georgia-f{
+    font-family: 'Georgia',fantasy;
+}
+.font-Georgia-m{
+    font-family: 'Georgia',monospace;
+}
+
+.font-TimesNewRoman-s{
+    font-family: 'Times New Roman',serif;
+}
+.font-TimesNewRoman-ss{
+    font-family: 'Times New Roman',sans-serif;
+}
+.font-TimesNewRoman-c{
+    font-family: 'Times New Roman',cursive;
+}
+.font-TimesNewRoman-f{
+    font-family: 'Times New Roman',fantasy;
+}
+.font-TimesNewRoman-m{
+    font-family: 'Times New Roman',monospace;
+}
+
+.font-TrebuchetMS-s{
+    font-family: 'Trebuchet MS',serif;
+}
+.font-TrebuchetMS-ss{
+    font-family: 'Trebuchet MS',sans-serif;
+}
+.font-TrebuchetMS-c{
+    font-family: 'Trebuchet MS',cursive;
+}
+.font-TrebuchetMS-f{
+    font-family: 'Trebuchet MS',fantasy;
+}
+.font-TrebuchetMS-m{
+    font-family: 'Trebuchet MS',monospace;
+}
+
+.font-Verdana-s{
+    font-family: 'Verdana',serif;
+}
+.font-Verdana-ss{
+    font-family: 'Verdana',sans-serif;
+}
+.font-Verdana-c{
+    font-family: 'Verdana',cursive;
+}
+.font-Verdana-f{
+    font-family: 'Verdana',fantasy;
+}
+.font-Verdana-m{
+    font-family: 'Verdana',monospace;
+}
+/*フォントスタイル*/
+.font-normal{
+    font-style: normal;
+}
+.font-italic{
+    font-style: italic;
+}
+.font-oblique{
+    font-style: oblique;
+}
+
+@media (min-width: 576px) {
+
+}
+@media (min-width: 768px) {
+
+}
+@media (min-width: 992px) {
+
+}
+@media (min-width: 1200px) {
+
+}
+@media (min-width: 1400px) {
+
+}

@@ -5,6 +5,7 @@
 @import "freestyle-margin.css";
 @import "freestyle-width.css";
 @import "freestyle-height.css";
+@import "freestyle-font.css";
 
 :root{
 }
@@ -87,6 +88,10 @@ body{
     transition: all .2s;
     opacity: 1;
 }
+.fs-hamburger{
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    tap-highlight-color: rgba(0, 0, 0, 0);
+}
 
 .fs-menu-toggle{
     display: none;
@@ -136,9 +141,12 @@ body{
     }
 }
 @media (max-width: 767px) {
-    .fs-hamburger-icon,
-    .fs-hamburger-icon:before,
-    .fs-hamburger-icon:after{
+    .fs-hamburger-icon-w,
+    .fs-hamburger-icon-w:before,
+    .fs-hamburger-icon-w:after,
+    .fs-hamburger-icon-b,
+    .fs-hamburger-icon-b:before,
+    .fs-hamburger-icon-b:after{
         position: absolute;
         top: 0;
         right: 0;
@@ -165,11 +173,13 @@ body{
         right: 10px;
         z-index: 999;
     }
-    .fs-hamburger-icon:before{
+    .fs-hamburger-icon-w:before,
+    .fs-hamburger-icon-b:before{
         top: 20px;
     }
 
-    .fs-hamburger-icon:after{
+    .fs-hamburger-icon-w:after,
+    .fs-hamburger-icon-b:after{
         top: -20px;
     }
     .fs-hamburger{
@@ -185,17 +195,30 @@ body{
         display: flex;
     }
     /*アイコンをクリックしたら*/
-    .fs-nav-toggle:checked ~ .fs-btn-burger .fs-hamburger-icon {
+    .fs-nav-toggle:checked ~ .fs-btn-burger .fs-hamburger-icon-w {
         background: transparent;
     }
-    .fs-nav-toggle:checked ~ .fs-btn-burger .fs-hamburger-icon:before {
+    .fs-nav-toggle:checked ~ .fs-btn-burger .fs-hamburger-icon-w:before {
         transform: rotate(-45deg);
         background-color: white;
         top: 0;
     }
-    .fs-nav-toggle:checked ~ .fs-btn-burger .fs-hamburger-icon:after {
+    .fs-nav-toggle:checked ~ .fs-btn-burger .fs-hamburger-icon-w:after {
         transform: rotate(45deg);
         background-color: white;
+        top: 0;
+    }
+    .fs-nav-toggle:checked ~ .fs-btn-burger .fs-hamburger-icon-b {
+        background: transparent;
+    }
+    .fs-nav-toggle:checked ~ .fs-btn-burger .fs-hamburger-icon-b:before {
+        transform: rotate(-45deg);
+        background-color: black;
+        top: 0;
+    }
+    .fs-nav-toggle:checked ~ .fs-btn-burger .fs-hamburger-icon-b:after {
+        transform: rotate(45deg);
+        background-color: black;
         top: 0;
     }
 
@@ -343,9 +366,12 @@ body{
         cursor: pointer;
     }
     
-    .fs-hamburger-icon,
-    .fs-hamburger-icon:before,
-    .fs-hamburger-icon:after {
+    .fs-hamburger-icon-w,
+    .fs-hamburger-icon-w:before,
+    .fs-hamburger-icon-w:after,
+    .fs-hamburger-icon-b,
+    .fs-hamburger-icon-b:before,
+    .fs-hamburger-icon-b:after  {
         transition: all .2s;
     }
     .fs-nav-toggle:checked ~  .fs-navi .fs-nav-menu{
@@ -382,7 +408,36 @@ body{
     .fs-nav-toggle.black:checked ~  .fs-navi .fs-nav-menu{
         background-color: rgba(0, 0, 0, 1);
     }
-
+    .fs-nav-toggle.white10:checked ~  .fs-navi .fs-nav-menu{
+        background-color: rgba(255, 255, 255, 0.1);
+    }
+    .fs-nav-toggle.white20:checked ~  .fs-navi .fs-nav-menu {
+        background-color: rgba(255, 255, 255, 0.2);
+    }
+    .fs-nav-toggle.white30:checked ~  .fs-navi .fs-nav-menu{
+        background-color: rgba(255, 255, 255, 0.3);
+    }
+    .fs-nav-toggle.white40:checked ~  .fs-navi .fs-nav-menu{
+        background-color: rgba(255, 255, 255, 0.4);
+    }
+    .fs-nav-toggle.white50:checked ~  .fs-navi .fs-nav-menu{
+        background-color: rgba(255, 255, 255, 0.5);
+    }
+    .fs-nav-toggle.white60:checked ~  .fs-navi .fs-nav-menu{
+        background-color: rgba(255, 255, 255, 0.6);
+    }
+    .fs-nav-toggle.white70:checked ~  .fs-navi .fs-nav-menu{
+        background-color: rgba(255, 255, 255, 0.7);
+    }
+    .fs-nav-toggle.white80:checked ~  .fs-navi .fs-nav-menu{
+        background-color: rgba(255, 255, 255, 0.8);
+    }
+    .fs-nav-toggle.white90:checked ~  .fs-navi .fs-nav-menu{
+        background-color: rgba(255, 255, 255, 0.9);
+    }
+    .fs-nav-toggle.white:checked ~  .fs-navi .fs-nav-menu{
+        background-color: rgba(255, 255, 255, 1);
+    }
     .fs-dropdown-top{
         height: 3rem;
     }
