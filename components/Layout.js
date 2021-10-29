@@ -10,7 +10,7 @@ export default function Layout({ children, title = "HP by Nextjs" }) {
                 <title>{title}</title>
                 <meta httpEquiv="Content-Security-Policy" content="upgrade-insecure-requests"></meta>
             </Head>
-            <header>
+            <header className="fs-wfull">
                 <Navbar/>
                 {/* <nav className="bg-gray-800 w-screen">
                     <div className="flex items-center pl-8 h-14">
@@ -39,7 +39,7 @@ export default function Layout({ children, title = "HP by Nextjs" }) {
                     </div>
                 </nav> */}
             </header>
-            <main className="flex flex-1 justify-center items-center flex-col fs-wscreen bg-gray-50">
+            <main className="flex flex-1 justify-center items-center flex-col fs-wfull bg-gray-50">
                 {children}
             </main>
             <footer className="w-full h-12 flex justify-center items-center border-t">

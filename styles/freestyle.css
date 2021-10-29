@@ -73,7 +73,7 @@ body{
     grid-template-columns: repeat(12, minmax(0, 1fr));
 }
 .fs-header{
-    width: 100vw;
+    /*width: 100vw;*/
     height: 50px;
     /*padding: 20px 50px;*/
 }
@@ -135,6 +135,49 @@ body{
 .fs-aspectWIDE-vert{
     aspect-ratio: 10/16;
 }
+.fs-aspect1-1{
+    aspect-ratio: 1/1;
+}
+.fs-talgin-c{
+    text-align: center;
+}
+.order1{
+    order: 1;
+}
+.order2{
+    order: 2;
+}
+.order3{
+    order: 3;
+}
+.order4{
+    order: 4;
+}
+.order5{
+    order: 5;
+}
+.order6{
+    order: 6;
+}
+.order7{
+    order: 7;
+}
+.order8{
+    order: 8;
+}
+.order9{
+    order: 9;
+}
+.order10{
+    order: 10;
+}
+.order11{
+    order: 11;
+}
+.order12{
+    order: 12;
+}
+
 @media (max-width: 575px) {
     .fs-container {
         max-width: 90%;
@@ -490,6 +533,42 @@ body{
     .s-grid-col-12{
         grid-template-columns: repeat(12, minmax(0, 1fr));
     }
+    .s-order1{
+        order: 1;
+    }
+    .s-order2{
+        order: 2;
+    }
+    .s-order3{
+        order: 3;
+    }
+    .s-order4{
+        order: 4;
+    }
+    .s-order5{
+        order: 5;
+    }
+    .s-order6{
+        order: 6;
+    }
+    .s-order7{
+        order: 7;
+    }
+    .s-order8{
+        order: 8;
+    }
+    .s-order9{
+        order: 9;
+    }
+    .s-order10{
+        order: 10;
+    }
+    .s-order11{
+        order: 11;
+    }
+    .s-order12{
+        order: 12;
+    }
     
 }
 @media (min-width: 768px) {
@@ -636,6 +715,42 @@ body{
         justify-content: center;
         padding: 1.4rem 0;
     }
+    .m-order1{
+        order: 1;
+    }
+    .m-order2{
+        order: 2;
+    }
+    .m-order3{
+        order: 3;
+    }
+    .m-order4{
+        order: 4;
+    }
+    .m-order5{
+        order: 5;
+    }
+    .m-order6{
+        order: 6;
+    }
+    .m-order7{
+        order: 7;
+    }
+    .m-order8{
+        order: 8;
+    }
+    .m-order9{
+        order: 9;
+    }
+    .m-order10{
+        order: 10;
+    }
+    .m-order11{
+        order: 11;
+    }
+    .m-order12{
+        order: 12;
+    }
 }
 @media (min-width: 992px) {
     .fs-col{
@@ -683,6 +798,42 @@ body{
     /*.fs-navi{
         position: fixed;
     }*/
+    .l-order1{
+        order: 1;
+    }
+    .l-order2{
+        order: 2;
+    }
+    .l-order3{
+        order: 3;
+    }
+    .l-order4{
+        order: 4;
+    }
+    .l-order5{
+        order: 5;
+    }
+    .l-order6{
+        order: 6;
+    }
+    .l-order7{
+        order: 7;
+    }
+    .l-order8{
+        order: 8;
+    }
+    .l-order9{
+        order: 9;
+    }
+    .l-order10{
+        order: 10;
+    }
+    .l-order11{
+        order: 11;
+    }
+    .l-order12{
+        order: 12;
+    }
 }
 @media (min-width: 1200px) {
     .fs-col{
@@ -691,6 +842,42 @@ body{
     .xl-container, .l-container, .m-container, .s-container, .fs-container {
         max-width: 1140px;
     }
+    .xl-order1{
+        order: 1;
+    }
+    .xl-order2{
+        order: 2;
+    }
+    .xl-order3{
+        order: 3;
+    }
+    .xl-order4{
+        order: 4;
+    }
+    .xl-order5{
+        order: 5;
+    }
+    .xl-order6{
+        order: 6;
+    }
+    .xl-order7{
+        order: 7;
+    }
+    .xl-order8{
+        order: 8;
+    }
+    .xl-order9{
+        order: 9;
+    }
+    .xl-order10{
+        order: 10;
+    }
+    .xl-order11{
+        order: 11;
+    }
+    .xl-order12{
+        order: 12;
+    }
 }
 @media (min-width: 1400px) {
     .fs-col{
@@ -698,6 +885,42 @@ body{
     }
     .xxl-container, .xl-container, .l-container, .m-container, .s-container, .fs-container {
         max-width: 1320px;
+    }
+    .xxl-order1{
+        order: 1;
+    }
+    .xxl-order2{
+        order: 2;
+    }
+    .xxl-order3{
+        order: 3;
+    }
+    .xxl-order4{
+        order: 4;
+    }
+    .xxl-order5{
+        order: 5;
+    }
+    .xxl-order6{
+        order: 6;
+    }
+    .xxl-order7{
+        order: 7;
+    }
+    .xxl-order8{
+        order: 8;
+    }
+    .xxl-order9{
+        order: 9;
+    }
+    .xxl-order10{
+        order: 10;
+    }
+    .xxl-order11{
+        order: 11;
+    }
+    .xxl-order12{
+        order: 12;
     }
 }
 

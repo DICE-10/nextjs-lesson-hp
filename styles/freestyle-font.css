@@ -1,17 +1,22 @@
 .ts-base{
     font-size: 1rem;
+    line-height: 1.5rem;
 }
-.ts-xm{
+.ts-xs{
     font-size: 0.75rem;
+    line-height: 1rem;
 }
 .ts-sm{
     font-size: 0.875rem;
+    line-height: 1.25rem;
 }
 .ts-lg{
     font-size: 1.125rem;
+    line-height: 1.75rem;
 }
 .ts-xl{
     font-size: 1.25rem;
+    line-height: 1.75rem;
 }
 .ts-2xl{
     font-size: 1.375rem;
@@ -30,6 +35,7 @@
 }
 .ts-7xl{
     font-size: 2rem;
+    line-height: 2.5rem;
 }
 .ts-8xl{
     font-size: 2.125rem;
@@ -145,6 +151,20 @@
 }
 .font-oblique{
     font-style: oblique;
+}
+
+/*フォント weight*/
+.font-w-normal{
+    font-weight: normal;
+}
+.font-wbold{
+    font-weight: bold;
+}
+.font-w-lighter{
+    font-weight: lighter;
+}
+.font-w-bolder{
+    font-weight: bolder;
 }
 
 @media (min-width: 576px) {
